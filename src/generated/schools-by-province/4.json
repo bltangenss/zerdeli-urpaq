@@ -1,0 +1,4314 @@
+[
+  {
+    "id": "8245",
+    "name": "201 мектеп-гимназиясы",
+    "districtId": "228",
+    "districtName": "Алатау",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7967",
+    "name": "Кешкі мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7951",
+    "name": "№1 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7952",
+    "name": "№3 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7953",
+    "name": "№5 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8094",
+    "name": "№7 орта мектеп, Еңбек ықшамауданы",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7956",
+    "name": "№11 орта мектеп Арна ауылы",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7955",
+    "name": "№11 орта мектеп Дәулет ауылы",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7954",
+    "name": "№11 орта мектеп Жетіген ауылы",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7957",
+    "name": "№12 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7958",
+    "name": "№25 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7959",
+    "name": "№30 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7960",
+    "name": "№32 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7961",
+    "name": "№33 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7962",
+    "name": "№34 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7963",
+    "name": "№35 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7964",
+    "name": "№46 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7965",
+    "name": "№47 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7966",
+    "name": "№52 орта мектеп",
+    "districtId": "223",
+    "districtName": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1330",
+    "name": "Ақдала орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1172",
+    "name": "Ақкөл орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1736",
+    "name": "Аралтөбе орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1198",
+    "name": "Ә.Ахметов атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1779",
+    "name": "Б.Бейсекбаев атындағы мектеп-гимназиясы мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1421",
+    "name": "Бақанас мектеп-интернаты",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1576",
+    "name": "Береке орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1455",
+    "name": "Бояулы шағын жинақталған бастауыш мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1814",
+    "name": "Бірлік орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1633",
+    "name": "Д.Қонаев атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1179",
+    "name": "Ж.Бәрібаев атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1602",
+    "name": "Жиделі орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1686",
+    "name": "Көкжиде орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1653",
+    "name": "Қарағаш орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1540",
+    "name": "Мектепке дейінгі шағын орталығы бар Мұсабек Сеңгірбаев атындағы орта мектеп",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1707",
+    "name": "Мектепке дейінгі шағын орталығымен Үлгілі орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1331",
+    "name": "Н.Бозжанов атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1292",
+    "name": "Топар орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1380",
+    "name": "Үшжарма негізгі орта мектеп жанындағы интернат",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1189",
+    "name": "Ы. Алтынсарин атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1795",
+    "name": "№ 1 Жамбыл атындағы орта мектебі",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1206",
+    "name": "№ 2 Жамбыл атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "55",
+    "districtName": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8280",
+    "name": "\"ALTYN ADAM\" инновациялық мектебі ЖШС",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2090",
+    "name": "А.Байтурсынов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2113",
+    "name": "А.Бубенцов атындағы орта мектеп - мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1932",
+    "name": "А.Жексембеков атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1253",
+    "name": "А.Мәлкеев атындағы Есік мамандандырылған дарынды балаларға арналған БІЛІМ-ИННОВАЦИЯ лицей-интернаты",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2168",
+    "name": "А.Саттаров атындағы орта мектеп - мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2061",
+    "name": "Абай атындағы қазақ орта мектебі- мектеп жанындағы интернатымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2130",
+    "name": "Абай атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1499",
+    "name": "Абылай хан атындағы №4 орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1220",
+    "name": "Азат негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2078",
+    "name": "Ақбастау орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1417",
+    "name": "Ақтоған орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1161",
+    "name": "Алға орта мектебі- мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2067",
+    "name": "Алтынбике Бертаева атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2142",
+    "name": "Әймен орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1395",
+    "name": "Әл-Фараби атындағы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1347",
+    "name": "Әлия Молдағұлова атындағы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1260",
+    "name": "Б.Майлин атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2162",
+    "name": "Б.Момышұлы атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1326",
+    "name": "Базаркелді бастауыш мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2071",
+    "name": "Балтабай орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1252",
+    "name": "Баяндай негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1965",
+    "name": "Бәйтерек орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2079",
+    "name": "Бөлек батыр атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1194",
+    "name": "В.Терешкова атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1552",
+    "name": "Д.Қонаев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1287",
+    "name": "Дихан негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1203",
+    "name": "Екпінді орталау мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1340",
+    "name": "Еңбек орта мектебі - Өрнек бастауыш мектебімен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2129",
+    "name": "Ж.Каипов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2040",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2141",
+    "name": "Жаңашаруа орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2099",
+    "name": "Жекеменшік гуманитарлық гимназия М-е",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1951",
+    "name": "И.Жансүгіров атындағы орта мектеп - мектепке дейінгі шағын орталығымен және Базаркелді бастауыш мектебімен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2092",
+    "name": "И.Саттаров атындағы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2183",
+    "name": "И.Таиров атындағы орта мектеп-мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2060",
+    "name": "И.Шорманов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2045",
+    "name": "Көктөбе орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1176",
+    "name": "Көлді орта мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1974",
+    "name": "Қ.Орымбетов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1542",
+    "name": "Қ.Сатпаев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1328",
+    "name": "Қазақстан орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1193",
+    "name": "Қазатком орталау мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1271",
+    "name": "Қайрат негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1433",
+    "name": "Қойшыбек орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2147",
+    "name": "Қорам орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1280",
+    "name": "Құрөзек негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1282",
+    "name": "Қызылқазақ бастауыш мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2171",
+    "name": "М. Әуезов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2118",
+    "name": "М.Горький атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1792",
+    "name": "М.Ломоносов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2170",
+    "name": "М.Мақатаев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1452",
+    "name": "М.Маметова атындағы орта мектеп - мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1911",
+    "name": "Малыбай орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1476",
+    "name": "Масақ орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7250",
+    "name": "Мейір жекеменшік мектеп-гимназиясы",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7137",
+    "name": "Мейірімді періште жекеменшік мектеп гимназиясы",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1901",
+    "name": "Н. Островский атындағы орта мектеп - мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2109",
+    "name": "Нұрлы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2021",
+    "name": "О.Жандосов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2038",
+    "name": "О.Жандосов атындағы орта мектеп -интернаты",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2182",
+    "name": "О.Мухаммадий атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1383",
+    "name": "Өрнек бастауыш мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8048",
+    "name": "Өрікті ауылының қазақ орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2226",
+    "name": "П.Вихрев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1615",
+    "name": "Р.Тоқатаев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2220",
+    "name": "Райымбек батыр атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2122",
+    "name": "Рахат ауылдық округі №1 орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1895",
+    "name": "Рахат орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1290",
+    "name": "Розыбакиев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2025",
+    "name": "Садық Аманжолов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2104",
+    "name": "Садыр атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2120",
+    "name": "Сарыбұлақ орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1922",
+    "name": "Т.Әубәкіров атындағы орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1283",
+    "name": "Т.Кенжебаев атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2154",
+    "name": "Т.Қабылов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1939",
+    "name": "Т.Рысқұлов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1986",
+    "name": "Талдыбұлақ орта мектебі - мектепке дейінгі шағын орталығымен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1263",
+    "name": "Таутүрген негізгі орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1402",
+    "name": "Толқын орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2030",
+    "name": "Төле би орта мектеі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1475",
+    "name": "Х.Абдуллин атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2080",
+    "name": "Х.Бижанов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2026",
+    "name": "Ш.Уалиханов атындағы орта мектеп",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2007",
+    "name": "Ш.Уәлиханов атындағы №1 орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2139",
+    "name": "Шелек ауылындағы гимназия",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8051",
+    "name": "Шелек ауылындағы қазақ орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2006",
+    "name": "Ы.Алтынсарин атындағы орта мектеп - мектеп жанындағы интернатымен және Қызылқазақ бастауыш мектебімен",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1384",
+    "name": "Ы.Алтынсарин атындағы №1 орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1950",
+    "name": "№1 Азат орта мектебі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2004",
+    "name": "№1 облыстық арнайы мектеп-интернаты",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2144",
+    "name": "№2 облыстық арнайы мектеп-интернаты",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7767",
+    "name": "№6 қазақ орта мектеп-лицеиі",
+    "districtId": "51",
+    "districtName": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1424",
+    "name": "Абай атындағы гимназия мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1154",
+    "name": "Абдолла Қарсақбаев атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1445",
+    "name": "Айдарлы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2195",
+    "name": "Акдала бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1146",
+    "name": "Ақсеңгір ауылының орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1158",
+    "name": "Ақтерек ауылындағы орта мектебі Жаманты бастауыш мектебімен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1266",
+    "name": "Ащысу ауылындағы негізгі орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1725",
+    "name": "Әбдіразақ Мәмиев атындағы негізгі орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1188",
+    "name": "Әсет Бейсеуов атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1156",
+    "name": "Балғабек Қыдырбекұлы атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1222",
+    "name": "Беріктас ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1163",
+    "name": "Бозой негізгі орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2208",
+    "name": "Бұлақ бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1825",
+    "name": "Бірлік бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1669",
+    "name": "Енбекшіарал ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1284",
+    "name": "Жайсан орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1182",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1215",
+    "name": "Жангелдин атындағы орта мектеп Қараарша бастауыш мектебімен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8139",
+    "name": "Карибаев атындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2200",
+    "name": "Көкдала ауылының орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1142",
+    "name": "Көкқайнар ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2188",
+    "name": "Қазыбек бек бекетіндегі орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2167",
+    "name": "Қайназар ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2260",
+    "name": "Қайназар ауылындағы №1 орта мектеп Қайназар бастауыш мектебімен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2107",
+    "name": "Қайназар ауылындағы №2 орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1799",
+    "name": "Қараарша бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1692",
+    "name": "Қарасай негізгі орта мектебі мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1205",
+    "name": "Қарасу орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8104",
+    "name": "Қарғалы ауылының 1 орта мектебі КММ",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1190",
+    "name": "Қарғалы №2 мамандандырылған лицейі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1217",
+    "name": "Қарғалы №3 орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1208",
+    "name": "Қарғалы №4 орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1152",
+    "name": "Қастек орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1742",
+    "name": "Қасымбек ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1806",
+    "name": "Қоғамшыл бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1774",
+    "name": "Қопа бекетіндегі негізгі орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1184",
+    "name": "Мәтібұлақ ауылындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1160",
+    "name": "Мыңбаев ауылындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2131",
+    "name": "Наурызбай батыр Құтпанбетұлы атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2065",
+    "name": "Оспанхан Әубәкіров атындағы орта мектеп Бұлақ бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8090",
+    "name": "Сарыбай би ауылындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1225",
+    "name": "Сарыбастау ауылындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1270",
+    "name": "Саурық батыр ауылындағы орта мектебі Бірлік бастауыш мектебімен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2156",
+    "name": "Сәдуақас Бигельдиев атындағы мектеп-бөбекжай КМҚК",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1210",
+    "name": "Сейдахмет Бердіқұлов атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1243",
+    "name": "Социалистік Еңбек Ері Құдыс Әбсәметов атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1273",
+    "name": "Сұнқар орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1175",
+    "name": "Сұраншы батыр ауылындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2127",
+    "name": "Сүйінбай атындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1288",
+    "name": "Таңбалытас ауылындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2151",
+    "name": "Тарғап ауылындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1196",
+    "name": "Телтай Сәрсенбеков атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1212",
+    "name": "Тоқаш Бокин атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1173",
+    "name": "Тұрар Рысқұлов атындағы орта мектебі және мектеп жанындағы интернатымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2095",
+    "name": "Ұзынағаш ауылындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7732",
+    "name": "Ұзынағаш ауылындағы №1 мектеп лицейі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8093",
+    "name": "Ұзынағаш ауылындағы №2 орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2203",
+    "name": "Үлгілі ауылындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2177",
+    "name": "Үлкен ауылындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2189",
+    "name": "Үмбетәлі Кәрібаев атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2202",
+    "name": "Үңгіртас орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1849",
+    "name": "Үшбұлақ бастауыш мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7585",
+    "name": "Үшқоңыр мектебі жеке меншік мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2181",
+    "name": "Ш. Уәлиханов атындағы орта мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2213",
+    "name": "Шиен ауылындағы орта мектеп Қоғамшыл бастауыш мектебі және мектеп жанындағы интернатымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1573",
+    "name": "Шилібастау бекетіндегі орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1747",
+    "name": "Шолаққарғалы ауылындағы негізгі орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2157",
+    "name": "Cағындық Оспанов атындағы орта мектеп",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7493",
+    "name": "Olzha school жеке меншік мектебі",
+    "districtId": "42",
+    "districtName": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8261",
+    "name": "№225 жалпы білім беретін мектеп",
+    "districtId": "fallback-4-жетісу-1vwi9nw",
+    "districtName": "Жетісу",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2062",
+    "name": "“Майлы Орманов атындағы орта мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1177",
+    "name": "Айтжан Түркебаев атындағы мектеп-лицейі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2049",
+    "name": "Ақай Нүсіпбеков атындағы мектеп-гимназия мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1904",
+    "name": "Ақсай орта мектеп",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1925",
+    "name": "Ақтасты орта мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1276",
+    "name": "Алғабас бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2035",
+    "name": "Әужан Ниязбеков атындағы негізгі мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1226",
+    "name": "Бескөл негізгі мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2003",
+    "name": "Бестөбе орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2029",
+    "name": "Бөлексаз орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1637",
+    "name": "Ереуіл бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2103",
+    "name": "Жалаулы орта мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2123",
+    "name": "Жамал Ермегияев атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1268",
+    "name": "Жіңішке бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2160",
+    "name": "Кеңес Нұрпейісұлы атындағы мектеп-лицейі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1704",
+    "name": "Кеңсу бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1674",
+    "name": "Көкпияз бастауыш мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1971",
+    "name": "Қапез Байғабылұлы атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1994",
+    "name": "Қарабұлақ орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1980",
+    "name": "Қарқара орта мектебі мектепке дейінгі шағын орталығы",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2112",
+    "name": "Өжек Жаңабаев атындағы орта мектеп",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2020",
+    "name": "Сарсенбай Бейсембетұлы атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1739",
+    "name": "Сарыкөл бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2152",
+    "name": "Сәдуақас Серкебаев атындағы орта мектеп-гимназия",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1259",
+    "name": "Сейдахмет Босқынбаев атындағы негізгі мектеп",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2128",
+    "name": "Талды негізгі мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1145",
+    "name": "Тасашы орта мектебіне қарасты интернаты бар мектепке дейінгі шағын орталығымен және Сарыкөл бастауыш мектебімен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1162",
+    "name": "Тұйық орта мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1760",
+    "name": "Түменбай бастауыш мектебі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1958",
+    "name": "Ұзақ Бағаев атындағы орта мектебі мектепке дейінгі шағын орталығы",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1961",
+    "name": "Ыдырыс Көшкінов атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2143",
+    "name": "Іңкәрбек Жұмағұлов атындағы орта мектебі мектепке дейінгі шағын орталығы коммуналдық мемлекеттік мекемесі",
+    "districtId": "45",
+    "districtName": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7522",
+    "name": "`Ybyrai Altynsarin` бастауыш мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7338",
+    "name": "1-BOLASHAQ MEKTEBI жауапкершілігі шектеулі серіктестігі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2258",
+    "name": "А.Байжанов атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1698",
+    "name": "А.С.Макаренко атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2225",
+    "name": "А.С.Пушкин атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2201",
+    "name": "Абай атындағы орта мектеп-гимназиясы мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2066",
+    "name": "Абай ауылындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2044",
+    "name": "Абай ауылындағы №2 орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7073",
+    "name": "АйСаф жеке қыздар мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8099",
+    "name": "Алмалыбақ ауылындағы жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1813",
+    "name": "Алмалыбақ ауылындағы орта мектеп-гимназия",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1490",
+    "name": "Алтын Ауыл орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2146",
+    "name": "Альжан Букарбайкызы атындағы қазақ орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7354",
+    "name": "Асау-Барақ негізгі орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1657",
+    "name": "Ахмета Байтұрсынұлы атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1995",
+    "name": "Ә.Байсалбаев атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1150",
+    "name": "Әл-Фараби атындағы мамандандырылған лицейі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7763",
+    "name": "Б. Соқпақбаев атындағы мектеп-гимназия",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2145",
+    "name": "Б.Қосынов атындағы орта мектеп мектепке дейінгі шағын орталықпен",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1183",
+    "name": "Б.Тамабаев атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7525",
+    "name": "Батан ауылындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2228",
+    "name": "Бауыржана Момышулы атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2057",
+    "name": "Береке орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8091",
+    "name": "Болашақ мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1748",
+    "name": "Бұлақты ауылындағы бастауыш мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2211",
+    "name": "В.Г.Белинский атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8049",
+    "name": "Долан ауылындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7984",
+    "name": "Долан жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8084",
+    "name": "Елтай жайлы мектебі КММ",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1981",
+    "name": "Еңбекші ауылындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1610",
+    "name": "Ж.Бәрібаев атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2050",
+    "name": "Жамбыл атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2239",
+    "name": "Жамбыл ауылындағы №2 орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2036",
+    "name": "Жаңатұрмыс ауылындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7814",
+    "name": "Жармұхамбет ауылдағы №2 орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2106",
+    "name": "Жармұхамбет орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1496",
+    "name": "К. Әзірбаев атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1770",
+    "name": "К. Әзірбаев атындағы орта мектеп (Долан бастауыш мектебі)",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8061",
+    "name": "КГУ \"Комфортная школа в селе Кемертоган\"",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8043",
+    "name": "Кемертоған ауылындағы жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2231",
+    "name": "Кемертоған орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1874",
+    "name": "Көкөзек ауылындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8098",
+    "name": "Көкөзек ауылындығы жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1461",
+    "name": "Қ.Қошмамбетов атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2253",
+    "name": "Қ.Сәтбаев атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7683",
+    "name": "Қазақ-Британ Халықаралық мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2019",
+    "name": "Қайнар орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8100",
+    "name": "Қайнар орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2243",
+    "name": "Қапал батыр атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2207",
+    "name": "Қарасай батыр атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8052",
+    "name": "Қаскелең қаласындағы жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8045",
+    "name": "Қаскелең қаласындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8087",
+    "name": "Қошмамбет ауылындағы жайлы мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1898",
+    "name": "Қырғауылды ауылындағы қазақ орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1527",
+    "name": "Л.Н.Толстой атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1643",
+    "name": "М. Бейсебаев атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2221",
+    "name": "М.Әуезов атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1585",
+    "name": "М.Ғабдуллин атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1847",
+    "name": "М.Маметова атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7766",
+    "name": "Мирас қазақ орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2242",
+    "name": "Н. Әлімқұлов атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2245",
+    "name": "Немере жалпы білім беретін мектеп ЖМ",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2158",
+    "name": "О.Жандосов атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1796",
+    "name": "О.Исаев а. бастауыш мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2196",
+    "name": "О.Исаев ауылындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8253",
+    "name": "Өмірзақ орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2219",
+    "name": "С. Керімбеков атындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2076",
+    "name": "Ушинский атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1724",
+    "name": "Ұлан орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2178",
+    "name": "Үшқоңыр орта мектеп-гимназиясы",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7815",
+    "name": "Үштерек ауылындағы №2 орта мектебі кмм",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1931",
+    "name": "Үштерек орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2117",
+    "name": "Шалқар орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2227",
+    "name": "Шамалған ауылындағы орта мектеп",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8279",
+    "name": "Шамалған ауылындағы орта мектеп КММ",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1209",
+    "name": "Шамалған бекетіндегі жаңа қазақ орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1619",
+    "name": "Ы.Алтынсарин атындағы орта мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7132",
+    "name": "DANA SCHOOL НОМ",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7555",
+    "name": "KursAnt Bilim Group",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1924",
+    "name": "№3 облыстық арнайы мектеп-интернаты",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8041",
+    "name": "Nomad International School",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7523",
+    "name": "RIZA-2017 бастауыш мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7403",
+    "name": "Samay Urpaq бастауыш мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7895",
+    "name": "Shakirt",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7524",
+    "name": "Shoqan Ualikhanov ulttiq mektebi бастауыш мектебі",
+    "districtId": "48",
+    "districtName": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1448",
+    "name": "8 кешкі (ауысымдық) мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1500",
+    "name": "12 кешкі (ауысымдық) мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1493",
+    "name": "14 кешкі (ауысымдық) мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1255",
+    "name": "Абай атындағы Алматы облыстық мамандандырылған гимназия-интернаты",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2001",
+    "name": "Алматы облысы білім басқармасының Қонаев қаласы бойынша білім бөлімі Орта мектеп - гимназиясы",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1611",
+    "name": "Ахмет Жұбанов атындағы №5 орта мектебі",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2015",
+    "name": "Д.А.Қонаев атындағы №1 қазақ орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8107",
+    "name": "Д.А.Қонаев атындағы №1 қазақ орта мектеп”",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1151",
+    "name": "И.Нүсіпбаев атындағы мектеп - интернаты",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1388",
+    "name": "Кешкі (ауысымдық) мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1583",
+    "name": "Қ. Қайсенов атындағы № 4 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2194",
+    "name": "Қ.Жалайыр атындағы № 6 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7765",
+    "name": "Қазақ орта мектеп-лицейі",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2215",
+    "name": "Сарыбұлақ ауылындағы №8 орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7491",
+    "name": "ТКШ БАҚ , Асау-Барақ орта мектебі",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2046",
+    "name": "Шоқан Уалиханов атындағы №2 гимназия",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2031",
+    "name": "Ы. Алтынсарин атындағы №1 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2222",
+    "name": "№ 9 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1794",
+    "name": "№ 12 орта мектеп МДШО",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1510",
+    "name": "№2 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1546",
+    "name": "№3 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2206",
+    "name": "№7 орта мектеп МДШО МKМ",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2234",
+    "name": "№10 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1761",
+    "name": "№11 орта мектеп",
+    "districtId": "49",
+    "districtName": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8134",
+    "name": "Бөбек мектебі",
+    "districtId": "235",
+    "districtName": "Наурызбай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1872",
+    "name": "Абай атынағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1285",
+    "name": "Ақбейіт бастауыш мектебі",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2041",
+    "name": "Албан Асан Барманбекұлы атындағы орта мектеп-гимназиясы мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2108",
+    "name": "Алтынбек Сәрсенбайұлы атындағы орта мектеп Ақбейіт бастауыш мектебімен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2119",
+    "name": "Бердібек Соқпақбаев атындағы орта мектеп-гимназиясы",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2085",
+    "name": "Жаменке орта мектебі мектепке дейінгі шағын орталағымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2097",
+    "name": "Жаңа Текес орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2054",
+    "name": "Көдек Байшығанұлы атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1920",
+    "name": "Көксай орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1945",
+    "name": "Көмірші орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1221",
+    "name": "Қазыбек Шорманов атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1891",
+    "name": "Қайнар орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1662",
+    "name": "Қостөбе бастауыш мектебі",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1820",
+    "name": "Мұқағали Мақатаев атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2074",
+    "name": "Нұрбапа Өмірзақов атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2132",
+    "name": "Ораз Жандосов атындағы орта мектебі мектепке дейінгі шағын орталығымен және Қостөбе бастауыш мектебімен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1942",
+    "name": "Сағат Әшімбаев атындағы орта мектебі",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2094",
+    "name": "Сұраншы Сауранбаев атындағы орта мектеп",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2018",
+    "name": "Тәліп Мұсақұлов атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2073",
+    "name": "Тельман Жанұзақов атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1207",
+    "name": "Шалкөде орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1192",
+    "name": "Шоқан Уалиханов атындағы орта мектеп мектепке дейінгі шағын орталығымен",
+    "districtId": "56",
+    "districtName": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8056",
+    "name": "\"Директ С\" \"Flagman School\"",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8046",
+    "name": "«Алматы облысы білім басқармасының Талғар ауданы бойынша білім бөлімі» мемлекеттік мекемесінің Төңкеріс ауылындағы жайлы мектеп» коммуналдық мемлекеттік мекемесі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2210",
+    "name": "42 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1861",
+    "name": "Абай атындағы №3 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7850",
+    "name": "Алаш заманауи қазақ мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7636",
+    "name": "АНИСА жекеменшік мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2069",
+    "name": "Арыстан мамандандырылған лицей ННБҚ",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1952",
+    "name": "Ахмет Байтұрсынұлы атындағы №7 жалпы білім беретін лицей орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2148",
+    "name": "Әл-Фараби атындағы №31 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2105",
+    "name": "Б.Момышұлы атындағы №35 жалпы білім беретін орта мектеп-гимназиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7699",
+    "name": "Болашак жекеменшік мектеп",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1934",
+    "name": "Жамбыл Жабаев атындағы №6 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2053",
+    "name": "Жеке-меншік білім беру мектебі ДАНА",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1805",
+    "name": "И.Ф.Халипов атындағы №1 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2096",
+    "name": "Қ.Әбдіғұлов атындағы №34 жалпы білім беретін орта мектеп-гимназиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1916",
+    "name": "М.Әуезов атындағы №5 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1835",
+    "name": "Сәкен Сейфуллин атындағы №2 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1968",
+    "name": "Т.Рысқұлов атындағы №9 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2083",
+    "name": "Т.Рысқұлов атындағы №16 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2115",
+    "name": "Талғар аудандық жеке лицей-интернаты №1 ЖМ",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1387",
+    "name": "Талғар қаласындағы облыстық мектеп-интернаты",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7211",
+    "name": "Ханзия",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1988",
+    "name": "Ыбырай Алтынсарин атындағы №49 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8055",
+    "name": "Ыбырай Алтынсарин атындағы №83 мектеп-гиманзиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2116",
+    "name": "Ілияс Жансүгіров атындағы №37 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1219",
+    "name": "Ю.Гагарин атындағы №8 арнаулы лицей",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7270",
+    "name": "Elite School KZ жауапкершілігі шектеулі серіктестігі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7346",
+    "name": "Flagman жекеменшік мектеп",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7789",
+    "name": "GENIUS TALGAR жекеменшік мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7568",
+    "name": "Jainau жекеменшік мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7638",
+    "name": "JOO High School Besagash жекеменшік мектеп",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1890",
+    "name": "№4 жалпы білім беретін орта мектеп-лицейі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2000",
+    "name": "№10 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2014",
+    "name": "№11 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2027",
+    "name": "№12 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2199",
+    "name": "№13 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2047",
+    "name": "№14 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2058",
+    "name": "№15 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2091",
+    "name": "№17 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2102",
+    "name": "№18 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1622",
+    "name": "№19 көпсалалы мектеп-гимназиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1652",
+    "name": "№20 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1690",
+    "name": "№21 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8067",
+    "name": "№21 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1727",
+    "name": "№22 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1762",
+    "name": "№23 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1786",
+    "name": "№24 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7532",
+    "name": "№25 мектеп-гимназиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1811",
+    "name": "№26 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8050",
+    "name": "№27 ЖББ орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2111",
+    "name": "№28 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2124",
+    "name": "№29 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2136",
+    "name": "№30 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2075",
+    "name": "№32 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2087",
+    "name": "№33 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1716",
+    "name": "№36 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2126",
+    "name": "№38 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2137",
+    "name": "№39 жалпы білім беретін орта мектеп",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2153",
+    "name": "№40 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2187",
+    "name": "№41 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8047",
+    "name": "№43 Көлешек орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1289",
+    "name": "№44 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2191",
+    "name": "№45 жалпы білім беретін орта мектеп-гимназиясы",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8063",
+    "name": "№46 жайлы мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8285",
+    "name": "№47 жалпы білім беретін орта мектебі",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8016",
+    "name": "Zerdeli Науырызбай батыр 8\\1",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8015",
+    "name": "Zerdeli Тұздыбастау Махсұтов Сейдахмет 2 Д",
+    "districtId": "57",
+    "districtName": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1495",
+    "name": "А.Розыбакиев ат. ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1627",
+    "name": "Абай атындағы мектеп-гимназиясы",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1773",
+    "name": "Ақтам ОМ МДШО",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1955",
+    "name": "Ардолайты орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1675",
+    "name": "Бірлік-Сүмбе ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1782",
+    "name": "Ғ.Садвақасов атындағы Үлкен Ақсу орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1798",
+    "name": "Дардамты ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1830",
+    "name": "Добын ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1800",
+    "name": "Долайты ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1346",
+    "name": "Дінмұхамед Қонаев атындағы орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1528",
+    "name": "Ж.Құдайбергенов атындағы орта мектебі мектеп жанындағы интернатымен",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1892",
+    "name": "З.Батталханов атындағы ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1821",
+    "name": "И.Искандеров атындағы орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1575",
+    "name": "И.Молутов (Бахтия) ат. №3 ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1753",
+    "name": "Кіші Ақсу орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1908",
+    "name": "Қалжат орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1718",
+    "name": "Қырғызсай орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1851",
+    "name": "М.Жалилов атындағы ОМ МДШО",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1935",
+    "name": "М.Мақсатов атындағы Ұзынтам негізгі мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1265",
+    "name": "М.Таипов атындағы орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1321",
+    "name": "М.Хамраев атындағы орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1869",
+    "name": "Н. Исахметов ат.ОМ",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1425",
+    "name": "Рахат орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1809",
+    "name": "Сұңқар орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1699",
+    "name": "Сүмбе орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1398",
+    "name": "Тасқарасу орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1864",
+    "name": "Тиірмен қазақ орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1844",
+    "name": "Тиірмен ҰОМ МДШО",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1658",
+    "name": "Шошанай орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1450",
+    "name": "Шырын орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1508",
+    "name": "№ 1 Шонжы мектеп-лицейі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1979",
+    "name": "№5 Шонжы орта мектебі",
+    "districtId": "71",
+    "districtName": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2212",
+    "name": "26 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2043",
+    "name": "Ай-Нур жекеше лингвистикалық гимназия-бала-бақша кешені",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1405",
+    "name": "Ә.Молдабеков атындағы №6 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2193",
+    "name": "Әл -Фараби атындағы №46 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7969",
+    "name": "Болашақ кемеңгер мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7758",
+    "name": "ГКУ Средняя школа № 54",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1531",
+    "name": "Жауғашты ауылындағы №10 мекемесіндегі кешкі (ауысым) және кәмелетке толмаған қыздарға арналған жалпы білім беретін мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7786",
+    "name": "ЖСШ Menin Mektebim орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7103",
+    "name": "Кешкі (ауысымдық) мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1589",
+    "name": "Мемлекеттік мекемесінің №31 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7564",
+    "name": "Өрлеу жекеменшік мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1157",
+    "name": "Т.Бокин атындағы №41 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8181",
+    "name": "Тошкен-Тұрғат Сейсекенов атындағы жекеменшік мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1737",
+    "name": "Төлеген Айбергенов атындағы №48 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1889",
+    "name": "Тұрғанбек Қатаев атындағы №22 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1386",
+    "name": "Частная Интеллектуальная школа Юнона",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1166",
+    "name": "Ш.Смағұлов атындағы мамандандырылған физика-математика лицей-интернаты",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7085",
+    "name": "Школа-лицей Квант",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1598",
+    "name": "Ы.Ноғайбаев атындағы № 18 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1982",
+    "name": "І№ 15 К.Азербаев атындағы орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1999",
+    "name": "Ю.А.Гагарин атындағы №16 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7234",
+    "name": "AQNIET EDUCATION",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7081",
+    "name": "ASADELD",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7169",
+    "name": "Montessori Academy",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7657",
+    "name": "Montessori Dala",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1863",
+    "name": "№ 1 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1887",
+    "name": "№ 2 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2051",
+    "name": "№ 3 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1197",
+    "name": "№ 4 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1376",
+    "name": "№ 5 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2250",
+    "name": "№ 8 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2249",
+    "name": "№ 20 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2233",
+    "name": "№ 24 ЛИЦЕЙ",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2230",
+    "name": "№ 28 мектеп-гимназия",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1793",
+    "name": "№ 33 бастауыш мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2217",
+    "name": "№ 36 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2232",
+    "name": "№ 40 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7570",
+    "name": "№ 51орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7759",
+    "name": "№ 53 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7760",
+    "name": "№ 55 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1966",
+    "name": "№7 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2229",
+    "name": "№9 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2248",
+    "name": "№10 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2140",
+    "name": "№11 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1272",
+    "name": "№12 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2223",
+    "name": "№13 М.Макатаев атындағы орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2238",
+    "name": "№14 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2072",
+    "name": "№17 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1738",
+    "name": "№19 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2135",
+    "name": "№21 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1960",
+    "name": "№23 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2179",
+    "name": "№25 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2100",
+    "name": "№27 орта мектебі мектепке дейінгі шағын орталығымен",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1509",
+    "name": "№29 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1548",
+    "name": "№30 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1687",
+    "name": "№32 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1837",
+    "name": "№34 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1906",
+    "name": "№35 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1928",
+    "name": "№37 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1149",
+    "name": "№38 мектеп-гимназия",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "2114",
+    "name": "№39 гимназия",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1597",
+    "name": "№42 орта мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1621",
+    "name": "№43 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1656",
+    "name": "№44 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1693",
+    "name": "№45 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "1710",
+    "name": "№47 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7571",
+    "name": "№49 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7572",
+    "name": "№50 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7805",
+    "name": "№52 орта мектеп",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8062",
+    "name": "Qazaq Inovation School",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "7140",
+    "name": "Sholpan.kz Келешек жекеменшік мектебі",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "8017",
+    "name": "Zerdeli Мичурина 92 В",
+    "districtId": "47",
+    "districtName": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  }
+]

@@ -1,0 +1,2474 @@
+[
+  {
+    "id": "8119",
+    "name": "#149 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7285",
+    "name": "125 SHYMKENT",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7800",
+    "name": "125 SHYMKENT MEKTEBI",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7894",
+    "name": "Абай мектебі (Мөлдір )",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4700",
+    "name": "Абдраш Назарбеков атындағы №87 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7477",
+    "name": "Абылай Хан",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7558",
+    "name": "Асыл (Раушан Үкібас атындағы бастауыш мектебі)",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7528",
+    "name": "Бақыт мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7418",
+    "name": "Бал Қазына (Parasat AJ mektebi)",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4509",
+    "name": "Бекзат Саттарханов атындағы Түркістан облыстық олимпиада резервінің мамандандырылған мектеп-интернат-колледжі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4684",
+    "name": "В.Терешкова атындағы №93 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4750",
+    "name": "Ж №3 кешкі орта мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7171",
+    "name": "Жан-Нұр жалпы білім беру мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7663",
+    "name": "Жас түлек бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7423",
+    "name": "Жас-Дарын-4 бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7455",
+    "name": "Зерек бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4544",
+    "name": "Кенесары Қасымұлы атындағы №82 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7837",
+    "name": "Қазыбек жалпы білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7729",
+    "name": "Қалмұратұлы Оразалы атындағы жалпы орта мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4301",
+    "name": "ҚРҚМ Кеңес Одағының Батыры Сабыр Рахымов ат. Шымкент республикалық Жас ұлан мектебі Р",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4305",
+    "name": "С.Көбеев атындағы №56 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4410",
+    "name": "Сабыр Рақымов атындағы №53 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7113",
+    "name": "Томирис бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4496",
+    "name": "Шымкент қ. физика-математикалық бағыттағы НЗМ филиалы",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4334",
+    "name": "Шымкент қ. химия-биологиялық бағыттағы НЗМ филиалы",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7698",
+    "name": "Ы.Алтынсарин атындағы бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7707",
+    "name": "Abylaikhan innovative school жеке меншік мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7433",
+    "name": "Academy of Golden kids",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7292",
+    "name": "ASAR SCHOOL",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7692",
+    "name": "Bilim orda дарын мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7448",
+    "name": "Bilim-Land бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7458",
+    "name": "BOSTON жалпы білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7406",
+    "name": "Dostyk School Shymkent",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7514",
+    "name": "Erudite private school ЖБ",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7426",
+    "name": "FGS - Болашақ ұрпақ жекеменшік мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7440",
+    "name": "GLOBUS mektebi",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7252",
+    "name": "Intellect физ-мат мектеп-лицейі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7164",
+    "name": "INTELLEKT жалпы орта мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7428",
+    "name": "Keremet мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7115",
+    "name": "Leader Innovation School",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8136",
+    "name": "⁠Leader Innovation school",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7144",
+    "name": "Megapolis мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7752",
+    "name": "№2 TALANT жалпы білім беру мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4710",
+    "name": "№16 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4226",
+    "name": "№51 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4244",
+    "name": "№52 мектеп-лицейі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4260",
+    "name": "№54 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4285",
+    "name": "№55 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4326",
+    "name": "№57 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4375",
+    "name": "№59 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4361",
+    "name": "№60 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4344",
+    "name": "№69 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4632",
+    "name": "№73 Ақтас жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4423",
+    "name": "№83 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4557",
+    "name": "№88 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4594",
+    "name": "№89 ІТ мектеп-лицей",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4728",
+    "name": "№90 дарынды балаларға арналған мамандандырылған мектеп-гимназиясы",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4276",
+    "name": "№95 жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4378",
+    "name": "№106 Қайнарбұлақ жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4280",
+    "name": "№117 Алтынтөбе жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4269",
+    "name": "№118 Көкбұлақ жалпы орта білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4193",
+    "name": "№125 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4216",
+    "name": "№128 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7133",
+    "name": "№133 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7202",
+    "name": "№135 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7230",
+    "name": "№136 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7225",
+    "name": "№137 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7228",
+    "name": "№138 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7860",
+    "name": "№140 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7862",
+    "name": "№141 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8118",
+    "name": "№149 жалпы орта білім беретін мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7515",
+    "name": "NUR BOLASHAK SCHOOL",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7708",
+    "name": "OKS-Education (Seitzhan School)",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7710",
+    "name": "Primary Smart School бастауыш мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7716",
+    "name": "QAINAR-BULAQ негізгі мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7905",
+    "name": "Qazaq bilim academy",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7459",
+    "name": "SAMĞAU жалпы білім беретін мектеп",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7725",
+    "name": "Shahaman зияткерлік мектебі",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8002",
+    "name": "Zerdeli Шымсити 49",
+    "districtId": "155",
+    "districtName": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4649",
+    "name": "А.Макаренко атындағы №41 мектеп-лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4419",
+    "name": "А.Навои атындағы № 11 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4302",
+    "name": "А.С.Пушкин атындағы №1 мектеп-гимназиясы МК",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4523",
+    "name": "Айбек атындағы №14 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7399",
+    "name": "Айгерім МББК",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4396",
+    "name": "Ақпан батыр атындағы №10 жалпы орта білім беретін мектеп",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7116",
+    "name": "Бейбарыс би Мектеп-бөбекжай-бақша кешені ЖМ Филиалы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8120",
+    "name": "БОЛАШАҚ мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4443",
+    "name": "Гимназия Арман",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4251",
+    "name": "Д.И. Менделеев атындағы №15 мектеп-лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7146",
+    "name": "Достық мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4364",
+    "name": "Есту қабілеті бұзылған балаларға арналған №2 арнайы мектеп-интернаты",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4463",
+    "name": "Ж.Аймауытов атындағы №64 мектеп-гимназиясы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4426",
+    "name": "Ж.Баласағұн атындағы № 6 жалпы орта білім беру мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7111",
+    "name": "Жалын жалпы білім беру мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7519",
+    "name": "Жас Көшбасшылар Академиясы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7119",
+    "name": "Зияткер-Білім",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4279",
+    "name": "Камила мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4468",
+    "name": "Қ.Сыпатаев атындағы №7 IT мектеп-лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4379",
+    "name": "Қорқыт ата атындағы №22 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4652",
+    "name": "Қосалқы мектеп-интернаты",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4271",
+    "name": "Лермонтов атындағы №17 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4589",
+    "name": "М.Жұмабаев ат. №39 жалпы орта білім беретін мектеп",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4493",
+    "name": "Мукими атындағы №13 жалпы орта мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4395",
+    "name": "Мұхамед Хайдар Дулати атындағы үш тілде оқытатын №8 мамандандырылған гимназия",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4551",
+    "name": "Н.Оңдасынов атындағы №38 мектеп-гимназиясы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7301",
+    "name": "Низамхан орта мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4208",
+    "name": "Облыстық фтизиопульмонология орталығы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4517",
+    "name": "Ө.Жолдасбеков атындағы №9 ІТ лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4317",
+    "name": "Өзбекәлі Жәнібеков атындағы №19 жалпы орта білім беретін мектеп",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4300",
+    "name": "Рысбек Мырзашев атындағы № 76 негізгі орта мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4552",
+    "name": "Саттар Ерубаев атындағы №24 IT мектеп-лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7652",
+    "name": "Сұңқар мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4592",
+    "name": "Т.Рысқұлов атындағы № 25 мектеп-гимназиясы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4414",
+    "name": "Техникалық лицей ЖМ",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4347",
+    "name": "Титов атындағы №20 мектеп-гимназиясы",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4291",
+    "name": "Ш.Уәлиханов атындағы №18 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7398",
+    "name": "Школа Төрежан ЖСШ",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4270",
+    "name": "Ы.Алтынсарин атындағы №65 мектеп-гимназиясы МК",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7554",
+    "name": "Ыбырай Алтынсарин атындағы бастауыш гимназия мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8234",
+    "name": "Abadan частная школа",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7251",
+    "name": "ADAN мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7124",
+    "name": "Global Education mektebi",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7407",
+    "name": "JOO High School Shymkent",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4656",
+    "name": "№ 28 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7421",
+    "name": "№1 TALANT жалпы білім беру мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4514",
+    "name": "№45 мектеп-гимназиясы МК",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4550",
+    "name": "№46 мектеп-лицей",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4543",
+    "name": "№121 Текесу жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4235",
+    "name": "№129 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7863",
+    "name": "№148 жалпы орта білім беретін мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7502",
+    "name": "Oscar мектебі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7489",
+    "name": "Premium School",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7620",
+    "name": "QAZBILIM SHYMKENT ұлттық лицейі",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8003",
+    "name": "Zerdeli Жангелдина 13",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7429",
+    "name": "Zerdeli International School Shymkent",
+    "districtId": "157",
+    "districtName": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4322",
+    "name": "А.Бөкейханов атындағы №2 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4497",
+    "name": "Али Ақбаев атындағы №101 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4619",
+    "name": "Алпамыс батыр атындағы №40 мектеп-гимназиясы",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8035",
+    "name": "Арофат мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7110",
+    "name": "Асыл бала арнайы кешенді мектеп-бақша",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4462",
+    "name": "Б.Момышұлы атындағы №44 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4614",
+    "name": "Б.Момышұлы атындағы №120 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4701",
+    "name": "Білім-инновация қыз балаларға арналған №2 лицей-интернаты",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4583",
+    "name": "Гагарин атындағы №34 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7217",
+    "name": "Галилео жалпы білім беретін мектеп",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4534",
+    "name": "Е.Юсупов атындағы №104 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7687",
+    "name": "Жаңа Дәуір мектеп интернаты",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7713",
+    "name": "Жас балғын бастауыш мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4431",
+    "name": "З.Хусанов атындағы №110 жалпы орта білім беретін мектеп",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4380",
+    "name": "Көру қабілеті бұзылған балаларға арналған Үміт мектеп-интернаты",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4655",
+    "name": "Қазыбек би атындағы №36 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4343",
+    "name": "М. Әуезов атындағы №96 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4442",
+    "name": "М.Горький ат. №12 жалпы орта білім беретін мектеп",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4444",
+    "name": "Мукуми атындағы № 105 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7777",
+    "name": "Начальная школа Балаби-М",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4522",
+    "name": "Ораз Жандосов атындағы №30 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4387",
+    "name": "Терешкова атындағы №31 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7694",
+    "name": "Түркістан орта мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4512",
+    "name": "Фуркат атындағы №37 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4448",
+    "name": "Циолковский ат. №84 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7719",
+    "name": "Шаңырақ бастауыш мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7312",
+    "name": "ABADAN - SUCCESSFUL",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7518",
+    "name": "Alash school",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7451",
+    "name": "ALEM МЕКТЕБІ",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7357",
+    "name": "FinBridge International Shcool",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7686",
+    "name": "KEMEL ADAM SCHOOL",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7521",
+    "name": "Newline school",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4316",
+    "name": "№ 99 мектеп-гимназиясы",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4184",
+    "name": "№ 124 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8117",
+    "name": "№ 150 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4424",
+    "name": "№43 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4429",
+    "name": "№63 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4299",
+    "name": "№67 негізгі орта мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4318",
+    "name": "№68 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4607",
+    "name": "№74 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4298",
+    "name": "№94 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4464",
+    "name": "№97 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4143",
+    "name": "№98 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4590",
+    "name": "№100 Жұлдыз жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4577",
+    "name": "№119 Маятас жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4591",
+    "name": "№123 Елтай бастауыш мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4756",
+    "name": "№126 Айнатас негізгі орта мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4685",
+    "name": "№127 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7155",
+    "name": "№134 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7866",
+    "name": "№142 жалпы орта білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7541",
+    "name": "Samal Primary School",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7590",
+    "name": "SANA жалпы білім беретін мектебі",
+    "districtId": "150",
+    "districtName": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8037",
+    "name": "\"Qonayev\" мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7117",
+    "name": "Абай Құнанбаев атындағы мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7695",
+    "name": "Астана жалпы орта мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7696",
+    "name": "Ахмет Байтұрсынов атындағы жалпы орта мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7420",
+    "name": "Әлихан Бөкейхан атындағы жалпы білім беру мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7586",
+    "name": "Әліп-Би бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4573",
+    "name": "Б.Садықов атындағы №112 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7300",
+    "name": "Б.Шыңғысхан жалпы білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4597",
+    "name": "Д.Нұрпейісова атындағы №116 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7790",
+    "name": "Дінмұхамед Ахметұлы Қонаев атындағы жалпы орта мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7071",
+    "name": "Жас-Дарын бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7309",
+    "name": "Жас-Дарын-2 бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7424",
+    "name": "Жас-Дарын-5 бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7425",
+    "name": "Жас-Қанат Мектеп-интернаты ЖМ",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7907",
+    "name": "Қаныш Сәтбаев мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7280",
+    "name": "Маржан бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4256",
+    "name": "Мектеп Арофат",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7184",
+    "name": "Мын бала",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7454",
+    "name": "Нұртас зияткерлік жалпы орта мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4664",
+    "name": "Оразбай атындағы №115 негізгі орта мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4371",
+    "name": "Сағадат Нұрмағамбетов атындағы №72 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4623",
+    "name": "Сайрам көмекші мектеп-интернат-колледжі арнайы кешен",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7776",
+    "name": "Филиал Smart орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4640",
+    "name": "Х.Әлімжан атындағы №85 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4236",
+    "name": "Хамза атындағы №108 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4405",
+    "name": "Шымкент қаласы білім басқармасының №80 IT мектеп-лицейі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7540",
+    "name": "Эверест бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4195",
+    "name": "Ю.Сареми атындағы №107 мектеп-лицейі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7706",
+    "name": "Яссауи 2 бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7310",
+    "name": "Яссауи жалпы білім беру мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7182",
+    "name": "Al-Farabi Bilim",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7487",
+    "name": "Alan international school",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7308",
+    "name": "Ali-T Ағылшын бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7596",
+    "name": "ARMAN KM Шың бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7836",
+    "name": "AUZHAN KTL көптілді лицей (Zangar Bilim )",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7597",
+    "name": "Bilimpaz First бастауыш мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7127",
+    "name": "Cambridge line",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7400",
+    "name": "GOLDEN KIDS мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4692",
+    "name": "№ 103 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4215",
+    "name": "№ 113 Әл-Фараби атындағы жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7114",
+    "name": "№ 131 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4767",
+    "name": "№2 кешкі мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4252",
+    "name": "№27 Мәртөбе жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4558",
+    "name": "№32 Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4345",
+    "name": "№58 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4576",
+    "name": "№70 Сансызбай Бекбосынов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4744",
+    "name": "№71жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4383",
+    "name": "№79 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4606",
+    "name": "№91 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4546",
+    "name": "№92 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4639",
+    "name": "№102 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4418",
+    "name": "№109 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4538",
+    "name": "№111 М.Маметова ат. жалпы орта білім беретін мектеп",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4570",
+    "name": "№114 Сайрам жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4330",
+    "name": "№130 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7134",
+    "name": "№132 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7598",
+    "name": "№139 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7867",
+    "name": "№143 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7861",
+    "name": "№144 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7859",
+    "name": "№145 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7864",
+    "name": "№146 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8108",
+    "name": "№151 жалпы орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7072",
+    "name": "Smart орта білім беретін мектебі",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7112",
+    "name": "Turan mektebi",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7543",
+    "name": "Wonder intellectual scholl",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7470",
+    "name": "Yess Bilim",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7449",
+    "name": "ZIYATKER TURAN",
+    "districtId": "156",
+    "districtName": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4327",
+    "name": "А.Аскаров атындағы №77 мектеп-лицейі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4210",
+    "name": "А.Байтұрсынов атындағы №50 МГ",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4491",
+    "name": "А.Молдағұлова атындағы №29 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4415",
+    "name": "А.П.Чехов ат. №21 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4386",
+    "name": "Әшімжан Ахметов атындағы №61 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4265",
+    "name": "БОЛАШАҚ мектебі мекемесi",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4673",
+    "name": "Білім-инновация ер балаларға арналған №1 лицей-интернаты",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4622",
+    "name": "Дарынды балаларға арналған №1 мамандандырылған ІТ лицей-интернаты",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7715",
+    "name": "Еминова Н.Б атындағы мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4672",
+    "name": "Есту қабілеті бұзылған балаларға арналған №1 арнайы мектеп-интернаты",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7422",
+    "name": "Жас Дарын-3 бастауыш мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7224",
+    "name": "ЖСШ Аль-Фараби атындағы мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4519",
+    "name": "З.Космодемьянская атындағы № 23 мектеп-лицейі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7145",
+    "name": "Зере жалпы білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4542",
+    "name": "Кенесары Қасымұлы ат. №33 жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4313",
+    "name": "Қазақстанның зияткерлік БӘЙТЕРЕК мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7496",
+    "name": "Мадейра Мерей атындағы жалпы орта мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7070",
+    "name": "Мектеп-Кешені Жас Қанат",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4408",
+    "name": "Молда Мұса атындағы №5 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7320",
+    "name": "Нұр Әлем жалпы орта мектебі жеке мекемесi",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7393",
+    "name": "Первый Образовательный",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7845",
+    "name": "Республикалық Дарын мектеп-лицейі (Samal School )",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7816",
+    "name": "Сүткент бастауыш мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4661",
+    "name": "Т.Тәжібаев ат. №81 жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4588",
+    "name": "Т.Тәжібаев атындағы №47 мектеп-гимназиясы",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7236",
+    "name": "Таным мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4403",
+    "name": "Төржан жекеменшiк гимназиясы",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4362",
+    "name": "Ұлықбек атындағы №3 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4382",
+    "name": "Х.Досмұхамедов атындағы №4 жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7684",
+    "name": "Academy of Geniuses",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7258",
+    "name": "Askar зияткерлік мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7630",
+    "name": "AZIMUT бастауыш мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7644",
+    "name": "GLS - Көшбасшы ұрпақ мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7469",
+    "name": "Maximum School",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4360",
+    "name": "№ 78 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4611",
+    "name": "№1 жалпы орта кешкі мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4651",
+    "name": "№2 мамандандырылған үш тілде оқытатын мектеп-интернаты",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4617",
+    "name": "№26 Жамбыл ат. мектеп-гимназиясы",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4615",
+    "name": "№35 М.Мәметова атындағы жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4399",
+    "name": "№42 Хамза ат. жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4142",
+    "name": "№48 жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4192",
+    "name": "№49 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4411",
+    "name": "№62 Н.Төреқұлов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4281",
+    "name": "№66 Қазығұрт жалпы орта білім беретін мектеп",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4261",
+    "name": "№75 мектеп-гимназиясы",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4668",
+    "name": "№86 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "4505",
+    "name": "№122 Ақжар жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7865",
+    "name": "№147 жалпы орта білім беретін мектебі",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7293",
+    "name": "Samruk mektebi",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7544",
+    "name": "Smart инновация ЖБ",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7152",
+    "name": "Tengri International School",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7512",
+    "name": "The English School",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "7290",
+    "name": "TM school",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8001",
+    "name": "Zerdeli Қонаев 118 ТМ",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "8127",
+    "name": "Zerdeli international school",
+    "districtId": "149",
+    "districtName": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  }
+]

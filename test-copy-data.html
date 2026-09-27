@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="kk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zerdeli test data copy</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f1fb;
+      --card: #ffffff;
+      --ink: #09072b;
+      --muted: #6f6688;
+      --purple: #7b4df0;
+      --lime: #d7ff2f;
+      --border: #ddd5ef;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Arial, sans-serif;
+      padding: 24px;
+    }
+
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 32px;
+      line-height: 1.1;
+    }
+
+    p {
+      margin: 0 0 22px;
+      color: var(--muted);
+    }
+
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 18px;
+      margin-top: 16px;
+      box-shadow: 0 14px 35px rgba(30, 17, 80, 0.08);
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: 22px;
+    }
+
+    .grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 44px minmax(180px, 1fr) 110px minmax(130px, 180px) 110px;
+      gap: 10px;
+      align-items: center;
+      padding: 10px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: #fbfaff;
+    }
+
+    .teacher .row {
+      grid-template-columns: minmax(180px, 1fr) 110px minmax(130px, 180px) 110px;
+    }
+
+    .num {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border-radius: 10px;
+      background: var(--lime);
+      font-weight: 800;
+    }
+
+    .value {
+      min-width: 0;
+      overflow-wrap: anywhere;
+      font-weight: 700;
+    }
+
+    button {
+      min-height: 38px;
+      border: 0;
+      border-radius: 10px;
+      background: var(--purple);
+      color: white;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    button:hover { filter: brightness(0.95); }
+    button:active { transform: translateY(1px); }
+
+    .toast {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      display: none;
+      padding: 12px 16px;
+      border-radius: 12px;
+      background: var(--ink);
+      color: white;
+      font-weight: 700;
+      box-shadow: 0 12px 30px rgba(0,0,0,.25);
+    }
+
+    .toast.show { display: block; }
+
+    @media (max-width: 720px) {
+      body { padding: 14px; }
+      h1 { font-size: 25px; }
+
+      .row,
+      .teacher .row {
+        grid-template-columns: 1fr;
+      }
+
+      .num { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Zerdeli test data</h1>
+    <p>Әр аты-жөн мен телефонды бөлек көшіріп, формаға қоя бер.</p>
+
+    <section class="teacher">
+      <h2>Мұғалім</h2>
+      <div class="grid">
+        <div class="row">
+          <div class="value">Айгүл Ерланқызы Сәрсенова</div>
+          <button type="button" data-copy="Айгүл Ерланқызы Сәрсенова">Атын көшіру</button>
+          <div class="value">+7 700 111 22 33</div>
+          <button type="button" data-copy="+7 700 111 22 33">Нөмірін көшіру</button>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Оқушылар</h2>
+      <div class="grid" id="students"></div>
+    </section>
+  </main>
+
+  <div class="toast" id="toast">Көшірілді</div>
+
+  <script>
+    const students = [
+      ["Әлихан Болатұлы Нұрланов", "+7 701 000 00 01"],
+      ["Айша Ермекқызы Қасымова", "+7 701 000 00 02"],
+      ["Данияр Мұратұлы Әбілов", "+7 701 000 00 03"],
+      ["Аружан Серікқызы Төлегенова", "+7 701 000 00 04"],
+      ["Ислам Асқарұлы Жұмабаев", "+7 701 000 00 05"],
+      ["Томирис Нұржанқызы Омарова", "+7 701 000 00 06"],
+      ["Ерасыл Қайратұлы Сейітов", "+7 701 000 00 07"],
+      ["Мәдина Русланқызы Ахметова", "+7 701 000 00 08"],
+      ["Нұрасыл Бекзатұлы Иманов", "+7 701 000 00 09"],
+      ["Інжу Саматқызы Кәрімова", "+7 701 000 00 10"]
+    ];
+
+    const studentsNode = document.querySelector("#students");
+    const toast = document.querySelector("#toast");
+
+    students.forEach(([name, phone], index) => {
+      const row = document.createElement("div");
+      row.className = "row";
+      row.innerHTML = `
+        <div class="num">${String(index + 1).padStart(2, "0")}</div>
+        <div class="value">${name}</div>
+        <button type="button" data-copy="${name}">Атын көшіру</button>
+        <div class="value">${phone}</div>
+        <button type="button" data-copy="${phone}">Нөмірін көшіру</button>
+      `;
+      studentsNode.append(row);
+    });
+
+    document.addEventListener("click", async (event) => {
+      const button = event.target.closest("[data-copy]");
+      if (!button) return;
+
+      const value = button.getAttribute("data-copy");
+      await navigator.clipboard.writeText(value);
+
+      toast.classList.add("show");
+      window.clearTimeout(window.toastTimer);
+      window.toastTimer = window.setTimeout(() => toast.classList.remove("show"), 900);
+    });
+  </script>
+</body>
+</html>

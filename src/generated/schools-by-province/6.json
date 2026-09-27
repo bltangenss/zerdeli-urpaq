@@ -1,0 +1,3146 @@
+[
+  {
+    "id": "1620",
+    "name": "“М.Өтемісов ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1411",
+    "name": "Абай ат. мектеп-гимназиясы",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1642",
+    "name": "Ақбұлақ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1334",
+    "name": "Алғабас ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1373",
+    "name": "Алмалы ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1943",
+    "name": "Базартөбе ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1442",
+    "name": "Бударин мектеп-бөбекжай кешені",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1702",
+    "name": "Бітік",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1930",
+    "name": "Бітік МБК",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1561",
+    "name": "Ғ.Махамбетов ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1694",
+    "name": "Еңбекші",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1949",
+    "name": "Есенсай ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1962",
+    "name": "Ж.Молдағалиев ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1654",
+    "name": "Жайық НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1978",
+    "name": "Жаңабұлақ ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1964",
+    "name": "Жаңажол НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1641",
+    "name": "И.Тайманов ат. НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1630",
+    "name": "Кеңсуат НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1731",
+    "name": "Краснояр НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1482",
+    "name": "Қ.Байсықов ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1758",
+    "name": "Қадырқұл",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1878",
+    "name": "Қамыстыкөл",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1659",
+    "name": "Қаршы ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1781",
+    "name": "Лбішін НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1356",
+    "name": "М Абдулов ат. НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1312",
+    "name": "М.Әуезов ат.№ 2 ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1626",
+    "name": "Мерген ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1730",
+    "name": "Мойылды НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1410",
+    "name": "О.Исаев ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1983",
+    "name": "С.Ошанов ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1868",
+    "name": "Самал",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1732",
+    "name": "Сарман",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1591",
+    "name": "Сарытоғай ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1940",
+    "name": "Тайпақ ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1953",
+    "name": "Тайпақ мектеп-гимназиясы",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1923",
+    "name": "Талап МБК",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1816",
+    "name": "Тасоба",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1856",
+    "name": "Тегісжол",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1838",
+    "name": "Тоған",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1600",
+    "name": "Тінәлі НОМ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1608",
+    "name": "Үштөбе НОМ кмм",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1977",
+    "name": "Хиуаз Доспанова ат.ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1547",
+    "name": "Ыбырай Алтынсарин ат.ЖОБ кмм",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1228",
+    "name": "№ 1 ЖОБ",
+    "districtId": "59",
+    "districtName": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1728",
+    "name": "Абай ат. МГИ",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1394",
+    "name": "Асан жалпы орта білім беретін мектеп-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1466",
+    "name": "Б.Момышұлы ат. ЖО",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1339",
+    "name": "Белес жалпы орта білім беретін мектеп--бөбекжай-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1470",
+    "name": "Володар жалпы білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1745",
+    "name": "Дариян кешкі мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1551",
+    "name": "Дарьинск жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1400",
+    "name": "Достық жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1420",
+    "name": "Егіндібұлақ жалпы орта білім беретін мектеп-бөбекжа-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1875",
+    "name": "Жайық жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1323",
+    "name": "Жамбыл жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1691",
+    "name": "Жаңатаң бастауыш мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1468",
+    "name": "Зеленов жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1521",
+    "name": "Камен орта жалпы білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1369",
+    "name": "КГУ Чувашка жалпы білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1246",
+    "name": "Киров негізгі орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1842",
+    "name": "Кирсанов негізгі орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1558",
+    "name": "Көшім жалпы орта білім беретін мектеп-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1483",
+    "name": "Красноармейск негізгі орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1826",
+    "name": "Краснов бастауыш мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1311",
+    "name": "Қ. Ахмиров ат. мектеп-бөбекжай-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1756",
+    "name": "Қ. Мырза Әлі ат. жалпы білім беретін қазақ орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1520",
+    "name": "Қ.Қайсенов ат. ЖО",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1291",
+    "name": "Қаражар бастауыш мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1309",
+    "name": "Қасым Аманжолов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1343",
+    "name": "Макаров жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1568",
+    "name": "Махамбет жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1535",
+    "name": "Мичурин жалпы орта білім беретін мектеп-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1715",
+    "name": "Новенький жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1685",
+    "name": "Озерный негізгі орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1818",
+    "name": "Өркен жалпы орта білім беретін мектеп-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1788",
+    "name": "Павлов бастауыш мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1234",
+    "name": "Переметный жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1366",
+    "name": "Подхоз негізгі орта мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1850",
+    "name": "Пригород жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1537",
+    "name": "Раздольный жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1441",
+    "name": "Рубежин жалпы орта білім беретін мектеп-бөбекжай-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1650",
+    "name": "Сұлу көл мектеп-балабақша-бөбекжай кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1357",
+    "name": "Т. Бигелдинов ат. ЖО",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1507",
+    "name": "Трекин жалпы орта білім беретін мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1414",
+    "name": "Үлкен Шаған мектеп-бөбекжай-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1623",
+    "name": "Чеботарев мектеп-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1397",
+    "name": "Чинарев бастауыш мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1566",
+    "name": "Чиров жалпы білім беретін негізгі мектебі",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1743",
+    "name": "Ш.Уәлиханов ат. ЖО",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1377",
+    "name": "І.Есенберлин ат. ЖО",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1592",
+    "name": "Январцев мектеп-бөбекжай-балабақша кешені",
+    "districtId": "64",
+    "districtName": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1880",
+    "name": "А.Құсайынов атындағы жалпы орта білім беретін мектеп-бөбекжай кешені",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1337",
+    "name": "Алғашық",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1858",
+    "name": "Б.Жаникешев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1586",
+    "name": "Жамбыл бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1918",
+    "name": "Жәңгір хан атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1298",
+    "name": "Жәрмеңке бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1422",
+    "name": "З.Жиенәлиев атындағы бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1487",
+    "name": "Кеңой бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1579",
+    "name": "Қ.Сағырбаев атындағы жалпы орта білім беретін мектеп-балабақшасы",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1362",
+    "name": "Қарасу бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1817",
+    "name": "М.Бегалиева атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1888",
+    "name": "Мәншүк Мәметова атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1235",
+    "name": "Мұхамед-Салық Бабажанов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1625",
+    "name": "Т.Масин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1463",
+    "name": "Тайғара бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1382",
+    "name": "Үштерек бастауыш мектебі",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1913",
+    "name": "Ш.Жексенбаев атындағы жалпы орта білім беретін мектеп-бөбекжай кешені",
+    "districtId": "65",
+    "districtName": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1840",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Ақбұлақ мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1396",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Александров мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1871",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Бөрлі жалпы орта білім беретін мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1522",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Бөрлі №1 жалпы орта білім беретін мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1231",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Жарсуат жалпы орта білім беретін мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1899",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Кеңтүбек жалпы орта білім беретін мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1335",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Қарағанды мектеп–бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1419",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Қарақұдық мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1318",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Қарасу мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1469",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Приурал мекте",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1364",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Пугачев мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1480",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданы білім беру бөлімінің Успен мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1854",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданының білім беру бөлімінің Ақсу мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1244",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Бөрлі ауданының білім беру бөлімінің Қанай мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1351",
+    "name": "Батыс Қазақстан облысы Бөрлі ауданының білім беру бөлімінің Облав мектеп-бөбекжай-балабақша кешені коммуналдық мемлекеттік мекемесі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1438",
+    "name": "БҚО Бөрлі ауданының білім беру бөлімінің Бумакөл мектеп-бөбекжай-балабақша кешені",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1485",
+    "name": "Кешкі мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1248",
+    "name": "№ 1 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1304",
+    "name": "№ 2 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1584",
+    "name": "№ 3 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1862",
+    "name": "№ 4 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1886",
+    "name": "№ 5 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1910",
+    "name": "№ 6 мектеп-лицейі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8114",
+    "name": "№6 мектеп-лицейі КММ",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8113",
+    "name": "№6 мектеп-лицейі КММ",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8115",
+    "name": "№6 мектеп-лицейі КММ",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8116",
+    "name": "№6 мектеп-лицейі КММ",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1301",
+    "name": "№7 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1919",
+    "name": "№8 жалпы орта білім беретін мектебі",
+    "districtId": "62",
+    "districtName": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1440",
+    "name": "Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1240",
+    "name": "Айдархан жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1671",
+    "name": "Айтпай бастауыш мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1776",
+    "name": "Ақбалшық бастауыш мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1471",
+    "name": "Ә.Жангелдин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1227",
+    "name": "Борық бастауыш мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1709",
+    "name": "Д.Нұрпейісова атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1349",
+    "name": "Е.Ш.Орақбаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1713",
+    "name": "Жангелді бастауыш мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1624",
+    "name": "Жаңақала жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2022",
+    "name": "Жаңақала мектеп-гимназиясы кмм",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1374",
+    "name": "Карманов мектеп-бөбекжай-балабақша кешені",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1324",
+    "name": "Кіші Айдархан бастауыш мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1594",
+    "name": "М.Жүнісов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1740",
+    "name": "М.Мирманов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1299",
+    "name": "Пятимар жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1680",
+    "name": "С.Меңдешев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1401",
+    "name": "Х.Нұрымғалиев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1649",
+    "name": "№3 жалпы орта білім беретін мектебі",
+    "districtId": "58",
+    "districtName": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1661",
+    "name": "А.Оразбаева атындағы негізгі орта мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1772",
+    "name": "Ғ. Абдуллин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1233",
+    "name": "Ғ.Қараш атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1385",
+    "name": "Ғ.Сарбаев атындағы мектеп-бөбекжай-балабақша кешені",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1514",
+    "name": "Е.Ниетқалиев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1310",
+    "name": "И.Жұмаев атындағы бастауыш мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1237",
+    "name": "Құрсай бастауыш мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1355",
+    "name": "М.Б.Ықсанов атындағы мектеп-бөбекжай-балабақша кешені",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1505",
+    "name": "Ө.Сахипов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1701",
+    "name": "Өнеге бастауыш мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1360",
+    "name": "Т.Жароков атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1317",
+    "name": "Тегісшіл негізгі орта мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1413",
+    "name": "Ұзынкөл жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1459",
+    "name": "Х. Халиуллин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1375",
+    "name": "№1 мектеп-лицейі",
+    "districtId": "63",
+    "districtName": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1969",
+    "name": "А.Оразбаева атындағы жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1590",
+    "name": "А.Хұсайнов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1352",
+    "name": "Ақпәтер жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1744",
+    "name": "Ахмет Байтұрсынұлы атындағы мектеп-бөбекжай кешені",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1529",
+    "name": "Әбіш негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1712",
+    "name": "Беспішен бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1439",
+    "name": "Бостандық жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1562",
+    "name": "Бірік жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1604",
+    "name": "Г.Бегалиев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8184",
+    "name": "Ғ.Қараш атындағы Қараоба мектеп-гимназиясы",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1634",
+    "name": "Ғ.Қараш атындағы мектеп-гимназиясы",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1316",
+    "name": "Ғ.Молдашев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1423",
+    "name": "Еңбек бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1581",
+    "name": "Жаңажол жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1677",
+    "name": "Жаңатаң негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1719",
+    "name": "Жас негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1247",
+    "name": "К.Мендалиев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1947",
+    "name": "Казталов мектеп-лицейі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1503",
+    "name": "Көктерек жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1564",
+    "name": "Көпкүтір негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1313",
+    "name": "Қайшақұдық бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1660",
+    "name": "Қайыңды жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1676",
+    "name": "Қаракөл бастауыш жалпы білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1536",
+    "name": "Қараөзен мектеп-лицейі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1465",
+    "name": "Қарасу жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1746",
+    "name": "Қоныс жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1775",
+    "name": "Қособа бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1759",
+    "name": "М.Жүнісов атындағы негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1684",
+    "name": "Н. Дүйсенғалиев атындағы негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1239",
+    "name": "Оразғали бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1378",
+    "name": "Ордабай бастауыш мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1717",
+    "name": "С.Есетов атындағы мектеп-бөбекжай кешені",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1663",
+    "name": "Сарықұдық негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1628",
+    "name": "Сатыбалды негізгі орта мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1695",
+    "name": "Талдыапан жалпы орта білім беретін мектебі",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1703",
+    "name": "Тереңкөл мектеп - бөбекжай кешені",
+    "districtId": "68",
+    "districtName": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1937",
+    "name": "А.Әділов атындағы бастауыш мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1664",
+    "name": "Аққозы мектеп-бөбекжай-балабақша кешені",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1903",
+    "name": "Алакөл негізгі орта мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2017",
+    "name": "Б.Аманшин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1300",
+    "name": "Б.Қаратев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1603",
+    "name": "Егіндікөл жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1921",
+    "name": "Жақсыбай негізгі орта мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1997",
+    "name": "Жамбыл мектеп-бөбекжай-балабақша кешені",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1926",
+    "name": "Қажым Жұмалиев атындағы Қаратөбе мектеп-гимназиясы",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1571",
+    "name": "Қалдығайты жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1636",
+    "name": "Қаракөл мектеп-бөбекжай-балабақша кешені",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1973",
+    "name": "Қоскөл жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1902",
+    "name": "Мұхит атындағы жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2028",
+    "name": "Соналы жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1876",
+    "name": "Төлен негізгі орта мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1828",
+    "name": "Үшағаш негізгі орта мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2008",
+    "name": "Ханкөл жалпы орта білім беретін мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1853",
+    "name": "Шалғын негізгі орта мектебі",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1984",
+    "name": "Шөптікөл мектеп-бөбекжай-балабақша кешені",
+    "districtId": "72",
+    "districtName": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8148",
+    "name": "\"№ 52 жалпы орта білім беретін мектеп\" КММ",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8058",
+    "name": "\"Qadam school\" бастауыш мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1533",
+    "name": "А.С.Макаренко атындағы №6 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1673",
+    "name": "Ақпараттық технологиялар лицей-мектебі мемлекеттік емес білім мекемесі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1841",
+    "name": "Асан Тайманов атындағы №34 мектеп-гимназиясы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1588",
+    "name": "Ахмет Байтұрсынов атындағы №10 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1306",
+    "name": "Ә.Н.Молдағұлова атындағы №38 мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1250",
+    "name": "Батыс Қазақстан облыстық дарынды балаларға арналған мамандандырылған ақпараттық технологиялар мектеп-лицей-интернаты",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1595",
+    "name": "Батыс Қазақстан облысы әкімдігі білім басқармасының Зерде бұзылыстары бар балаларға арналған облыстық арнайы кешен мектеп-интернат-колледжі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1993",
+    "name": "Бауыржан Момышұлы атындағы №46 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1399",
+    "name": "Вальдорф бағытындағы мектеп-гимназиясы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1443",
+    "name": "Дарынды балаларға арналған мамандандырылған БІЛІМ-ИННОВАЦИЯ мектеп-лицей-интернаты",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1553",
+    "name": "Дарынды балаларға арналған мамандандырылған №8 облыстық мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1358",
+    "name": "Дарынды балаларға арналған С.Сейфуллин атындағы №11 облыстық мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1322",
+    "name": "Дінмұхамед Қонаев атындағы №44 мектеп-гимназиясы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1344",
+    "name": "Ж.Молдағалиев атындағы №2 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7904",
+    "name": "Жайық дарыны элиталық бастауыш мектебі жауапкершілігі шектеулі серіктестігі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7746",
+    "name": "ЗЕЙІН Университет мектебі жеке меншік жалпы білім беру мекемесі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1541",
+    "name": "Кешкі мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1446",
+    "name": "Круглоозерный жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2010",
+    "name": "Қадыр Мырза Әлі атындағы №47 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1631",
+    "name": "М.Мәметова атындағы №27 мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1574",
+    "name": "Облыстық есту қабілеті бұзылған балаларға арналған арнайы мектеп-интернаты",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1550",
+    "name": "Облыстық көру қабілеті бұзылған балаларға арналған арнаулы мектеп-интернаты",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1578",
+    "name": "Олимпиада резервінің облыстық мамандандырылған мектеп-интернат-колледжі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7274",
+    "name": "Орал қ. Республикалық физика-математикалық мектебі Коммерциалық емес акционерлік қоғамының филиалы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1700",
+    "name": "Орал қаласындағы ФМБ НЗМ филиалы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1473",
+    "name": "Серебряково жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1667",
+    "name": "Философиялық бағыттағы жалпы білім беретін жеке мектеп Ж (уақытша жұмысы тоқтатылды)",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2011",
+    "name": "Хисмет Капанов атындағы ОХГ",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1711",
+    "name": "Хиуаз Доспанова атындағы №30 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1371",
+    "name": "Эстетикалық бағыттағы гимназиясы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7227",
+    "name": "ABYROI SCHOOL Oral",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1232",
+    "name": "M.Б.Ықсанов атындағы №36 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1767",
+    "name": "№ 18 мектеп-бөбекжай-балабақша кешені",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1787",
+    "name": "№ 19 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1819",
+    "name": "№ 20 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1307",
+    "name": "№1 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1365",
+    "name": "№3 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1391",
+    "name": "№4 қосымша білім беру мектеп-орталығы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1478",
+    "name": "№5 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1534",
+    "name": "№7 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1557",
+    "name": "№9 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1618",
+    "name": "№12 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1638",
+    "name": "№13 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1992",
+    "name": "№14 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "2002",
+    "name": "№16 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1750",
+    "name": "№17 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1839",
+    "name": "№21 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1855",
+    "name": "№22 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1870",
+    "name": "№23 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1893",
+    "name": "№24 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1914",
+    "name": "№25 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1601",
+    "name": "№26 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1665",
+    "name": "№28 мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1696",
+    "name": "№29 негізгі орта мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1771",
+    "name": "№32 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1785",
+    "name": "№33 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1506",
+    "name": "№35 мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1714",
+    "name": "№37 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1332",
+    "name": "№39 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1752",
+    "name": "№40 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1768",
+    "name": "№41 мектеп-лицейі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1230",
+    "name": "№42 Ақ ниет гимназиясы",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1305",
+    "name": "№43 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1353",
+    "name": "№45 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1873",
+    "name": "№48 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1897",
+    "name": "№49 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7069",
+    "name": "№50 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8040",
+    "name": "№51 жалпы орта білім беретін мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7858",
+    "name": "OQU SCHOOL жекеменшік мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7483",
+    "name": "Promontory International School Aqjaiyq",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7949",
+    "name": "Qadam school бастауыш мектебі",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7671",
+    "name": "SANA SCHOOL",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7627",
+    "name": "UBT School Oral",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8020",
+    "name": "Zerdeli Молдагулова көшесі, 25",
+    "districtId": "61",
+    "districtName": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1472",
+    "name": "Абай мектеп-бөбекжай-балабақша кешен",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1843",
+    "name": "Абдолла Жұмағалиев атындағы мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1430",
+    "name": "Аралтөбе жалпы орта білім беретін мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1238",
+    "name": "Бұлан мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1518",
+    "name": "Бұлдырты жалпы орта білім беретін мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1308",
+    "name": "В.И.Шубин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1427",
+    "name": "Жамбыл негізгі орта мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1392",
+    "name": "Жанша Досмұхамедов атындағы мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1867",
+    "name": "Жырақұдық жалпы орта білім беретін мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1912",
+    "name": "Көгеріс негізгі орта мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1249",
+    "name": "Көздіғара негізгі орта мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1784",
+    "name": "Қ.Мырзалиев атындағы жалпы орта білім беретін",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1456",
+    "name": "Қазақстан бастауыш мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1894",
+    "name": "Қособа мектеп-бөбекжай- балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1721",
+    "name": "Құспанкөл бастауыш мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1519",
+    "name": "Қызылағаш негізгі орта мектебі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1474",
+    "name": "М.Қаналиев атындағы Алғабас мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7088",
+    "name": "Мектеп-лицейі",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1824",
+    "name": "Сырым мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1367",
+    "name": "Талдыбұлақ мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1336",
+    "name": "Тасқұдық мектеп-бөбекжай-балабақша кешені",
+    "districtId": "67",
+    "districtName": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1467",
+    "name": "Айнабұлақ жалпы білім беретін негізгі мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1229",
+    "name": "Ақтау мектеп-бөбекжай-балабақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1302",
+    "name": "Амангелді мектеп-бөбекжай-балабақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1606",
+    "name": "Атамекен мектеп-бөбекжай-балабақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1342",
+    "name": "Бастау жалпы білім беретін бастауыш мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1381",
+    "name": "Бірлік негізгі орта мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1697",
+    "name": "Достық жалпы білім беретін мектеп -бөбекжай -бақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1941",
+    "name": "Жалпы білім беретін Бірінші Шежін бастауыш мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1525",
+    "name": "Жалпы білім беретін Оян орта мектеп-бөбекжай-бақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1726",
+    "name": "Жалпы білім беретін Шежін орта мектеп-бөбекжай-бақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1368",
+    "name": "Қ.Сәтбаев атындағы мектеп-гимназиясы",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1648",
+    "name": "Мерей жалпы орта білім беретін мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1502",
+    "name": "Мереке мектеп-бөбекжай-балабақша кешені",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1341",
+    "name": "Садық Жақсығұлов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1408",
+    "name": "Сәулет мектеп-лицейі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1511",
+    "name": "Тоғайлы жалпы білім беретін бастауыш мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1460",
+    "name": "Ы.Алтынсарин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "7504",
+    "name": "Ынтымақ бастауыш мектебі",
+    "districtId": "60",
+    "districtName": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1516",
+    "name": "Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1823",
+    "name": "Айтиев бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1954",
+    "name": "Ақжайық жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1769",
+    "name": "Ақсуат мектеп-бөбекжай-балабақша кешені",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1393",
+    "name": "Алғабас бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1370",
+    "name": "Аңқаты жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1484",
+    "name": "БҚО әкімдігі білім басқармасының Облыстық дарынды балаларға арналған Абай атындағы мамандандырылған мектеп-гимназия-интернаты",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1733",
+    "name": "Богдановка негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1415",
+    "name": "Восход негізгі орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1429",
+    "name": "Госплемстанция жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1544",
+    "name": "Долинск негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1848",
+    "name": "Донецк бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1567",
+    "name": "Еңбек негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1363",
+    "name": "Жайық негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1523",
+    "name": "Қоғалытүбек негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1549",
+    "name": "Қызылжар негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1242",
+    "name": "Магистрал жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1315",
+    "name": "Новопавловка жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1379",
+    "name": "Подстепный жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1354",
+    "name": "Подстепный №1 жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8145",
+    "name": "Подстепный №2 жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1607",
+    "name": "Пойма жалпы білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1428",
+    "name": "Покатиловка жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1464",
+    "name": "Приречный жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1563",
+    "name": "Санаторий Ақжайық бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1245",
+    "name": "Социализм негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1447",
+    "name": "Талпын негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1504",
+    "name": "Ұзынкөл жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1236",
+    "name": "Федоровка жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1543",
+    "name": "Федоровка №1 жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1372",
+    "name": "Хамза Есенжанов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1329",
+    "name": "Чапаев жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1297",
+    "name": "Шаған жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1580",
+    "name": "Шайхы Онашев атындағы бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1645",
+    "name": "Шалқар бастауыш мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1764",
+    "name": "Шөптікөл негізгі орта мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1559",
+    "name": "Ы.Алтынсарин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "66",
+    "districtName": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1755",
+    "name": "А.Тихоненко атындағы жалпы орта білім беретін мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1338",
+    "name": "Ақсуат негізгі орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1815",
+    "name": "Ақтау ауылының негізгі білім беретін орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1948",
+    "name": "Алмаз мектеп-бөбекжай-балабақша кешені",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1449",
+    "name": "Амангелді негізгі орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1241",
+    "name": "Ардақ ауылының негізгі білім беретін орта мектеп-балабақшасы кешені",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1957",
+    "name": "Ащысай мектеп-бөбекжай-балабақша кешені",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1481",
+    "name": "Жаңатұрмыс негізгі орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1416",
+    "name": "Қайыңды бастауыш мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1639",
+    "name": "Қуағаш негізгі орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "8238",
+    "name": "Л. Қылышев атындағы ЖОББМ",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1683",
+    "name": "Л.Қылышев атындағы жалпы орта білім беретін мектеб",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1524",
+    "name": "Сегізсай негізгі орта мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1778",
+    "name": "Тасмола жалпы орта білім беретің мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "1720",
+    "name": "Шыңғырлау жалпы орта білім беретін мектебі",
+    "districtId": "69",
+    "districtName": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  }
+]

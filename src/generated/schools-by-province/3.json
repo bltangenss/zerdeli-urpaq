@@ -1,0 +1,3594 @@
+[
+  {
+    "id": "8239",
+    "name": "#82 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8235",
+    "name": "1",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7291",
+    "name": "125 AKTOBE",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1139",
+    "name": "Актобе қаласындағы ФМБ НЗМ филиалы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1137",
+    "name": "Ақбөбекоңалту орталығы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "891",
+    "name": "Ақтөбе қаласының № 59 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8078",
+    "name": "Ақтөбе Мектеп гимназиясы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1088",
+    "name": "Ақтөбе облыстық арнайы мектеп-интернат-колледж кешені",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1062",
+    "name": "Ақтөбе облыстық мамандандырылған физика-математикалық лицей-интернаты",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "859",
+    "name": "Ақтөбе орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "792",
+    "name": "Ахмет Байтұрсынұлы атындағы лингвистикалық мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7084",
+    "name": "Әбіш Кекілбайұлы атындағы №72 жалпы білім беретін орта IT мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "766",
+    "name": "Әл-Фараби атындағы №21 мамандандырылған гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "807",
+    "name": "Әлкей Марғұлан атындағы №71 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "784",
+    "name": "Әлімхан Ермеков атындағы № 23 орта мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7195",
+    "name": "Баишев мектеп-лицей",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "785",
+    "name": "Бауыржан Момышұлы атындағы №62 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "760",
+    "name": "Белогор негізгі мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "876",
+    "name": "Благодар орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7889",
+    "name": "Болашақ мектеп-бақшасы Ж",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7304",
+    "name": "Білім орта мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "825",
+    "name": "Ғ.Ақтаев атындағы №6 мектеп-гимназиясы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "810",
+    "name": "Дарынды жасөспірімдерге арналған Ақтөбе облыстық мамандандырылған Білім-инновация лицей-интернаты",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "764",
+    "name": "Дінмұхамед Қонаев атындағы жалпы білім беретін орта мектеп -гимназиясы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "910",
+    "name": "Елек орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "831",
+    "name": "Есет батыр атындағы ОРОИК",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "800",
+    "name": "Заречный тұрғын алабы мектеп-бала бақша кешені",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7102",
+    "name": "Зерде жеке мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7188",
+    "name": "КЕМЕЛ БІЛІМ",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "985",
+    "name": "Кешкі (ауысымдағы) жалпы білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "996",
+    "name": "Қаныш Сәтбаев атындағы орта мектеп-лицей",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "833",
+    "name": "Құнан мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1037",
+    "name": "Қызылжар орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "921",
+    "name": "М. Арын атындағы Қарғалы қазақ орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "907",
+    "name": "М.Құрманғалиева атындағы № 32 гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "852",
+    "name": "М.Құсайынов атындағы АОДБАМЛИ коммуналдық мемлекеттік мекемесі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "816",
+    "name": "Мәлік Ғабдуллин атындағы №70 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "804",
+    "name": "Мұзафар Әлімбаев атындағы №25 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "824",
+    "name": "Мұқағали Мақатаев атындағы №73 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "794",
+    "name": "Міржақып Дулатұлы атындағы № 63 жалпы білім беретін орта мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1121",
+    "name": "НОУ УК ШАНЫРАК жеке мекемесі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1065",
+    "name": "Облыстық арнайы мектеп-балабақшасы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1035",
+    "name": "Облыстық арнаулы санаторлық мектеп-интернат ККМ",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1007",
+    "name": "Пригород орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1046",
+    "name": "Сазды орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7711",
+    "name": "Самғау-2 мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1117",
+    "name": "Сымбат-2050",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "803",
+    "name": "Ұ.Құлымбетов атындағы №64 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1103",
+    "name": "Фариза Оңғарсынова атындағы №41 мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "948",
+    "name": "Халел Досмұхамедұлы атындағы №35 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "894",
+    "name": "Хиуаз Доспанова атындағы №14 орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "755",
+    "name": "Шәкәрім Құдайбердіұлы атындағы №66 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7782",
+    "name": "Школа Мозаика Актобе",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "909",
+    "name": "Ілияс Есенберлин атындағы №15 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7670",
+    "name": "ABYROI SCHOOL Aqtobe",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7173",
+    "name": "Aqbobek International Sсhool Ақбөбекоңалту орталығы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7827",
+    "name": "Atameken School Ltd",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7226",
+    "name": "Bilim Aktobe",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7712",
+    "name": "Dostyk School Aktobe",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7517",
+    "name": "Elite kids school",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7736",
+    "name": "GEN ALPHA SCHOOL",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7635",
+    "name": "High School Aktobe",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7179",
+    "name": "KAZGUU School. Aqt",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7891",
+    "name": "MPILS бастауыш мектебі Media Pro World",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "851",
+    "name": "№ 29 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "925",
+    "name": "№ 40 жалпы орта білім беретін мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "750",
+    "name": "№ 46 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8121",
+    "name": "№ 80 ЖББОМ",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "778",
+    "name": "№1 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "787",
+    "name": "№2 жалпы орта білім беретін мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "793",
+    "name": "№3 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "801",
+    "name": "№4 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "817",
+    "name": "№5 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1132",
+    "name": "№7 арнайы (түзету) мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "903",
+    "name": "№8 орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "844",
+    "name": "№9 орта мектеп - гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "744",
+    "name": "№10 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "855",
+    "name": "№11 жалпы білім беретін орта мектеп-гимназиясы",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "868",
+    "name": "№12 орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "878",
+    "name": "№13 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "917",
+    "name": "№16 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "934",
+    "name": "№17 гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "936",
+    "name": "№18 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "741",
+    "name": "№19 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "756",
+    "name": "№20 орта жалпы білім беру мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "775",
+    "name": "№22 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "813",
+    "name": "№26 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "818",
+    "name": "№27 орта мектеп-лицейі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "836",
+    "name": "№28 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "867",
+    "name": "№30 қазақ орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "883",
+    "name": "№31 қазақ орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "926",
+    "name": "№33 қазақ орта жалпы білім беру мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "939",
+    "name": "№34 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "866",
+    "name": "№36 қазақ орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "877",
+    "name": "№37 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "889",
+    "name": "№38 қазақ орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "911",
+    "name": "№39 қазақ орта жалпы білім беру мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1116",
+    "name": "№42 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "978",
+    "name": "№44 ауысымдық (кешкі) жалпы білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "920",
+    "name": "№45 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1126",
+    "name": "№47 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1131",
+    "name": "№48 Жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "954",
+    "name": "№49 жалпы орта білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "814",
+    "name": "№50 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "826",
+    "name": "№51 гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "752",
+    "name": "№52 негізгі мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "840",
+    "name": "№53 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "827",
+    "name": "№54 негізгі мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "853",
+    "name": "№55 орта мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "746",
+    "name": "№56 жалпы орта білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1032",
+    "name": "№57 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "935",
+    "name": "№58 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "774",
+    "name": "№61 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "742",
+    "name": "№65 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "789",
+    "name": "№67 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "805",
+    "name": "№68 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "820",
+    "name": "№69 жалпы білім беретін орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7200",
+    "name": "№74 жалпы орта білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7125",
+    "name": "№75 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "768",
+    "name": "№76 жалпы орта білім беретін мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7107",
+    "name": "№77 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7233",
+    "name": "№78 жалпы орта білім беретін мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8032",
+    "name": "№79 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8054",
+    "name": "№83 орта мектебі",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8143",
+    "name": "№85 жалпы білім беретін орта мектеп",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7875",
+    "name": "SHANYRAQ SCHOOL",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7634",
+    "name": "SmartBilim мектеп-гимназия",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8004",
+    "name": "Zerdeli Әбілқайыр хан 68 А",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8005",
+    "name": "Zerdeli Марьесева 95",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8007",
+    "name": "Zerdeli Нұрсити, 3-мкрн 36 Д",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8006",
+    "name": "Zerdeli Тәуелсіздік 14\\1",
+    "districtId": "33",
+    "districtName": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1127",
+    "name": "А.Байтұрсынов атындағы орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1079",
+    "name": "Ақай орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "779",
+    "name": "Алға мектеп-гимназиясы",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "819",
+    "name": "Аманкелді негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1130",
+    "name": "Бесқоспа орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1133",
+    "name": "Бестамақ орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "960",
+    "name": "Болгар мектеп-бақшасы",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1096",
+    "name": "В.И.Пацаев атындағы №2 Алға орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "901",
+    "name": "Еркінкүш бастауыш мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "974",
+    "name": "Есет батыр атындағы мектеп-бақша",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "850",
+    "name": "Жерұйық негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "838",
+    "name": "Көктоғай негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1090",
+    "name": "Көлтабан бастауыш мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "798",
+    "name": "Қайыңдысай негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "991",
+    "name": "Қарабұлақ мектеп-бала бақшасы",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1006",
+    "name": "Қарақобда мектеп-бала бақша",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "761",
+    "name": "Қарақұдық орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1021",
+    "name": "Маржанбұлақ орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "767",
+    "name": "Нұрбұлақ орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "906",
+    "name": "Сарықобда орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "875",
+    "name": "Талдысай негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "922",
+    "name": "Тамды орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "888",
+    "name": "Тоқмансай негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "745",
+    "name": "Тоқмансай орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "863",
+    "name": "Тікқайың негізгі мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "754",
+    "name": "Үшқұдық орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1084",
+    "name": "№1 Алға мектеп-бақшасы",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7831",
+    "name": "№2 Маржанбұлақ орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1106",
+    "name": "№3 Алға қазақ орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1118",
+    "name": "№4 Алға орта мектебі",
+    "districtId": "35",
+    "districtName": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "796",
+    "name": "Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "968",
+    "name": "Аққұм негізгі орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1027",
+    "name": "Ақтасты жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "994",
+    "name": "Әйке жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1105",
+    "name": "Б.Сейсекенов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "834",
+    "name": "Байжанкөл бастауыш білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "799",
+    "name": "Басқұдық жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "945",
+    "name": "Белқопа жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1119",
+    "name": "Еңбекту жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "815",
+    "name": "Жабасақ жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "957",
+    "name": "Жақия Сәрсенов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "953",
+    "name": "Жамбыл жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1020",
+    "name": "Жарөткел негізгі орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "988",
+    "name": "Комсомол жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "822",
+    "name": "Қ.Шаңғытбаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1060",
+    "name": "Қарашатау жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1039",
+    "name": "Қыналы негізгі орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "777",
+    "name": "М.Жұмабаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1011",
+    "name": "Мамыт негізгі орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "981",
+    "name": "Милы бастауыш білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "830",
+    "name": "Сарат мектеп-бөбекжай-балабақша кешені",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "806",
+    "name": "Сейдалы Оразалин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1048",
+    "name": "Сұлукөл жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "977",
+    "name": "Т.Г.Шевченко атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1000",
+    "name": "Т.Жүргенов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "786",
+    "name": "Талдық негізгі орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "940",
+    "name": "Талдысай жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1004",
+    "name": "Тереңсай жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "861",
+    "name": "Толыбай жалпы орта білім беретін мектебі",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "980",
+    "name": "Үшқатты мектеп-бөбекжай-балабақша кешені",
+    "districtId": "37",
+    "districtName": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "791",
+    "name": "А.С.Пушкин атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "971",
+    "name": "Ақтан жырау негізгі мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "848",
+    "name": "Байғанин орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "943",
+    "name": "Баршақұм орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1001",
+    "name": "Бұлақтыкөл орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "882",
+    "name": "Жарқамыс орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1067",
+    "name": "Көкбұлақ орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "871",
+    "name": "Қ.Жазықов атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7106",
+    "name": "Қажығали Мұханбетқалиұлы атындағы орта мектеп-гимназия",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1052",
+    "name": "Қарабұлақ орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1043",
+    "name": "Қаражар орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "753",
+    "name": "Қарауылкелді орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "776",
+    "name": "Қопа орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "964",
+    "name": "Қосарал негізгі мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "783",
+    "name": "Матайқұм орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1022",
+    "name": "С.Ешбаев атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "896",
+    "name": "Сағи Жиенбаев атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "990",
+    "name": "Сағыз орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "862",
+    "name": "Т.Айбергенов атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "759",
+    "name": "Т.Жармағамбетов атындағы орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "832",
+    "name": "№2 Қарауылкелді орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "770",
+    "name": "№3 Қарауылкелді орта мектебі",
+    "districtId": "36",
+    "districtName": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "986",
+    "name": "Ащылысай орта мектеп - балабақшасы",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "976",
+    "name": "Әлімбет орта мектеп - балабақшасы",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "944",
+    "name": "Бадамша мектеп -бөбекжай-бақшасы",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "928",
+    "name": "Бозтөбе негізгі мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "912",
+    "name": "В.И.Пацаев атындағы орта мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "956",
+    "name": "Велиховка негізгі мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "870",
+    "name": "Жосалы орта мектеп-балабақшасы",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "885",
+    "name": "Қайрақты негізгі мектеп - балабақшасы",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "998",
+    "name": "Қос-Истек орта мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "898",
+    "name": "Петропавл орта мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1010",
+    "name": "Сазды орта мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "959",
+    "name": "№2 Бадамша орта мектебі",
+    "districtId": "41",
+    "districtName": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "841",
+    "name": "Ақсай бастауыш мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "782",
+    "name": "Ақырап орта мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "972",
+    "name": "Әлия Молдағұлова атындағы орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "797",
+    "name": "Бегалы негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1019",
+    "name": "Бестау мектеп-бөбекжай-балабақша кешені",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "857",
+    "name": "Бұлақ негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "829",
+    "name": "Жаңаталап негізгі мектеп- бөбекжайы",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "809",
+    "name": "Жарсай негізгі мектеп-бөбекжай-балабақша кешені",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1025",
+    "name": "Жарық мектеп - балабақшасы",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "846",
+    "name": "Жиренқопа орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1123",
+    "name": "И.Құрманов атындағы орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "930",
+    "name": "Иманғали Білтабанов атындағы орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1110",
+    "name": "Исатай Тайманов атындағы гимназия",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1044",
+    "name": "Калиновка орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1033",
+    "name": "Қаракемер негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1036",
+    "name": "Қобда ауданының Талдысай орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1089",
+    "name": "Қобда қазақ орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1099",
+    "name": "Қобыланды батыр атындағы орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "873",
+    "name": "Қобыланды негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1016",
+    "name": "Қосөткел негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1063",
+    "name": "Құрсай бастауыш мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1076",
+    "name": "Қызылжар орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "987",
+    "name": "Өтек негізгі мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "914",
+    "name": "Сарбұлақ орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "743",
+    "name": "Терісаққан орта мектебі",
+    "districtId": "34",
+    "districtName": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1098",
+    "name": "Аққайын жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1091",
+    "name": "Байнассай жалпы негізгі білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1112",
+    "name": "Байторысай жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1109",
+    "name": "Бөрте жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1082",
+    "name": "Веренка жалпы негізгі білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1073",
+    "name": "Вознесеновка жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1008",
+    "name": "Дмитриевка негізгі жалпы білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1135",
+    "name": "Жайсаң арнайы білім беру ұйымы",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "773",
+    "name": "Жайсаң жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7336",
+    "name": "КГУ Құмсай бастауыш мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1072",
+    "name": "Кеңсахара жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1125",
+    "name": "Қазан жалпы негізгі білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1029",
+    "name": "Қаратаусай жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1066",
+    "name": "Қаратоғай жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1087",
+    "name": "Құрмансай жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1077",
+    "name": "Қызылжар жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1040",
+    "name": "Полтавка жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "763",
+    "name": "Родниковка жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1013",
+    "name": "Саржансай жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1059",
+    "name": "Хазірет жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1114",
+    "name": "Шевченко жалпы негізгі білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "979",
+    "name": "№ 1 Мәртөк жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "739",
+    "name": "№ 2 Мәртөк мектеп – гимназиясы",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "751",
+    "name": "№ 3 Мәртөк жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1023",
+    "name": "№ 4 Мәртөк жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1051",
+    "name": "№1 Сарыжар жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "893",
+    "name": "№2 Сарыжар жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8138",
+    "name": "№3 Сарыжар жалпы орта білім беретін мектебі",
+    "districtId": "31",
+    "districtName": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "999",
+    "name": "А.Жұбанов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1055",
+    "name": "Ақкемер жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "952",
+    "name": "Ақсу негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "989",
+    "name": "Алтынды жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1028",
+    "name": "Ащысай негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1003",
+    "name": "Бұлақты негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "938",
+    "name": "Елек негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "969",
+    "name": "Еңбек негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1050",
+    "name": "Жаңажол жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "950",
+    "name": "Жаңатұрмыс негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "983",
+    "name": "Жарық негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "923",
+    "name": "Жем қаласының №5 жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "966",
+    "name": "Көтібар батыр атындағы негізгі мектеп-бөбекжай-балабақша кешені",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "933",
+    "name": "Қ.Жұбанов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "973",
+    "name": "Қайынды жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "808",
+    "name": "Қандыағаш қаласының № 3 мектеп-гимназиясы",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "937",
+    "name": "Қожасай негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "961",
+    "name": "Құмжарған жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "993",
+    "name": "Құмжарған негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1014",
+    "name": "Құмсай жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "947",
+    "name": "Мұғалжар жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1042",
+    "name": "Сабындыкөл бастауыш мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "919",
+    "name": "Саға жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1097",
+    "name": "Сағашилі жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1069",
+    "name": "Талдысай жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "886",
+    "name": "Темір стансасындағы №59 бастауыш мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "902",
+    "name": "Шеңгелши негізгі орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1064",
+    "name": "Ы.Мұхамеджанов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "847",
+    "name": "№1 Ембі қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1009",
+    "name": "№1 Қандыағаш қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "860",
+    "name": "№2 Ембі қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1031",
+    "name": "№2 Қандыағаш қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "887",
+    "name": "№3 Ембі қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "908",
+    "name": "№4 Ембі қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "821",
+    "name": "№4 Қандыағаш қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "835",
+    "name": "№5 Қандыағаш қалалық жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "874",
+    "name": "№7 жалпы білім беретін орта мектебі",
+    "districtId": "38",
+    "districtName": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1124",
+    "name": "Ақшатау орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1075",
+    "name": "Амангелді орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "982",
+    "name": "Ә.Дербісәлин атындағы Саралжын орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1074",
+    "name": "Екпетал мектеп-балабақшасы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1053",
+    "name": "Ж.Жүсібалиев атындағы Ойыл қазақ орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1047",
+    "name": "Жақсыбайкөл негізгі мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1085",
+    "name": "Жамбыл мектеп-балабақшасы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1034",
+    "name": "Көсембай негізгі мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1018",
+    "name": "Қаракемер мектеп-балабақшасы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1086",
+    "name": "Қаракөл бастауыш мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1068",
+    "name": "Қараой мектеп-балабақшасы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1140",
+    "name": "Қарасу негізгі мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1113",
+    "name": "Құбасай бастауыш мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1080",
+    "name": "Құрман орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1141",
+    "name": "Құрманов бастауыш мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1102",
+    "name": "Ойыл қазақ орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1093",
+    "name": "Саға мектеп-балабақшасы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "828",
+    "name": "Сапақкөл орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1107",
+    "name": "Соркөл орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1100",
+    "name": "Тайсойған негізгі мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1058",
+    "name": "Теректі негізгі мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "842",
+    "name": "Ш.Берсиев атындағы орта мектебі",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1061",
+    "name": "Шарбану Бекмұхамбетова атындағы мектеп-гимназиясы",
+    "districtId": "39",
+    "districtName": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "975",
+    "name": "Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "992",
+    "name": "Алтықарасу мектеп - балабақшасы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1002",
+    "name": "Ә.Молдағұлова атындағы негізгі мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1108",
+    "name": "Бабатай негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1134",
+    "name": "Еңбекші мектеп-балабақшасы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "765",
+    "name": "Ж.Кереев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1094",
+    "name": "Жамбыл негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1129",
+    "name": "Кеңесту негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "772",
+    "name": "Кеңқияқ жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1057",
+    "name": "Қопа жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1045",
+    "name": "Құмсай негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7240",
+    "name": "Қызылжар жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1120",
+    "name": "М.Әуезов атындағы негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "965",
+    "name": "Н.Байғанин атындағы мектеп-балабақшасы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "949",
+    "name": "С.Байшев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1136",
+    "name": "Сартоғай негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1083",
+    "name": "Сарыкөл жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1071",
+    "name": "Теректі мектеп-балабақшасы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "757",
+    "name": "Шұбарқұдық гимназиясы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "929",
+    "name": "Шұбарши жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7394",
+    "name": "Шұбарши мектеп-бөбекжай-балабақшасы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "904",
+    "name": "№1 Шұбарқұдық мектеп - гимназиясы",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "8262",
+    "name": "№2 Кеңқияқ жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "924",
+    "name": "№2 Шұбарқұдық қазақ-орыс жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "942",
+    "name": "№3 Шұбарқұдық жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "958",
+    "name": "№4 Шұбарқұдық жалпы орта білім беретін мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "740",
+    "name": "№5 Шұбарқұдық бастауыш мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "748",
+    "name": "№6 Шұбарқұдық негізгі орта мектебі",
+    "districtId": "32",
+    "districtName": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "865",
+    "name": "Абай негізгі мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "881",
+    "name": "Ақжар орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "890",
+    "name": "Аққұдық орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "856",
+    "name": "Бөгетсай мектеп гимназиясы",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "872",
+    "name": "Дөң мектеп-гимназиясы",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "913",
+    "name": "Көктау орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "795",
+    "name": "Қарлау бастауыш мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "927",
+    "name": "Қопа орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "897",
+    "name": "Құдықсай негізгі мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "884",
+    "name": "Қызылсу орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "738",
+    "name": "Майтөбе орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "747",
+    "name": "Никельтау орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1092",
+    "name": "Нұрлы-көш орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "758",
+    "name": "Оңғар орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1138",
+    "name": "Просторный бастауыш мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "771",
+    "name": "Сарысай орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1101",
+    "name": "Сәтпаев орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "780",
+    "name": "Табантал орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "788",
+    "name": "Тасөткел орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1078",
+    "name": "Тассай орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1122",
+    "name": "№1 Хромтау орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "811",
+    "name": "№2 Хромтау гимназиясы",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "823",
+    "name": "№3 Хромтау орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "837",
+    "name": "№4 Хромтау орта мектебі",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "843",
+    "name": "№5 Хромтау гимназиясы",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "854",
+    "name": "№6 Хромтау гимназиясы",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "7094",
+    "name": "№7 Хромтау мектеп-гимназиясы (мектеп жанындағы интернатымен)",
+    "districtId": "30",
+    "districtName": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "941",
+    "name": "Ақтоғай жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "900",
+    "name": "Алабас негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "916",
+    "name": "Аяққұм негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1104",
+    "name": "Ә.Жангелдин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1049",
+    "name": "Б.Сүлейменов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "951",
+    "name": "Бершүгір жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "963",
+    "name": "Бозой жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "970",
+    "name": "ГКС-12 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "984",
+    "name": "Жаңақоныс жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1017",
+    "name": "Қаратоғай жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "997",
+    "name": "Қарашоқат жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1012",
+    "name": "Қорғантұз жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "931",
+    "name": "Қызылту негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1030",
+    "name": "М.Орынбасаров атындағы негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1026",
+    "name": "М.Тәжин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "737",
+    "name": "Сарыбұлақ негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1111",
+    "name": "Сарықамыс негізгі орта мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "749",
+    "name": "Сарысай мектеп-бөбекжай-бақшасы",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "967",
+    "name": "Т.Шанов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "955",
+    "name": "Тоғыз жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "762",
+    "name": "Шоқысу негізгі мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1115",
+    "name": "І.Үргенішбаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "802",
+    "name": "№1 мектеп-гимназиясы",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "812",
+    "name": "№2 мектеп-гимназия",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1038",
+    "name": "№3 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1056",
+    "name": "№4 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1070",
+    "name": "№5 мектеп - лицей",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1081",
+    "name": "№6 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1128",
+    "name": "№7 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1095",
+    "name": "№8 жалпы орта білім беретін мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "769",
+    "name": "№33 бастауыш мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "781",
+    "name": "№36 бастауыш мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1041",
+    "name": "№42 бастауыш мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "790",
+    "name": "№44 бастауыш мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1054",
+    "name": "№60 бастауыш мектебі",
+    "districtId": "29",
+    "districtName": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "946",
+    "name": "Б.Алманов атындағы ЖББОМ",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "899",
+    "name": "Белшер негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "880",
+    "name": "Дүкен негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "858",
+    "name": "Қалыбай негізігі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "932",
+    "name": "Қарақұдық негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "915",
+    "name": "Қарасай негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "839",
+    "name": "Құйлыс жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "864",
+    "name": "Құмтоғай жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "879",
+    "name": "М.Төлегенов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "895",
+    "name": "Мамыр негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "869",
+    "name": "Нарқызыл негізгі орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "905",
+    "name": "Ө.Қанахин атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "892",
+    "name": "Т.Жаманмұрынов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "849",
+    "name": "Т.Жүргенов атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "962",
+    "name": "Т.Шонанұлы атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "918",
+    "name": "Темірастау жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "845",
+    "name": "Шеңбертал жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "995",
+    "name": "Ы.Алтынсарин атындағы жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1015",
+    "name": "Ырғыз гимназиясы",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1024",
+    "name": "Ырғыз №2 жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "1005",
+    "name": "№1 Қазақ жалпы білім беретін орта мектебі",
+    "districtId": "40",
+    "districtName": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  }
+]

@@ -1,0 +1,2826 @@
+[
+  {
+    "id": "8152",
+    "name": "\"Қызылорда облысының білім басқармасының Арал ауданы бойынша білім бөлімінің \"№ 292 орта мектебі\" коммуналдық мемлекеттік мекемесі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8151",
+    "name": "\"Қызылорда облысының білім басқармасының Арал ауданы бойынша білім бөлімінің \"№294 орта мектебі\" коммуналдық мемлекеттік мекемесі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8150",
+    "name": "«Қызылорда облысының білім басқармасының Арал ауданы бойынша білім бөлімінің «№291 негізгі орта мектебі» КММ",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4019",
+    "name": "87 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4095",
+    "name": "Ақшатау бастауыш мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4059",
+    "name": "Аманқос Мұстафаев атындағы №227 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3681",
+    "name": "Арал ауданының жалпы білім беретін кешкі мектеп",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8036",
+    "name": "Жайлы мектеп",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3743",
+    "name": "Жалғызағым бастауыш мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4061",
+    "name": "Жарасқан Әбдірашев атындағы №62 мектеп-лицейі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3970",
+    "name": "Көнту бастауыш мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3760",
+    "name": "Т.Г.Шевченко атындағы №13 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4119",
+    "name": "Ұзақбай Қараманов атындағы №262 мектеп-гимназиясы",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4124",
+    "name": "№2 облыстық мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3770",
+    "name": "№14 мектеп-лицейі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4010",
+    "name": "№18 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3959",
+    "name": "№19 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3972",
+    "name": "№20 З.Шүкіров атындағы орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3999",
+    "name": "№21 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3721",
+    "name": "№22 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4027",
+    "name": "№57 Е.Көшербаев атындағы орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4046",
+    "name": "№58 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4064",
+    "name": "№59 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4081",
+    "name": "№60 Ж.Түменбаев атындағы орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4087",
+    "name": "№61 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4096",
+    "name": "№63 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4073",
+    "name": "№64 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4032",
+    "name": "№65 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4051",
+    "name": "№66 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4066",
+    "name": "№67 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4077",
+    "name": "№68 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4084",
+    "name": "№69 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4085",
+    "name": "№71 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3827",
+    "name": "№72 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3852",
+    "name": "№73 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3884",
+    "name": "№74 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3912",
+    "name": "№75 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4022",
+    "name": "№76 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3945",
+    "name": "№77 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3978",
+    "name": "№81 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4008",
+    "name": "№82 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4093",
+    "name": "№83 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4044",
+    "name": "№177 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4040",
+    "name": "№200 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4102",
+    "name": "№220 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3933",
+    "name": "№230 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3958",
+    "name": "№231 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3728",
+    "name": "№237 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3985",
+    "name": "№248 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4111",
+    "name": "№260 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3738",
+    "name": "№263 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3739",
+    "name": "№265 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3949",
+    "name": "№281 негізгі мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7395",
+    "name": "№283 орта мектебі",
+    "districtId": "126",
+    "districtName": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3745",
+    "name": "№ 272 орта мектебі",
+    "districtId": "127",
+    "districtName": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3682",
+    "name": "№273 орта мектебі",
+    "districtId": "127",
+    "districtName": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3684",
+    "name": "№274 орта мектебі",
+    "districtId": "127",
+    "districtName": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3688",
+    "name": "№275 орта мектебі",
+    "districtId": "127",
+    "districtName": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3693",
+    "name": "№277 мектеп-лицейі",
+    "districtId": "127",
+    "districtName": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3920",
+    "name": "118 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4110",
+    "name": "Алдаберген Бисенов атындағы №38 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4104",
+    "name": "Әбдрашит Бердаулетов атындағы №34 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3937",
+    "name": "Әбдікәрім Оңалбаев атындағы №117орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3741",
+    "name": "Әл-Фараби атындағы №201 мектеп-лицейі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4003",
+    "name": "Темірбек Жүргенов атындағы №123 мектеп-лицейі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3786",
+    "name": "Шекер Ермағанбетова атындағы №246 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3746",
+    "name": "Ілияс Қабылов атындағы №32 мектеп-лицей",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3726",
+    "name": "№31 мектеп-гимназиясы",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3751",
+    "name": "№33 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4116",
+    "name": "№114 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4122",
+    "name": "№115 жалпы орта білім беретін мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4125",
+    "name": "№116 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3946",
+    "name": "№119 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3977",
+    "name": "№122 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3758",
+    "name": "№124 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3737",
+    "name": "№188 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3748",
+    "name": "№202 Зейнолла Жарқынбаев атындағы орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3756",
+    "name": "№203 орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3769",
+    "name": "№232 Мардан Байділдаев атындағы орта мектебі",
+    "districtId": "131",
+    "districtName": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8193",
+    "name": "293 орта мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3969",
+    "name": "А.Д.Романов атындағы №53 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7974",
+    "name": "Абдуллаев Аманкелді атындағы зияткерлік мектеп-интернаты",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7750",
+    "name": "Асхан атындағы Зерек орта мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4082",
+    "name": "Ахмет Әділов атындағы №86 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4011",
+    "name": "Ә.Әбутәліпов атындағы №209 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3938",
+    "name": "Б.Аралбаев атындағы №52 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7431",
+    "name": "Болашақ тереңдетілген білім беру орта мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3983",
+    "name": "Ғ.Мұратбаев атындағы №240 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4050",
+    "name": "Ж.Қыдыров атындағы №54 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3704",
+    "name": "Жаңақорған ауданының жалпы білім беретін кешкі мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7580",
+    "name": "Зейін бастауыш мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4117",
+    "name": "Исатай Әбдікәрімов атындағы № 168 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7575",
+    "name": "ҚЫРАН жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3915",
+    "name": "М. Қаратаев атындағы №51 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4121",
+    "name": "Н.Илялетдинов атындағы №169 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7324",
+    "name": "Өскенбай Жұмаділла атындағы Дарынды балалар мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4060",
+    "name": "С.Қожанов атындағы №55 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3797",
+    "name": "С.Сапарбеков атындағы №125 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3948",
+    "name": "Төлепберген Әбдірашев атындағы №239 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7325",
+    "name": "Daryn school білім беру жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4071",
+    "name": "№ 56 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3723",
+    "name": "№ 213 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3720",
+    "name": "№ 229 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3896",
+    "name": "№3 жалпы білім беретін мектеп-интернаты",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4052",
+    "name": "№89 негізгі орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4091",
+    "name": "№110 мектеп-лицейі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3812",
+    "name": "№160 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3824",
+    "name": "№161 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3841",
+    "name": "№162 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3861",
+    "name": "№163 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4101",
+    "name": "№164 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4105",
+    "name": "№166 жалпы орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4112",
+    "name": "№167 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3716",
+    "name": "№180 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4067",
+    "name": "№184 жалпы орта білім беретін мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3887",
+    "name": "№192 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3905",
+    "name": "№193 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3923",
+    "name": "№194 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3943",
+    "name": "№195 мектеп-гимназиясы",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3962",
+    "name": "№196 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3987",
+    "name": "№208 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4076",
+    "name": "№221 жалпы орта білім беретін мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4041",
+    "name": "№223 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3926",
+    "name": "№224 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3725",
+    "name": "№242 негізгі орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4001",
+    "name": "№245 жалпы орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4021",
+    "name": "№247 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3685",
+    "name": "№254 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3690",
+    "name": "№255 негізгі орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4036",
+    "name": "№256 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7593",
+    "name": "№286 орта мектебі",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7822",
+    "name": "№289 орта мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7365",
+    "name": "SANA бастауыш мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7326",
+    "name": "Zangar Интеллектуалдық мектебі жеке мектеп",
+    "districtId": "128",
+    "districtName": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3791",
+    "name": "Абай атындағы № 90 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4070",
+    "name": "Б.Әбдіразақов атындағы №88 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3740",
+    "name": "Б.К.Мергенбаев атындағы № 226 мектеп-гимназия",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4099",
+    "name": "Ғ.Мұратбаев атындағы № 17 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3818",
+    "name": "Ғ.Мұратбаев атындағы №91 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3747",
+    "name": "Е.Бозғұлов атындағы № 249 мектеп-лицейі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3744",
+    "name": "Ж.Жабаев атындағы № 234 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3755",
+    "name": "Жанқожа батыр атындағы № 70 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4127",
+    "name": "Қ.Ерімбет атындағы N 96 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3712",
+    "name": "Қ.Күлетов атындағы №92 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4103",
+    "name": "Қ.Нұрмаханов атындағы №95 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4048",
+    "name": "Қ.Пірімов атындағы №103 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3727",
+    "name": "Қ.Сәтбаев атындағы № 216 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3683",
+    "name": "Қазалы ауданының жалпы білім беретін кешкі мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4090",
+    "name": "М.Горький атындағы № 16 мектеп-лицей",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4118",
+    "name": "Мұстафа Матаев атындағы №170 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4109",
+    "name": "С.Сейфуллин атындағы № 165 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3781",
+    "name": "Ү. Түктібаев атындағы №24 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3724",
+    "name": "Ы.Алтынсарин атындағы № 204 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4114",
+    "name": "№ 93 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3834",
+    "name": "№ 94 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3718",
+    "name": "№ 100 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4025",
+    "name": "№ 102 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4063",
+    "name": "№ 104 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4083",
+    "name": "№ 182 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4092",
+    "name": "№ 190 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4100",
+    "name": "№ 225 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4042",
+    "name": "№ 238 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4075",
+    "name": "№ 259 негізгі мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3909",
+    "name": "№ 276 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3680",
+    "name": "№25 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4107",
+    "name": "№78 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3991",
+    "name": "№97 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4006",
+    "name": "№98 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4004",
+    "name": "№134 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4030",
+    "name": "№146 негізгі мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4057",
+    "name": "№258 негізгі мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3768",
+    "name": "№266 мектеп-лицейі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7823",
+    "name": "№288 орта мектебі",
+    "districtId": "125",
+    "districtName": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4065",
+    "name": "А.Жанпейісов атындағы №105 мектеп-лицейі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3705",
+    "name": "Елеу Көшербаев атындағы №279 мектеп-лицейі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4054",
+    "name": "Жанқожа батыр атындағы №269 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3689",
+    "name": "Қармақшы ауданының жалпы білім беретін кешкі мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4056",
+    "name": "О.Шораяқұлы атындағы №30 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4039",
+    "name": "С.Есқараев атындағы №27 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3922",
+    "name": "Т.Ізтілеуов атындағы №29 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3890",
+    "name": "Тәйімбет Көмекбаев атындағы №250 мектеп-лицейі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3951",
+    "name": "Темірбек Жүргенов атындағы №80 мектеп-гимназиясы",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3860",
+    "name": "Ү.К.Томанов атындағы №183 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4020",
+    "name": "Шоқан Уәлиханов атындағы №26 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3897",
+    "name": "№28 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3722",
+    "name": "№79 негізгі мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3976",
+    "name": "№85 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3679",
+    "name": "№99 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3687",
+    "name": "№106 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3691",
+    "name": "№107 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3696",
+    "name": "№108 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3699",
+    "name": "№109 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3703",
+    "name": "№111 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3706",
+    "name": "№113 Қаракөл орта мектебі Қ",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4078",
+    "name": "№121 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3710",
+    "name": "№185 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3713",
+    "name": "№186 орта мектебі кмм",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3715",
+    "name": "№199 орта мектебі",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7740",
+    "name": "№284 мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "124",
+    "districtName": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8278",
+    "name": "\"Келешек №290 орта мектеп\" КММ",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7829",
+    "name": "#9 HIGH SCHOOL International",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7465",
+    "name": "125 QYZYLORDA жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3819",
+    "name": "280 жалпы орта білім беретін мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4031",
+    "name": "А.Байтұрсынов атындағы № 211 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3931",
+    "name": "А.Хангелдин атындағы № 179 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3697",
+    "name": "Абай атындағы үш тілде оқытатын дарынды балаларға арналған мамандандырылған сыныптары бар мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3929",
+    "name": "Абай атындағы №138 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3825",
+    "name": "Абылай хан атындағы №140 қазақ орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7123",
+    "name": "Арай бастауыш мектебі жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4074",
+    "name": "Әбу Құдабаев атындағы №197 қазақ орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4049",
+    "name": "Әбубәкір Тыныбаев атындағы №11 мектеп -лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4002",
+    "name": "Әли Мүсілімов атындағы № 101 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3984",
+    "name": "Әлия Молдағұлова атындағы №173 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3792",
+    "name": "Б.Шалғынбаев атындағы №217 ақпараттық технология мектеп-лицей",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3851",
+    "name": "Байзақ Момынбаев атындағы № 278 ақпараттық технология мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7507",
+    "name": "Байтерек School KZ жеке мектеп- интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3826",
+    "name": "Байұзақ Ермекбаев №271 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3927",
+    "name": "Ғани Мұратбаев атындағы №171 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3831",
+    "name": "Еркін Әуелбеков атындағы № 4 облыстық мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4094",
+    "name": "Ж. Қизатов атындағы №23 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3979",
+    "name": "Ж.Махамбетов атындағы № 43 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3857",
+    "name": "Ж.Нұрсейітов атындағы № 233 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3820",
+    "name": "Жалаңтөс Баһадүр Сейтқұлұлы атындағы олимпиадалық резервтің облыстық мамандандырылған мектеп-интернат-колледжі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3863",
+    "name": "Жамбыл атындағы №120 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4088",
+    "name": "Жанәбіл Нұрманов атындағы №198 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7247",
+    "name": "Зерде жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3714",
+    "name": "И.В.Панфилов атындағы №5 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3886",
+    "name": "Көмекбай Қаракөзов атындағы №235 мектеп-гимназиясы",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3694",
+    "name": "Қалтай Мұхамеджанов атындағы №1 мектеп-гимназиясы",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3879",
+    "name": "Қызылорда қаласындағы ХББ НЗМ филиалы",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3709",
+    "name": "Қызылорда қаласының жалпы білім беретін кешкі мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3957",
+    "name": "М.Шоқай атындағы №187 ақпараттық технология мектеп-лицейі (IT-мектеп-лицей)",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7118",
+    "name": "МАНСАП Кызылорда жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7828",
+    "name": "МЕ Oрда School 3",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7068",
+    "name": "Мұхамедғали Сужиков атындағы № 6 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4079",
+    "name": "Мырзабек Дүйсенов атындағы жалпы білім беру №15 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4033",
+    "name": "Нағи Ильясов атындағы № 9 мектеп-гимназиясы",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4017",
+    "name": "Нағима Ахмадеева атындағы №112 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3953",
+    "name": "Нәлқожа Ергешбаев атындағы № 172 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7244",
+    "name": "Озат-School жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4012",
+    "name": "П.Д.Осипенко атындағы №8 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3772",
+    "name": "Парасат жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7811",
+    "name": "Рахымжан Әліарыстанұлы атындағы жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3810",
+    "name": "С. Шаухаманов атындағы №9 дарынды балаларға арналған облыстық Білім-инновация лицей-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3707",
+    "name": "С.Сейфуллин атындағы №4 ақпараттық технология мектеп-лицей",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3702",
+    "name": "С.Толыбеков атындағы №3 ақпараттық технология мектеп-лицей",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3885",
+    "name": "Сақтапберген Әлжіков атындағы №144 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3799",
+    "name": "Серәлі Лапин атындағы № 261 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7976",
+    "name": "Сыр білімі мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3830",
+    "name": "Т.Рысқұлов атындағы №222 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3828",
+    "name": "Тәкей Есетов атындағы №264 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3906",
+    "name": "Темірбек Жүргенов атындағы №136 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7350",
+    "name": "Ұлағат білім ордасы жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4024",
+    "name": "Ы.Алтынсарин атындағы №10 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4068",
+    "name": "І.Қабылов атындағы №12 ақпараттық технология мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7384",
+    "name": "AMANAT school жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7219",
+    "name": "Ansar- Kausar2020 жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7101",
+    "name": "Baiterek School DARYNDY жеке мектеп - интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7615",
+    "name": "Dostyq School Kyzylorda жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3742",
+    "name": "№ 5 көру қабілеті бұзылған балалардың арнайы (түзету) мектеп-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3750",
+    "name": "№ 6 есту қаблеті бұзылған балалардың арнаулы (түзету) мектеп-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3762",
+    "name": "№ 7 арнайы түзету мектеп-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3986",
+    "name": "№ 7 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3908",
+    "name": "№ 145 Бірқазан орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4058",
+    "name": "№ 189 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7674",
+    "name": "№ 285 мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8194",
+    "name": "№ 296 КММ",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3736",
+    "name": "№8 облыстық арнайы санаториялық мектеп-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3749",
+    "name": "№10 дарынды балаларға арналған облыстық Білім-инновация лицей-интернаты",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3955",
+    "name": "№39 Қызылөзек орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3889",
+    "name": "№128 негізгі орта білім беретін мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3854",
+    "name": "№143 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4014",
+    "name": "№175 негізгі орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3888",
+    "name": "№176 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3907",
+    "name": "№178 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4047",
+    "name": "№212 мектеп-гимназиясы",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3771",
+    "name": "№215 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3817",
+    "name": "№218 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3910",
+    "name": "№253 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3779",
+    "name": "№257 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4115",
+    "name": "№267 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4108",
+    "name": "№268 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7283",
+    "name": "№282 мектеп-лицейі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7781",
+    "name": "№287 орта мектебі",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8195",
+    "name": "№295 КММ",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7761",
+    "name": "Oрда School 2 жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3719",
+    "name": "Oрда School жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8122",
+    "name": "Qalan school",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7614",
+    "name": "QAZBILIM QYZYLORDA ұлттық лицейі жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7737",
+    "name": "TAMASHA SCHOOL 2 жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7402",
+    "name": "TAMASHA SCHOOL жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7794",
+    "name": "YBYRAI ULTTYQ MEKTEBI QYZYLORDA",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7412",
+    "name": "Your English school - YES жеке мектеп",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "8019",
+    "name": "Zerdeli Абай даңғылы, 35",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7087",
+    "name": "Ziyatker Инновациялық мектеп-лицей",
+    "districtId": "129",
+    "districtName": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3816",
+    "name": "№35 Иса Тоқтыбаев атындағы мектеп-лицейі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3678",
+    "name": "№36 мектеп лицей",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3686",
+    "name": "№37 мектеп-лицейі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3692",
+    "name": "№42 мектеп лицей",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3695",
+    "name": "№44 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3698",
+    "name": "№126 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3701",
+    "name": "№129 мектеп лицей",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3708",
+    "name": "№130 Абай атындағы орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3711",
+    "name": "№131 Талғат Қозыбаев атындағы орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3717",
+    "name": "№132 Т.Айтбаев атындағы орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3965",
+    "name": "№135 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3996",
+    "name": "№137 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3993",
+    "name": "№139 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4013",
+    "name": "№147 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4028",
+    "name": "№174 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4043",
+    "name": "№191 орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4062",
+    "name": "№210 О.Әбілпаттаев атындағы орта мектебі",
+    "districtId": "123",
+    "districtName": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3992",
+    "name": "Базарбек Қашқынбаев атындағы №142 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4126",
+    "name": "Г.Н.Ковтунов атындағы №252 мектеп-гимназиясы",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3766",
+    "name": "Жуантөбе бастауыш мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7476",
+    "name": "Зияткер Шиелі жеке мектеп",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "7174",
+    "name": "Самғау жеке мектеп Б",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3700",
+    "name": "Шиелі ауданының жалпы орта білім беретін кешкі мектеп",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4038",
+    "name": "№ 84 негізгі мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3952",
+    "name": "№ 214 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4128",
+    "name": "№40 Алма Қыраубаева атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4089",
+    "name": "№41 Мұстафа Шоқай атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4072",
+    "name": "№45 Aқ opда мектеп-гимназиясы",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4086",
+    "name": "№46 А.С.Пушкин атындағы мектеп-лицейі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4097",
+    "name": "№47 М.В.Ломоносов атындағы мектеп-лицейі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4106",
+    "name": "№48 Ә.Қоңыратбаев атындағы мектеп-лицейі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4098",
+    "name": "№49 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3936",
+    "name": "№50 Абай атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4113",
+    "name": "№127 Ш.Уалиханов атындағы орта мектеп-лицейі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4055",
+    "name": "№133 негізгі мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3963",
+    "name": "№141 К.Сәбиров атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4015",
+    "name": "№148 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4034",
+    "name": "№149 Әлиакбар Монтаев атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4053",
+    "name": "№150 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4069",
+    "name": "№151 негізгі мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3876",
+    "name": "№152 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3891",
+    "name": "№153 Ш.Есенов атындағы мектеп-лицейі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3930",
+    "name": "№155 Д.Шыныбеков атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3956",
+    "name": "№156 Нартай Бекежанов атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3982",
+    "name": "№157 Б.Пәрімбетов атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3998",
+    "name": "№158 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4026",
+    "name": "№159 “Еңбекші” орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4045",
+    "name": "№181 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3875",
+    "name": "№205 орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3893",
+    "name": "№206 “Жиделіарық” орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3924",
+    "name": "№207 Жаңатұрмыс орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4120",
+    "name": "№219 Ы.Алтынсарин атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "3973",
+    "name": "№228 Шәймерден Бәкіров атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4000",
+    "name": "№241 Қ.Әбдіқадіров атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4080",
+    "name": "№243 жалпы орта білім беретін мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4123",
+    "name": "№244 Ы.Жақаев атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4023",
+    "name": "№251 М.Әуезов атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "4035",
+    "name": "№270 Ғафур Мұхамеджанов атындағы орта мектебі",
+    "districtId": "130",
+    "districtName": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  }
+]

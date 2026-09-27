@@ -1,0 +1,706 @@
+[
+  {
+    "id": "2554",
+    "name": "А. Сейдімбек атындағы жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2583",
+    "name": "Айнабұлақ негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2405",
+    "name": "Ақтайлақ негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2339",
+    "name": "Ақтау жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2367",
+    "name": "Ақтүбек жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2518",
+    "name": "Атасу жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2524",
+    "name": "Байғұл бастауыш мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2389",
+    "name": "Бидайық жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2538",
+    "name": "Бименде Амалбеков атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2465",
+    "name": "Еламан Шаханов атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2477",
+    "name": "Ж. Сәдуақасов атындағы жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2451",
+    "name": "Жаңаарқа жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2492",
+    "name": "Жомарт бастауыш мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2506",
+    "name": "Кенжебай-Самай негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2555",
+    "name": "Көктал жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2450",
+    "name": "Қызылжар жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2431",
+    "name": "Манадыр негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2356",
+    "name": "О. Әлібаев атындағы жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2522",
+    "name": "О. Жұмабеков атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2434",
+    "name": "С.Сейфуллин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2548",
+    "name": "Талдыбұлақ жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2500",
+    "name": "Ынталы жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2535",
+    "name": "Ынтымақ жалпы білім беретін мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "7563",
+    "name": "№1 мектеп-лицейі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2544",
+    "name": "№69 разъезд бастауыш мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2441",
+    "name": "№135 негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2418",
+    "name": "№140 негізгі орта мектебі",
+    "districtId": "90",
+    "districtName": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2358",
+    "name": "Абай атындағы мамандандырылған мектеп-интернаты",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2392",
+    "name": "Кеңгір селосының №2 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2430",
+    "name": "Кешкі мектеп",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2281",
+    "name": "Қабден Шыңғысов атындағы №5 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2320",
+    "name": "Қаныш Сәтбаев атындағы №7 мектеп-лицейі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2435",
+    "name": "Малшыбай селосының №15 негізгі орта мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2299",
+    "name": "Талап ауылының №14 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2312",
+    "name": "Теректі станциясының №6 негізгі орта мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2374",
+    "name": "№ 1 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2369",
+    "name": "№ 10 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2363",
+    "name": "№ 24 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2615",
+    "name": "№3 БІЛІМ-ИННОВАЦИЯ лицей- интернаты",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2404",
+    "name": "№3 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2274",
+    "name": "№4 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2334",
+    "name": "№8 гимназия",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2353",
+    "name": "№9 мектеп-интернаты",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2390",
+    "name": "№11 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2421",
+    "name": "№13 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2456",
+    "name": "№21 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2470",
+    "name": "№22 жалпы білім беретін мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2380",
+    "name": "№26 гимназия",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2396",
+    "name": "№133 негізгі орта мектебі",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "7690",
+    "name": "Zerdeli-ZhezU International School",
+    "districtId": "82",
+    "districtName": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2632",
+    "name": "№1 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2646",
+    "name": "№3 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2275",
+    "name": "№5 бастауыш мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2449",
+    "name": "№6 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2458",
+    "name": "№7 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2480",
+    "name": "№10 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2494",
+    "name": "№11 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2514",
+    "name": "№30 жалпы білім беретін мектебі",
+    "districtId": "83",
+    "districtName": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2439",
+    "name": "Абай атындағы №4 мектеп-лицей",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2352",
+    "name": "Әлкей Марғұлан атындағы жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2706",
+    "name": "Бауыржан Момышұлы атындағы мектеп-гимназия",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2323",
+    "name": "Қаныш Сәтбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2454",
+    "name": "С. Сейфуллин атындағы гимназия",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2395",
+    "name": "Ыбырай Алтынсарин атындағы мектеп-лицейі",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2429",
+    "name": "№ 27 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2714",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2453",
+    "name": "№5 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2472",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2340",
+    "name": "№14 жалпы білім беретін мектебі",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2375",
+    "name": "№16 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2412",
+    "name": "№25 жалпы білім беретін мектеп",
+    "districtId": "88",
+    "districtName": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2644",
+    "name": "Ж. Жабаев атындағы №15 тірек мектеп (ресурстық орталық)",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2686",
+    "name": "Жезді мектеп-интернаты",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2607",
+    "name": "Мінәжат Мыңқаев атындағы №10 білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2338",
+    "name": "№1 тірек мектебі (ресурстық орталық)",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2354",
+    "name": "№2 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2371",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2512",
+    "name": "№4 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2702",
+    "name": "№5 негізгі орта мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2386",
+    "name": "№6 тірек мектеп (ресурстық орталық)",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2403",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2423",
+    "name": "№8 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2584",
+    "name": "№9 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2626",
+    "name": "№11 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2630",
+    "name": "№12 негізгі орта мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2642",
+    "name": "№14 жалпы білім беретін мектебі",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2657",
+    "name": "№17 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "2668",
+    "name": "№18 жалпы білім беретін мектеп",
+    "districtId": "89",
+    "districtName": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  }
+]

@@ -1,0 +1,1389 @@
+[
+  {
+    "id": "187",
+    "name": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "196",
+    "name": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "188",
+    "name": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "227",
+    "name": "Бесқарағай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "206",
+    "name": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "225",
+    "name": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "189",
+    "name": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "194",
+    "name": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "198",
+    "name": "Курчатов",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "183",
+    "name": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "186",
+    "name": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "185",
+    "name": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "1",
+    "name": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "3",
+    "name": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "17",
+    "name": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "6",
+    "name": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "5",
+    "name": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "2",
+    "name": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "12",
+    "name": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7",
+    "name": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "14",
+    "name": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8",
+    "name": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "13",
+    "name": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "15",
+    "name": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "16",
+    "name": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "11",
+    "name": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "18",
+    "name": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "9",
+    "name": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "19",
+    "name": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "4",
+    "name": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "10",
+    "name": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "20",
+    "name": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "33",
+    "name": "Ақтөбе",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "35",
+    "name": "Алға",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "37",
+    "name": "Әйтеке би",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "36",
+    "name": "Байғанин",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "41",
+    "name": "Қарғалы",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "34",
+    "name": "Қобда",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "31",
+    "name": "Мәртөк",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "38",
+    "name": "Мұғалжар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "39",
+    "name": "Ойыл",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "32",
+    "name": "Темір",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "30",
+    "name": "Хромтау",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "29",
+    "name": "Шалқар",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "40",
+    "name": "Ырғыз",
+    "provinceId": "3",
+    "provinceName": "Ақтөбе"
+  },
+  {
+    "id": "228",
+    "name": "Алатау",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "223",
+    "name": "Алатау қ.",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "55",
+    "name": "Балқаш",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "51",
+    "name": "Еңбекшіқазақ",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "42",
+    "name": "Жамбыл",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "fallback-4-жетісу-1vwi9nw",
+    "name": "Жетісу",
+    "provinceId": "4",
+    "provinceName": "Алматы",
+    "fallback": true
+  },
+  {
+    "id": "45",
+    "name": "Кеген",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "48",
+    "name": "Қарасай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "49",
+    "name": "Қонаев",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "235",
+    "name": "Наурызбай",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "56",
+    "name": "Райымбек",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "57",
+    "name": "Талғар",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "71",
+    "name": "Ұйғыр",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "47",
+    "name": "Іле",
+    "provinceId": "4",
+    "provinceName": "Алматы"
+  },
+  {
+    "id": "220",
+    "name": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "222",
+    "name": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "216",
+    "name": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "218",
+    "name": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "215",
+    "name": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "219",
+    "name": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "221",
+    "name": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "217",
+    "name": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "214",
+    "name": "Алматы",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "213",
+    "name": "Байқоңыр",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "211",
+    "name": "Есіл",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "212",
+    "name": "Нұра",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "226",
+    "name": "Сарайшық",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "210",
+    "name": "Сарыарқа",
+    "provinceId": "19",
+    "provinceName": "Астана қ."
+  },
+  {
+    "id": "22",
+    "name": "Атырау",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "28",
+    "name": "Жылыой",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "26",
+    "name": "Индер",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "21",
+    "name": "Исатай",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "23",
+    "name": "Құрманғазы",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "24",
+    "name": "Қызылқоға",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "25",
+    "name": "Мақат",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "27",
+    "name": "Махамбет",
+    "provinceId": "2",
+    "provinceName": "Атырау"
+  },
+  {
+    "id": "59",
+    "name": "Ақжайық",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "64",
+    "name": "Бәйтерек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "65",
+    "name": "Бөкей Орда",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "62",
+    "name": "Бөрлі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "58",
+    "name": "Жаңақала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "63",
+    "name": "Жәнібек",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "68",
+    "name": "Казталовка",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "72",
+    "name": "Қаратөбе",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "61",
+    "name": "Орал",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "67",
+    "name": "Сырым",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "60",
+    "name": "Тасқала",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "66",
+    "name": "Теректі",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "69",
+    "name": "Шыңғырлау",
+    "provinceId": "6",
+    "provinceName": "Батыс Қазақстан"
+  },
+  {
+    "id": "121",
+    "name": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "120",
+    "name": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "112",
+    "name": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "118",
+    "name": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "117",
+    "name": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "122",
+    "name": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "115",
+    "name": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "113",
+    "name": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "114",
+    "name": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "116",
+    "name": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "119",
+    "name": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "54",
+    "name": "Ақсу",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "46",
+    "name": "Алакөл",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "44",
+    "name": "Ескелді",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "53",
+    "name": "Кербұлақ",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "43",
+    "name": "Көксу",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "52",
+    "name": "Қаратал",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "50",
+    "name": "Панфилов",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "70",
+    "name": "Сарқант",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "73",
+    "name": "Талдықорған",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "74",
+    "name": "Текелі",
+    "provinceId": "5",
+    "provinceName": "Жетісу"
+  },
+  {
+    "id": "81",
+    "name": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "76",
+    "name": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "85",
+    "name": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "91",
+    "name": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "236",
+    "name": "Бұхаржырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "77",
+    "name": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "75",
+    "name": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "80",
+    "name": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "84",
+    "name": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "92",
+    "name": "Приозер",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "87",
+    "name": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "78",
+    "name": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "86",
+    "name": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "79",
+    "name": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "104",
+    "name": "Алтынсарин",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "103",
+    "name": "Амангелді",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "96",
+    "name": "Арқалық",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "105",
+    "name": "Әулиекөл",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "98",
+    "name": "Бейімбет Майлин",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "109",
+    "name": "Денисов",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "100",
+    "name": "Жангелдин",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "101",
+    "name": "Жітіқара",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "108",
+    "name": "Қамысты",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "95",
+    "name": "Қарабалық",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "97",
+    "name": "Қарасу",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "93",
+    "name": "Қостанай",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "110",
+    "name": "Лисаков",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "106",
+    "name": "Меңдіқара",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "107",
+    "name": "Наурызым",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "94",
+    "name": "Рудный",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "111",
+    "name": "Сарыкөл",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "102",
+    "name": "Ұзынкөл",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "99",
+    "name": "Федоров",
+    "provinceId": "9",
+    "provinceName": "Қостанай"
+  },
+  {
+    "id": "126",
+    "name": "Арал",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "127",
+    "name": "Байқоңыр",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "131",
+    "name": "Жалағаш",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "128",
+    "name": "Жаңақорған",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "125",
+    "name": "Қазалы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "124",
+    "name": "Қармақшы",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "129",
+    "name": "Қызылорда",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "123",
+    "name": "Сырдария",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "130",
+    "name": "Шиелі",
+    "provinceId": "11",
+    "provinceName": "Қызылорда"
+  },
+  {
+    "id": "136",
+    "name": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "135",
+    "name": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "132",
+    "name": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "133",
+    "name": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "138",
+    "name": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "134",
+    "name": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "137",
+    "name": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "172",
+    "name": "Аққулы",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "167",
+    "name": "Ақсу",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "163",
+    "name": "Ақтоғай",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "166",
+    "name": "Баянауыл",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "164",
+    "name": "Екібастұз",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "161",
+    "name": "Ертіс",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "169",
+    "name": "Железин",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "165",
+    "name": "Май",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "160",
+    "name": "Павлодар",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "162",
+    "name": "Тереңкөл",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "170",
+    "name": "Успен",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "171",
+    "name": "Шарбақты",
+    "provinceId": "15",
+    "provinceName": "Павлодар"
+  },
+  {
+    "id": "174",
+    "name": "Айыртау",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "179",
+    "name": "Ақжар",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "193",
+    "name": "Аққайың",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "173",
+    "name": "Ғабит Мүсірепов ат.",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "197",
+    "name": "Есіл",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "181",
+    "name": "Жамбыл",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "180",
+    "name": "Қызылжар",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "177",
+    "name": "Мағжан Жұмабаев",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "202",
+    "name": "Мамлют",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "178",
+    "name": "Петропавл",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "175",
+    "name": "Тайынша",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "199",
+    "name": "Тимирязев",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "176",
+    "name": "Уәлиханов",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "182",
+    "name": "Шал ақын",
+    "provinceId": "16",
+    "provinceName": "Солтүстік Қазақстан"
+  },
+  {
+    "id": "140",
+    "name": "Арыс",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "168",
+    "name": "Бәйдібек",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "148",
+    "name": "Жетісай",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "152",
+    "name": "Келес",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "159",
+    "name": "Кентау",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "147",
+    "name": "Қазығұрт",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "146",
+    "name": "Мақтаарал",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "139",
+    "name": "Ордабасы",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "144",
+    "name": "Отырар",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "151",
+    "name": "Сайрам",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "238",
+    "name": "Сайрам ауданы",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "158",
+    "name": "Сарыағаш",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "141",
+    "name": "Сауран",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "153",
+    "name": "Созақ",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "143",
+    "name": "Төле би",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "142",
+    "name": "Түлкібас",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "154",
+    "name": "Түркістан",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "145",
+    "name": "Шардара",
+    "provinceId": "13",
+    "provinceName": "Түркістан"
+  },
+  {
+    "id": "90",
+    "name": "Жаңаарқа",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "82",
+    "name": "Жезқазған",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "83",
+    "name": "Қаражал",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "88",
+    "name": "Сәтбаев",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "89",
+    "name": "Ұлытау",
+    "provinceId": "8",
+    "provinceName": "Ұлытау"
+  },
+  {
+    "id": "204",
+    "name": "Алтай",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "208",
+    "name": "Глубокое",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "200",
+    "name": "Зайсан",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "203",
+    "name": "Күршім",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "191",
+    "name": "Қатонқарағай",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "207",
+    "name": "Марқакөл",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "192",
+    "name": "Өскемен",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "201",
+    "name": "Риддер",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "184",
+    "name": "Самар",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "190",
+    "name": "Тарбағатай",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "195",
+    "name": "Ұлан",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "209",
+    "name": "Үлкен Нарын",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "205",
+    "name": "Шемонаиха",
+    "provinceId": "18",
+    "provinceName": "Шығыс Қазақстан"
+  },
+  {
+    "id": "155",
+    "name": "Абай",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "157",
+    "name": "Әл Фараби",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "150",
+    "name": "Еңбекші",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "156",
+    "name": "Қаратау",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  },
+  {
+    "id": "149",
+    "name": "Тұран",
+    "provinceId": "14",
+    "provinceName": "Шымкент қ."
+  }
+]

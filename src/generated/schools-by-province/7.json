@@ -1,0 +1,3546 @@
+[
+  {
+    "id": "2349",
+    "name": "Абай атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2424",
+    "name": "Абай Құнанбаев атындағы №5 мектеп-гимназиясы",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2523",
+    "name": "Ақбастау жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2381",
+    "name": "Ақбұлақ мектеп-бөбекжай кешені",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2273",
+    "name": "Ахмет Байтұрсынұлы атындағы мектеп-гимназиясы",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2487",
+    "name": "Бауыржан Момышұлы атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2463",
+    "name": "Есенгелді жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2478",
+    "name": "Жартас жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2413",
+    "name": "Қаныш Сәтбаев атындағы қосымша білім беру мектеп-орталығы",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2362",
+    "name": "Қараған негізгі орта мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2616",
+    "name": "Қасым Аманжолов атындағы жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2286",
+    "name": "Қоянды негізгі орта мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2744",
+    "name": "Қуаныш мектеп-бөбекжай кешені",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2300",
+    "name": "Мичурин негізгі орта мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2550",
+    "name": "Мұқағали Мақатаев атындағы жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2288",
+    "name": "Нұркен Әбдіров атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2507",
+    "name": "Прокофий Корниенко атындағы жалпы білім беру мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2614",
+    "name": "Самарка жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2503",
+    "name": "Топар жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2278",
+    "name": "Шәкәрім атындағы жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2301",
+    "name": "Шоқан Уәлиханов атындағы мектеп-лицейі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2570",
+    "name": "Ыбырай Алтынсарин атындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2593",
+    "name": "Юбилейный жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2347",
+    "name": "№4 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2636",
+    "name": "№8 негізгі орта мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2314",
+    "name": "№9 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2329",
+    "name": "№15 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2770",
+    "name": "№29 түзету мекемесі жанындағы № 2 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2767",
+    "name": "№32 түзету мекемесі жанындағы № 1 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2769",
+    "name": "№35 түзету мекемесі жанындағы № 3 жалпы білім беретін мектебі",
+    "districtId": "81",
+    "districtName": "Абай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2348",
+    "name": "Абай атындағы мектеп-интернаты",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7549",
+    "name": "Айыртас бастауыш мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2267",
+    "name": "Ақши негізгі орта мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2595",
+    "name": "Әлихан Бөкейхан атындағы тірек мектебі (ресурстық орталық) жанындағы интернаты",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2373",
+    "name": "Әлімхан Ермеков атындағы жалпы білім беретін мектеп",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2311",
+    "name": "Әсет Болғанбайұлы атындағы негізгі орта мектеп",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2265",
+    "name": "Дәуітәлі Стамбеков атындағы бастауыш мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2748",
+    "name": "Жабас Кеңесбаев атындағы жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2571",
+    "name": "Жақып Ақбай атындағы негізгі орта мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2397",
+    "name": "Күләш Байсейітова атындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2417",
+    "name": "Қазбек Нұржанов атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2566",
+    "name": "Қарағой бастауыш мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2359",
+    "name": "Қошқар тірек мектебі (ресурстық орталық)",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2305",
+    "name": "Қызыларай жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2268",
+    "name": "Манарбек Ержанов атындағы жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2355",
+    "name": "Нұркен Әбдіров атындағы жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2327",
+    "name": "Ортадересін жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7411",
+    "name": "Сарышаған кентіндегі жалпы орта білім беретін мектеп",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2398",
+    "name": "Сарышаған мектеп-интернаты",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2415",
+    "name": "Сатибек Ибраев атындағы негізгі орта мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2416",
+    "name": "Тасарал жалпы білім беретін мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2284",
+    "name": "Тораңғалық негізгі орта мектебі",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2388",
+    "name": "Төлепберді Ақышұлы атындағы негізгі орта мектеп",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2360",
+    "name": "Шашубай кентіндегі мектеп-бөбекжай кешені (мектеп жанындағы интернатымен) базасындағы Тірек мектебі (ресурстық орталық)",
+    "districtId": "76",
+    "districtName": "Ақтоғай",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8085",
+    "name": "12 Жалпы Білім Беретін Мектеп",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2741",
+    "name": "Абай атындағы № 2 мектеп-лицейі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2727",
+    "name": "Әл-Фараби атындағы жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2715",
+    "name": "Әлихан Бөкейханов атындағы №15 мектеп-лицейі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2736",
+    "name": "Әлімхан Ермеков атындағы мектеп-лицейі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2654",
+    "name": "Бауыржан Момышұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2341",
+    "name": "Зияткер мамандандырылған мектеп-лицейі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2364",
+    "name": "Көп балалы және аз қамтамасыз етілген отбасылардың балаларына арналған мектеп-интернаты",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2343",
+    "name": "Михаил Русаков атындағы мектеп-интернаты",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2762",
+    "name": "Саяқ кентінің №6 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2627",
+    "name": "Сәкен Сейфуллин атындағы № 7 мектеп-гимназиясы",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2490",
+    "name": "Ыбырай Алтынсарин атындағы жалпы білім беретін № 25 орта мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2728",
+    "name": "№ 1 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2750",
+    "name": "№ 3 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2756",
+    "name": "№ 4 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2283",
+    "name": "№ 10 арнайы мектеп-интернаты",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2471",
+    "name": "№ 24 орта мектеп-интернаты",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2758",
+    "name": "№5 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2672",
+    "name": "№9 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2705",
+    "name": "№10 жалпы білім беретін мектебі",
+    "districtId": "85",
+    "districtName": "Балқаш",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2737",
+    "name": "Ақжар негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2579",
+    "name": "Ақөре негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2585",
+    "name": "Ақтөбе жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2426",
+    "name": "Алғабас негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2617",
+    "name": "Амангелді жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2469",
+    "name": "Ахмет Байтұрсынұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2460",
+    "name": "Әлкей Марғұлан атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2724",
+    "name": "Байқадам жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2546",
+    "name": "Белағаш жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2667",
+    "name": "Березняк жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2670",
+    "name": "Ботақара жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2597",
+    "name": "Бұқар жырау негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2684",
+    "name": "Жаңаталап жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2509",
+    "name": "Жүсіпбек Аймауытұлы атындағы жалпы білім беретін мектеп",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2687",
+    "name": "Заречный жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2719",
+    "name": "К. Боранбаев атындағы негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2746",
+    "name": "Калинин жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2559",
+    "name": "Керней тірек мектебі (ресурстық орталық)",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2663",
+    "name": "Киров негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2482",
+    "name": "Көкпекті жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2488",
+    "name": "Краснонива негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2526",
+    "name": "Қаныш Сәтбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2716",
+    "name": "Қушоқы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2679",
+    "name": "Мәнжі батыр атындағы Қаражар жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2629",
+    "name": "Мәшһур Жүсіп атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2696",
+    "name": "Нұра жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2633",
+    "name": "Ростовка тірек мектебі (ресурстық орталық)",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2725",
+    "name": "С.Т. Елгизек атындағы негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2712",
+    "name": "Сарытау негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2731",
+    "name": "Сарытөбе негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2692",
+    "name": "Сәбит Мұқанов атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2689",
+    "name": "Сұлтанмахмұт Торайғыров атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2707",
+    "name": "Талғат Бигелдинов атындағы жалпы білім беретін мектеп",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2461",
+    "name": "Тасшоқы негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2695",
+    "name": "Токаревка тірек мектебі (ресурстық орталық)",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2606",
+    "name": "Тұзды жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2666",
+    "name": "Үміткер жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2377",
+    "name": "Үштөбе тірек мектебі (ресурстық орталық)",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2446",
+    "name": "Шешенқара жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2648",
+    "name": "Ыбырай Алтынсарин атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2653",
+    "name": "Ынтымақ негізгі орта мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2729",
+    "name": "Юрий Гагарин атындағы жалпы білім беретін мектебі",
+    "districtId": "91",
+    "districtName": "Бұқар жырау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8079",
+    "name": "1",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7239",
+    "name": "Абай атындағы мектеп-гимназиясы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2361",
+    "name": "Академик Е.А. Букетов атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2761",
+    "name": "Академик К. А. Сагинов атындағы Колледж-Мектебі Ж",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2385",
+    "name": "Ақпараттық технологиялар мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2420",
+    "name": "Альтер еркін даму мектебі Ж",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2475",
+    "name": "Ассоциированная школа ЮНЕСКО ДИАЛОГ Ж (жұмысы тоқтатылған)",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2591",
+    "name": "Ахмет Байтұрсынұлы атындағы мектеп-гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2308",
+    "name": "Әл-Фараби атындағы мектеп-гимназиясы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2733",
+    "name": "Әлихан Бөкейхан атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2474",
+    "name": "Әлия Молдағұлова атындағы облыстық мамандандырылған олимпиадалық резервтегі мектеп-интернат-колледжі (мектеп)",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7097",
+    "name": "Әлімхан Ермеков атындағы мектеп-лицейі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2765",
+    "name": "Бауыржан Момышұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2637",
+    "name": "Григорий Потанин атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2641",
+    "name": "Ғабиден Мустафин атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2605",
+    "name": "Дарын мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2372",
+    "name": "Екі мәрте Кеңес Одағының Батыры Т.Ж. Бигелдинов атындағы Қарағанды республикалық Жас ұлан мектебі Р",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2459",
+    "name": "Жақып Ақбаев атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2574",
+    "name": "Жамбыл атындағы мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2409",
+    "name": "Жұмабек Тәшенев атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2603",
+    "name": "Қазыбек Нұржанов атындағы гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2545",
+    "name": "Қаныш Сәтбаев атындағы гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2501",
+    "name": "Қарағанды қаласындағы ХББ НЗМ ф-лы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8140",
+    "name": "Қарағанды облысы білім басқармасының Қарағанды қаласы білім бөлімінің \"№24 жалпы орта білім беретін мектеп\" коммуналдық мемлекеттік мекемесі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2562",
+    "name": "Мағжан Жұмабаев атындағы гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2561",
+    "name": "Мамандандырылған музыка мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2700",
+    "name": "Мартбек Мамыраев атындағы мектеп-интернат",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2537",
+    "name": "Мұрагер мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2578",
+    "name": "Н.Нұрмақов атындағы мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2541",
+    "name": "Нұркен Әбдіров атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2379",
+    "name": "Профессор Т.А. Әбдіразақов ат. бизнес және басқару мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2572",
+    "name": "Сәкен Сейфуллин атындағы гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2516",
+    "name": "Сләмия Саттаров атындағы мектеп-лицейі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2422",
+    "name": "Шәкәрім атындағы гимназиясы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2433",
+    "name": "Школа Будущего Әділет балабақша - мектеп кешені Ж",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7913",
+    "name": "Школа Мозаика-Караганда",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2344",
+    "name": "Ыбырай Алтынсарин атындағы мектеп- лицейі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2484",
+    "name": "Ю.Н. Павлов атындағы жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7256",
+    "name": "AZMAR PREMIUM МЕКТЕБІ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7139",
+    "name": "BASTAU ЗБ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7839",
+    "name": "DOSTIQ APEX SCHOOL",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2406",
+    "name": "ERFOLG оқу орталығы МЕМ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2391",
+    "name": "FRIENDSHIP ЖМ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7414",
+    "name": "Logos School",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2711",
+    "name": "№ 5 қосымша білім беру мектеп-орталығы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2296",
+    "name": "№ 6 арнайы мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2652",
+    "name": "№ 12 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2683",
+    "name": "№ 15 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2717",
+    "name": "№ 17 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2638",
+    "name": "№ 21 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2673",
+    "name": "№ 25 жалпы білім беретін мектебі КМК",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2747",
+    "name": "№ 30 жалпы білім беретін мектебі КМУ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2428",
+    "name": "№ 32 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2303",
+    "name": "№ 45 гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2318",
+    "name": "№ 46 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2330",
+    "name": "№ 48 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2600",
+    "name": "№ 61 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2688",
+    "name": "№ 66 мектеп - лицей",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2709",
+    "name": "№ 73 негізгі орта мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2723",
+    "name": "№ 74 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2613",
+    "name": "№ 81 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2565",
+    "name": "№ 91 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2437",
+    "name": "№ 95 мектеп-гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2624",
+    "name": "№1 арнайы мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2592",
+    "name": "№1 БІЛІМ-ИННОВАЦИЯ лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2671",
+    "name": "№1 Гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2640",
+    "name": "№2 арнайы мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2682",
+    "name": "№2 Білім-инновация лицей-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2399",
+    "name": "№2 лицей",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2649",
+    "name": "№3 арнайы мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2685",
+    "name": "№3 гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2680",
+    "name": "№4 арнайы мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2698",
+    "name": "№4 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2594",
+    "name": "№4 мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2563",
+    "name": "№6 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2582",
+    "name": "№8 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2621",
+    "name": "№10 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2639",
+    "name": "№11 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2660",
+    "name": "№13 қосымша білім беру мектеп-орталығы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7601",
+    "name": "№14 мектеп-гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2701",
+    "name": "№16 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2610",
+    "name": "№18 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7968",
+    "name": "№19 жалпы орта білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2623",
+    "name": "№20 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2612",
+    "name": "№22 мектеп-интернаты",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2665",
+    "name": "№23 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8141",
+    "name": "№26 ЖОББМ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2315",
+    "name": "№27 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8142",
+    "name": "№28 ЖОББМ",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2445",
+    "name": "№33 мектеп-бөбекжай кешені",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2505",
+    "name": "№36 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2529",
+    "name": "№37 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2576",
+    "name": "№40 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2266",
+    "name": "№42 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2291",
+    "name": "№44 негізгі орта мектебі (қызметі уақытша тоқтатылды)",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2333",
+    "name": "№50 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2350",
+    "name": "№51 қосымша білім беру мектеп-орталығы",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2382",
+    "name": "№53 мектеп-лицейі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2504",
+    "name": "№56 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2558",
+    "name": "№59 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2581",
+    "name": "№60 жалпы білім беретін мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2622",
+    "name": "№62 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2656",
+    "name": "№64 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2669",
+    "name": "№65 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2768",
+    "name": "№78 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2590",
+    "name": "№79 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2625",
+    "name": "№82 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2651",
+    "name": "№85 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2662",
+    "name": "№86 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2521",
+    "name": "№87 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2547",
+    "name": "№88 жалпы білім беретін мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2328",
+    "name": "№97 гимназия",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2331",
+    "name": "№100 кешкі мектеп",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2366",
+    "name": "№134 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2384",
+    "name": "№137 негізгі орта мектебі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7637",
+    "name": "QAZBILIM QARAGANDY ұлттық лицейі",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7902",
+    "name": "QSschool Qaraganda",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8012",
+    "name": "Zerdeli БЦ Прайм",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "8013",
+    "name": "Zerdeli Шахтеров 46\\1",
+    "districtId": "77",
+    "districtName": "Қарағанды",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2466",
+    "name": "Абыз ауылының №27 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2319",
+    "name": "Айнабұлақ ауылының №31 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2533",
+    "name": "Айнабұлақ ауылының №38 бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7602",
+    "name": "Айрық ауылынын бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2588",
+    "name": "Айыр ауылының № 57 бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2527",
+    "name": "Академик Орынбек Жәутіков атындағы № 1 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2408",
+    "name": "Ақбай-Қызылбай ауылының №24 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2515",
+    "name": "Ақжол ауылының Әлібек Бүркітбаев атындағы №12 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2297",
+    "name": "Ақтасты ауылының № 32 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2599",
+    "name": "Аппаз ауылының Рамазан Сағымбеков атындағы № 18 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2443",
+    "name": "Ахмет Байтұрсынұлы атындағы №26 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2400",
+    "name": "Әлімхан Ермеков атындағы №2 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2287",
+    "name": "Бақты ауылының № 21 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2569",
+    "name": "Белдеутас ауылының №52 бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2407",
+    "name": "Бесоба ауылының № 8 тірек мектебі (ресурстық орталығы)",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2560",
+    "name": "Борлыбұлақ ауылының № 42 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2264",
+    "name": "Бүркітті ауылының жалпы білім беретін № 20 орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2455",
+    "name": "Егіндібұлақ ауылының №5 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2326",
+    "name": "Жаңатоған ауылының №14 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2497",
+    "name": "Жарлы ауылының № 10 Нүркен Әбдіров атындағы жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2479",
+    "name": "Жарлы ауылының №9 бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2427",
+    "name": "Көктас ауылының № 4 жалпы білім беретін тірек мектебі (ресурстық орталығы)",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2749",
+    "name": "Қажыкен Смайылов атындағы №43 жалпы білім беретін тірек мектебі ( ресурстық орталық ) жанындағы интернат",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2495",
+    "name": "Қарабұлақ ауылының №33 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2557",
+    "name": "Қарағайлы кентінің №16 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2483",
+    "name": "Қарағаш ауылының № 28 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2510",
+    "name": "Қоянды ауылының №35 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2393",
+    "name": "Қызылту ауылының № 13 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2534",
+    "name": "Қызылшілік ауылының №41бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2540",
+    "name": "Матақ ауылының №15 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2378",
+    "name": "Мәди Бапиұлы атындағы №44 жалпы білім беретін тірек мектеп (ресурстық орталық) жанындағы интернаты",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2336",
+    "name": "Өсібай ауылының №29 бастауыш мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2577",
+    "name": "Рысбала Молдақашева атындағы № 17 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2513",
+    "name": "Сарыобалы ауылының № 34 негізгі орта мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2432",
+    "name": "Талды ауылының №19 жалпы білім беретін тірек мектебі (ресурстық орталығы)",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2376",
+    "name": "Татан ауылының № 23 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2414",
+    "name": "Тегісшілдік ауылының №6 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2304",
+    "name": "Теректі ауылының №30 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2293",
+    "name": "Томар ауылының №22 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2419",
+    "name": "Ынталы ауылының № 3 жалпы білім беретін мектебі",
+    "districtId": "75",
+    "districtName": "Қарқаралы",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2732",
+    "name": "Абай ат. Шұбаркөл ЖБ",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2643",
+    "name": "Абдолла Асылбеков атындағы жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2332",
+    "name": "Аққолқа бастауыш мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2517",
+    "name": "Ахмет Байтұрсынұлы атындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2457",
+    "name": "Әлихан Бөкейхан атындағы жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2655",
+    "name": "Байтуған жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2567",
+    "name": "Балықтыкөл негізгі орта мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2553",
+    "name": "Баршын тірек мектебі (ресурстық орталық)",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2271",
+    "name": "Дәкен Шалабекұлы атындағы бастауыш мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2282",
+    "name": "Жаңа-Құрлыс бастауыш мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2757",
+    "name": "Жараспай жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2531",
+    "name": "Жүсіпбек Аймауытұлы атындағы негізгі орта мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2493",
+    "name": "К. Шайменов атындағы жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2532",
+    "name": "Кәрім Мыңбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2573",
+    "name": "Қарақойын жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2677",
+    "name": "Қарой жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2539",
+    "name": "Құланөтпес негізгі орта мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2410",
+    "name": "М. Жұмабаев ат. жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2740",
+    "name": "Мүтәш Сүлейменов атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2759",
+    "name": "Міржақып Дулатұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2620",
+    "name": "Нұра жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2317",
+    "name": "Нығыман бастауыш мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2697",
+    "name": "Өмірзақ Тұрлыбеков атындағы бастауыш мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2598",
+    "name": "Пушкин негізгі орта мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2436",
+    "name": "Рақымжан Қошқарбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2752",
+    "name": "Рахим Асубаев ат. жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2481",
+    "name": "С.О. Талжанов атындағы жалпы орта білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2713",
+    "name": "Сарыөзен негізгі орта мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2549",
+    "name": "Сәкен Сейфуллин атындағы жалпы білім беретін мектеп",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2691",
+    "name": "Соналы бастауш мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2611",
+    "name": "Ш. Уәлиханов ат. жалпы білім беретін мектебі",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2721",
+    "name": "Ыбырай Алтынсарин атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "80",
+    "districtName": "Нұра",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2485",
+    "name": "Абай атындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2387",
+    "name": "Ахмет Байтұрсынұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2345",
+    "name": "Әлихан Бөкейхан атындағы тірек мектебі (ресурстық орталығы)",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2602",
+    "name": "Жамбыл атындағы жалпы білім беретін мектеg",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2425",
+    "name": "Қаныш Сәтбаев атындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2489",
+    "name": "Осакаров ауданының мектеп-интернат-колледжі",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2528",
+    "name": "Ыбырай Алтынсарин атындағы жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2337",
+    "name": "№ 17 негізгі орта мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2368",
+    "name": "№2 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2383",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2442",
+    "name": "№6 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2464",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2486",
+    "name": "№8 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2498",
+    "name": "№9 гимназия базасындағы тірек мектеп (ресурстық орталық)",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2519",
+    "name": "№10 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2536",
+    "name": "№11 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2552",
+    "name": "№12 тірек мектеп (ресурстық орталық)",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2295",
+    "name": "№13 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2310",
+    "name": "№15 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2321",
+    "name": "№16 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2351",
+    "name": "№18 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2370",
+    "name": "№20 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2401",
+    "name": "№22 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2444",
+    "name": "№24 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2468",
+    "name": "№25 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2502",
+    "name": "№28 жалпы білім беретін мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2335",
+    "name": "№30 негізгі орта мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2476",
+    "name": "№31 негізгі орта мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2411",
+    "name": "№32 негізгі орта мектебі",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2394",
+    "name": "№33 негізгі орта мектебі",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2365",
+    "name": "№34 негізгі орта мектеп",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2279",
+    "name": "№35 негізгі орта мектебі",
+    "districtId": "84",
+    "districtName": "Осакаров",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2543",
+    "name": "№1 жалпы білім беретін мектебі",
+    "districtId": "92",
+    "districtName": "Приозер",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2568",
+    "name": "№2 жалпы білім беретін мектебі",
+    "districtId": "92",
+    "districtName": "Приозер",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2302",
+    "name": "Абай атындағы жалпы білім беретін мектебі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2402",
+    "name": "Кешенді мектеп-бөбекжай Бахыт",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2763",
+    "name": "№ 7 мектеп-интернаты",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2676",
+    "name": "№ 16 жалпы білім беретін мектебі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2290",
+    "name": "№1 мектеп-лицейі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2755",
+    "name": "№2 жалпы білім беретін мектебі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2324",
+    "name": "№6 жалпы білім беретін мектебі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2325",
+    "name": "№9 арнайы мектеп-интернаты",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2661",
+    "name": "№13 жалпы білім беретін мектебі",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2693",
+    "name": "№17 мектеп-гимназиясы",
+    "districtId": "87",
+    "districtName": "Саран",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2681",
+    "name": "Әлихан Бөкейхан атындағы гимназия",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2760",
+    "name": "Бауыржан Момышұлы атындағы мектеп-лицейі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2678",
+    "name": "Бірінші Теміртау классикалық лицейі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2730",
+    "name": "Ғабиден Мұстафин атындағы жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2647",
+    "name": "Қыздар гимназиясы",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "7190",
+    "name": "Озат ақпараттық технологиялар мамандандырылған мектеп-лицейі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2462",
+    "name": "Престиж мектебі ЖМ",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2447",
+    "name": "Т. Әубакіров атындағы гимназия ЖМ",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2658",
+    "name": "№ 10 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2664",
+    "name": "№1 гимназия",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2589",
+    "name": "№1 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2608",
+    "name": "№2 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2703",
+    "name": "№3 жалпы білім береті мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2718",
+    "name": "№4 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2269",
+    "name": "№5 арнайы мектеп - интернаты",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2742",
+    "name": "№6 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2751",
+    "name": "№7 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2342",
+    "name": "№8 арнайы мектеп - интернаты",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2628",
+    "name": "№8 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2645",
+    "name": "№9 лицей",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2675",
+    "name": "№11 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2690",
+    "name": "№12 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2704",
+    "name": "№14 мектеп-лицей",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2699",
+    "name": "№16 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2710",
+    "name": "№17 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2726",
+    "name": "№19 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2735",
+    "name": "№20 мектеп-лицейі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2745",
+    "name": "№21 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2754",
+    "name": "№22 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2764",
+    "name": "№24 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2766",
+    "name": "№27 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2722",
+    "name": "№28 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2739",
+    "name": "№29 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2618",
+    "name": "№31 жалпы білім беретін мектебі",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2634",
+    "name": "№32 жалпы білім беретін мектеп",
+    "districtId": "78",
+    "districtName": "Теміртау",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2508",
+    "name": "Әлихан Бөкейханов атындағы мектеп - лицейі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2720",
+    "name": "Евней Бөкетов атындағы жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2452",
+    "name": "Санжар Асфендияров атындағы жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2743",
+    "name": "Сәкен Сейфуллин атындағы мектеп - гимназия",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2694",
+    "name": "Шоқан Уәлиханов атындағы мектеп - гимназиясы",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2708",
+    "name": "№ 2 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2734",
+    "name": "№ 4 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2438",
+    "name": "№ 6 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2525",
+    "name": "№ 7 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2289",
+    "name": "№ 8 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2473",
+    "name": "№ 11 жалпы білім беретін мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2491",
+    "name": "№ 12 жалпы білім беретін мектебіі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2357",
+    "name": "№7 арнайы мектеп-интернаты",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2753",
+    "name": "№31 түзету мекемесінің жанындағы №10 жалпы білім беру мектебі",
+    "districtId": "86",
+    "districtName": "Шахтинск",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2346",
+    "name": "56-разъездің бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2609",
+    "name": "А. Ермеков атындағы тірек мектеп (ресурстық орталық) жанындағы интернат",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2276",
+    "name": "Абай атындағы жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2650",
+    "name": "Ақадыр бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2309",
+    "name": "Ақбауыр бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2280",
+    "name": "Ақжал негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2307",
+    "name": "Ақой жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2316",
+    "name": "Ақсу негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2294",
+    "name": "Алтайбаев атындағы негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2580",
+    "name": "Әлихан негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2575",
+    "name": "Батық жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2270",
+    "name": "Бект негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2306",
+    "name": "Берекетті бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2659",
+    "name": "Босаға жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2564",
+    "name": "Бұрма тірек мектебі (ресурстық орталық)",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2556",
+    "name": "Дарья жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2313",
+    "name": "Еңбекшіл бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2674",
+    "name": "Еркіндік жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2551",
+    "name": "Жамбыл Ақылбаев атындағы мектеп-гимназиясы",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2542",
+    "name": "Жарық жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2596",
+    "name": "Көктіңкөлі жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2298",
+    "name": "Қайрақты бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2292",
+    "name": "Қармыс бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2511",
+    "name": "Қызылқой негізгі білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2619",
+    "name": "Қызылтау негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2322",
+    "name": "М. Жапақов атындағы негізгі орта мектеп",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2467",
+    "name": "М.Мәметова атындағы жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2440",
+    "name": "Мойынты жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2601",
+    "name": "Мұхтар негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2285",
+    "name": "Нұра жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2586",
+    "name": "Нұраталды жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2496",
+    "name": "Ортау негізгі орта мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2635",
+    "name": "С. Мұқамеджанов атындағы жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2738",
+    "name": "Сәкен жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2604",
+    "name": "Талды жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2587",
+    "name": "Хасен Сәрінжіпұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2520",
+    "name": "Ш. Батталова атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2499",
+    "name": "Ш. Уәлиханов атындағы жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2272",
+    "name": "Шәкәрім атындағы жалпы білім беретін мектеп",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2530",
+    "name": "Шет жалпы білім беретін мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2277",
+    "name": "Шопа бастауыш мектебі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2631",
+    "name": "Ы. Алтынсарин атындағы тірек мектеп (ресурстық орталық) жанындағы интернат",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  },
+  {
+    "id": "2448",
+    "name": "Ю.А. Гагарин атындағы мектеп-лицейі",
+    "districtId": "79",
+    "districtName": "Шет",
+    "provinceId": "7",
+    "provinceName": "Қарағанды"
+  }
+]

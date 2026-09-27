@@ -1,0 +1,3338 @@
+[
+  {
+    "id": "8074",
+    "name": "212 мектеп гимназиясы КММ",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8182",
+    "name": "218 жалпы білім беретін мектеп КММ",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8077",
+    "name": "218 жалпы білім мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7067",
+    "name": "Алгорифм физика-математикалық лицей КЕЖЖМ",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7172",
+    "name": "Амир жекешелендірген жалпы білім беру мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6911",
+    "name": "Иштван Қоңыр Мандоки атындағы №154 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7018",
+    "name": "ҚАЙНАР мектебі м-сі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8237",
+    "name": "Лицей №166",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6868",
+    "name": "М.Хамраев атындағы №150 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7051",
+    "name": "Шаңырақ шағын ауданындағы олимпиада резервінің республикалық мамандандырылған мектеп-интернат Р",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7567",
+    "name": "Школа-гимназия № 209",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7584",
+    "name": "AB Future School мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7983",
+    "name": "Abyroi School",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7755",
+    "name": "ACADEMY MIRAS мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7276",
+    "name": "DAMU School мекемесі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7693",
+    "name": "JOO High School Almaty Alatau",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8106",
+    "name": "№ 14 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6986",
+    "name": "№ 178 мамандандырылған лицей",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7099",
+    "name": "№ 201 мектеп-гимназия",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6808",
+    "name": "№14 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6817",
+    "name": "№26 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6838",
+    "name": "№82 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6844",
+    "name": "№91 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6866",
+    "name": "№114 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6861",
+    "name": "№149 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6884",
+    "name": "№151 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6898",
+    "name": "№152 мектеп-гимназия",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6928",
+    "name": "№156 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6948",
+    "name": "№160 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6959",
+    "name": "№164 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6966",
+    "name": "№166 лицей",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6977",
+    "name": "№169 мектеп-лицей",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6919",
+    "name": "№171 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7062",
+    "name": "№179 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8177",
+    "name": "№179 ЖББМ",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7058",
+    "name": "№180 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7059",
+    "name": "№181 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7044",
+    "name": "№182 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7035",
+    "name": "№184 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7060",
+    "name": "№185 мектеп-гимназия",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6982",
+    "name": "№196 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8249",
+    "name": "№204 жалпы білім беретін мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8250",
+    "name": "№204 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7481",
+    "name": "№204 Жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7495",
+    "name": "№205 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7589",
+    "name": "№210 мектеп-лицей",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8255",
+    "name": "№212 мектеп-гимназия",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8053",
+    "name": "№213 мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8057",
+    "name": "№217 жалпы білім беру мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8257",
+    "name": "№222 жалпы білім беретін мектеп КГУ",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8269",
+    "name": "№230 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8271",
+    "name": "№231 жалпы білім беретін мектеп",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7973",
+    "name": "Nurorda Almaty",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7749",
+    "name": "PRIZMA school",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7757",
+    "name": "Qazaq School",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8075",
+    "name": "Rich School мектебі",
+    "districtId": "220",
+    "districtName": "Алатау",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8185",
+    "name": "#216 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8186",
+    "name": "216жббм",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7055",
+    "name": "А.Селезнев атындағы хореографиялық училищесі РМҚК (мектеп)",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6916",
+    "name": "Арман оқыту-тәрбие беру кешені мектебі МЕМ",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7036",
+    "name": "Ахмет Жұбанов атындағы дарынды балаларға арналған республикалық қазақ мамандандырылған музыка мектеп-интернаты Р",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7003",
+    "name": "Ә.Шәріпов атындағы №16 жалпы білім беретін мектеп кмм",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6946",
+    "name": "әл-Фараби атындағы Қазақ ұлттық университеті РМК жанындағы мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6856",
+    "name": "Б.Атыханұлы атындағы №36 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6939",
+    "name": "Голубой парус мектебі Б",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7026",
+    "name": "Жәния Әубәкірованың авторлық мектебі м-сі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6922",
+    "name": "И.В.Панфилов атындағы № 54 Қазақстан-Ресей мамандандырылған мектеп-лицейі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7034",
+    "name": "Кәркен Ахметов атындағы олимпиада резервінің Республикалық мектеп-интернат Р",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6996",
+    "name": "Лингвистикалық мектеп-лицейі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7032",
+    "name": "М. Дулатов атындағы №136 мектеп-гимназиясы",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7000",
+    "name": "М.Әуезов атындағы №128 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6983",
+    "name": "Мәжит Бегалин атындағы №120 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7038",
+    "name": "Международная школа-лицей Достар",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7019",
+    "name": "Спорттағы дарынды балаларға арналған мамандандырылған мектеп-интернат МКҚК",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6863",
+    "name": "Сұлтан-Ахмет Ходжиков атындағы №39 мамандандырылған лицей",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6840",
+    "name": "Халықаралық Қазақстан-Түркия Лицейі ЖМ",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7056",
+    "name": "Халықаралық үздіксіз білім беру колледжі мектебі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6952",
+    "name": "Ш.Смаханұлы атындағы №62 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7045",
+    "name": "Шәкәрім Құдайбердіұлы атындағы №75 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6841",
+    "name": "Ілияс Есенберлин атындағы №25 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6924",
+    "name": "Alma School Кәсіпкерлік білім беру мектебі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7322",
+    "name": "Arman shaq мектебі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7970",
+    "name": "Baiterek school",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6832",
+    "name": "BS Academy",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7818",
+    "name": "COSMO INTERNATIONAL SCHOOL",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7298",
+    "name": "EPG PROMETHEUS SCHOOL",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7221",
+    "name": "Innovative School мектебі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6843",
+    "name": "InterLingua лицейі м-сі",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8128",
+    "name": "International Steppe School of Almaty",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6981",
+    "name": "№8 мектеп-гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6990",
+    "name": "№15 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7013",
+    "name": "№18 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7023",
+    "name": "№24 Лицей",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6850",
+    "name": "№34 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6915",
+    "name": "№46 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6934",
+    "name": "№55 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6942",
+    "name": "№58 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7037",
+    "name": "№67 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7047",
+    "name": "№79 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6955",
+    "name": "№90 мамандандырылған мектеп-лицей",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6963",
+    "name": "№95 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6976",
+    "name": "№96 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6992",
+    "name": "№124 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7010",
+    "name": "№134 лицей",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7020",
+    "name": "№135 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7039",
+    "name": "№144 мектеп-гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6945",
+    "name": "№147 гимназия",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6954",
+    "name": "№167 жалпы білім беретін мектеп",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7996",
+    "name": "Zerdeli Наурызбай батыр 99/1",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7999",
+    "name": "Zerdeli Төле Би 303",
+    "districtId": "222",
+    "districtName": "Алмалы",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7284",
+    "name": "125 ALMATY 125 High School Almaty мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6918",
+    "name": "А.Байтұрсынов атындағы №139 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6936",
+    "name": "А.Розыбакиев атындағы №153 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6951",
+    "name": "АК НИЕТ бастауыш мектебі м-сі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6822",
+    "name": "АРАЙ мектебіОӘҚО СЕМ",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6997",
+    "name": "Арнаулы білім беру ұйымы",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6970",
+    "name": "Архимед мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7201",
+    "name": "Балабақша Балалар Әлемі бастауыш мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7024",
+    "name": "Бауыржан Момышұлы атындағы Алматы республикалық Жас ұлан мектебі Р",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7205",
+    "name": "ГанибетGanibet мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6905",
+    "name": "Ғ.Мүсірепов атындағы №86 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8265",
+    "name": "Данышпан School",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6949",
+    "name": "Жаңа Ғасыр №175 гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7079",
+    "name": "ЗЕРДЕШ мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7009",
+    "name": "Қожа Ахмет Яссауи атындағы №123 мектеп-гимназиясы",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6969",
+    "name": "Мамандандырылған Білім-инновация лицей-интернаты",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7709",
+    "name": "МАСК Групп Озат мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7618",
+    "name": "Пифагор жекеменшік мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6874",
+    "name": "Ш.К. Беркімбаева атындағы Алматы қыздар мектеп-лицей-интернаты мекемесі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6788",
+    "name": "Школа Келешек м-сі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7377",
+    "name": "школа Orken Education",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6888",
+    "name": "І.Жансүгіров атындағы №130 гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6835",
+    "name": "Bilimkana-Almaty мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7302",
+    "name": "COSMO INTERNATIONAL SCHOOL ALMATY",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7380",
+    "name": "Dostyq School Almaty",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8240",
+    "name": "FIZTEX частная школа",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6865",
+    "name": "Galaxy Халықаралық мектебі м-сі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7787",
+    "name": "Insight school",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6826",
+    "name": "Lakeview School Almaty мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6882",
+    "name": "№ 27 гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6964",
+    "name": "№1 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7053",
+    "name": "№4 арнайы мектеп-интернаты",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6947",
+    "name": "№5 арнайы мектеп-интернаты",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6975",
+    "name": "№5 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6985",
+    "name": "№6 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6995",
+    "name": "№9 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6876",
+    "name": "№13 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6891",
+    "name": "№42 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6893",
+    "name": "№72 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6914",
+    "name": "№97 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6923",
+    "name": "№104 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6933",
+    "name": "№111 гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6943",
+    "name": "№113 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6956",
+    "name": "№116 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7931",
+    "name": "№116 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6967",
+    "name": "№117 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6978",
+    "name": "№119 мектеп- лицей",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6987",
+    "name": "№121 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6999",
+    "name": "№122 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6872",
+    "name": "№126 мектеп-лицей",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6881",
+    "name": "№127 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6899",
+    "name": "№132 гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6909",
+    "name": "№133 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6925",
+    "name": "№141 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6941",
+    "name": "№155 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6921",
+    "name": "№158 жалпы білім беретін мектеп",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6937",
+    "name": "№173 мектеп-лицей",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7212",
+    "name": "№202 мектеп-гимназия",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7075",
+    "name": "Parasat Almaty Мектебі м-сі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7728",
+    "name": "PhysTech School Almaty",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7355",
+    "name": "QALAM SCHOOL мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7623",
+    "name": "QAZBILIM ALMATY ұлттық лицейі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7494",
+    "name": "Vector жекеменшік мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7997",
+    "name": "Zerdeli Аксай 4/80 А",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7545",
+    "name": "Zhiger S мектебі",
+    "districtId": "216",
+    "districtName": "Әуезов",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8065",
+    "name": "215 мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7121",
+    "name": "Алматинская школа A- school с непрерывным циклом обучения",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6847",
+    "name": "Әл-Фараби атындағы №145 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6974",
+    "name": "Білімді дамытудың БЭСТ мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7049",
+    "name": "Ғабиден Мұстафин атындағы № 191 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7031",
+    "name": "Күләш Байсейітова атындағы дарынды балаларға арналған республикалық мамандандырылған музыкалық орта мектеп-интернаты Р",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6814",
+    "name": "ҚАЗАҚСТАНДЫҚ ЗИЯТ МЕКТЕБІ",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7057",
+    "name": "ҚАЗБСҚА Мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6935",
+    "name": "ҚАУ Мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6917",
+    "name": "ЛИДЕР мектебі МЕБ",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6831",
+    "name": "М. Базарбаев атындағы №138 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6794",
+    "name": "М. В. Ломоносов атындағы №38 Қазақстан-Ресей гимназиясы",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6897",
+    "name": "МАГИСТР жеке меншік мектебі Б",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6790",
+    "name": "Махатма Ганди атындағы №92 мамандандырылған лицей",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6837",
+    "name": "Мұқағали Мақатаев атындағы №140 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6811",
+    "name": "О. Жандосов атындағы №105 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7054",
+    "name": "Өзін-өзі тану гимназиясы РМҚК",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8025",
+    "name": "Пифагор мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6816",
+    "name": "ПРЕСТИЖ мектебі МЕМ",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7066",
+    "name": "Республикалық спорт мектебі РМҚК",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6908",
+    "name": "Республикалық физика-математика мектебі КЕАҚ филиалы",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7065",
+    "name": "Сүлейман Демирел атындағы мектеп-интернат-колледжі мекемесі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7052",
+    "name": "Т.Қ. Жүргенов атындағы негізгі орта мектебі Р",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8076",
+    "name": "Тамос Лингво",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6927",
+    "name": "Тамос Эдьюкейшн Физико- Математикалық Мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6907",
+    "name": "Тұран Университеті жанындағы мектеп м-сі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6910",
+    "name": "Тұрмысы төмен отбасынан шыққан балаларға арналған №10 жалпы білім беретін мектеп - интернаты",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8073",
+    "name": "УО тамос IT школа",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7050",
+    "name": "Шәкәрім Құдайбердіұлы атындағы №190 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7303",
+    "name": "Школа Мозаика-Казахстан",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6860",
+    "name": "Школа Нового Поколения NGS (Эн Джи Эс)",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7104",
+    "name": "ЭКО-Школа Живая Вселенная",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6885",
+    "name": "ЭЛКО жалпы орта білім беру мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7516",
+    "name": "Almaty School of Physics and Mathematics (ASPM)",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8126",
+    "name": "Baiterek science and technology school",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7297",
+    "name": "Bayterek 2050 мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7330",
+    "name": "Cosmo Primary School",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7313",
+    "name": "Damina Білім Орталығы (мектеп)",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7536",
+    "name": "JOO High School Almaty",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7275",
+    "name": "KEMEL қалалық физика-математика мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8129",
+    "name": "Kemel физика-математика мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8157",
+    "name": "KOULA Almaty",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7799",
+    "name": "Millennium Schools",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6799",
+    "name": "NNEF қоғамдық қорының филиалы Алматы қаласындағы Мирас халықаралық мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6793",
+    "name": "NNEF қоғамдық қорының филиалы Алматы қаласындағы Халықаралық мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8137",
+    "name": "№ 126 мамандандырылған лицей",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7014",
+    "name": "№ 183 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6958",
+    "name": "№1 арнайы мектеп-интернаты",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7043",
+    "name": "№2 арнайы мектеп-интернаты",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6973",
+    "name": "№7 арнайы мектеп-интернат",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6984",
+    "name": "№9 арнайы мектеп-интернаты",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7007",
+    "name": "№10 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7061",
+    "name": "№21 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7017",
+    "name": "№22 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7027",
+    "name": "№23 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6791",
+    "name": "№37 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6802",
+    "name": "№40 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6812",
+    "name": "№45 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6818",
+    "name": "№51 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6828",
+    "name": "№60 гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6839",
+    "name": "№63 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6848",
+    "name": "№65 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6862",
+    "name": "№68 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6871",
+    "name": "№69 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6878",
+    "name": "№70 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6889",
+    "name": "№73 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6896",
+    "name": "№81 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6906",
+    "name": "№88 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6795",
+    "name": "№93 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6800",
+    "name": "№94 мектеп-гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6819",
+    "name": "№125 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6853",
+    "name": "№146 мектеп-лицей",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6859",
+    "name": "№165 мамандандырылған лицей",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7004",
+    "name": "№189 жалпы білім беретін мектеп",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6827",
+    "name": "№199 мамандандырылған гимназия",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8130",
+    "name": "№224 орта мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8263",
+    "name": "Parasat school",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7122",
+    "name": "Smart Imperium мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7682",
+    "name": "TAMOS EDUCATION (ТАМОС ЭДЬЮКЕЙШН) балақшасы",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7347",
+    "name": "The Apple Tree International School (Эппл Три Интернешнл Скул) мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7697",
+    "name": "UMKA LEADERS SCHOOL (ULS)",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7080",
+    "name": "UMKA School мектебі",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6807",
+    "name": "ZERDE мектеп-гимназиясы",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8000",
+    "name": "Zerdeli Айманова 124",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7979",
+    "name": "Zerdesh school",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7745",
+    "name": "Zhana Urpaq Mektebi",
+    "districtId": "218",
+    "districtName": "Бостандық",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7216",
+    "name": "Альтаир білім беру орталығы мектебі",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6938",
+    "name": "М.Жұмабаев атындағы №137 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6944",
+    "name": "Сүйінбай атындағы № 143 Мектеп-лицей",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6980",
+    "name": "№2 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6993",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7005",
+    "name": "№43 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7016",
+    "name": "№57 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7025",
+    "name": "№66 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7030",
+    "name": "№80 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6962",
+    "name": "№87 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6972",
+    "name": "№101 мектеп-гимназия",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6988",
+    "name": "№102 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6998",
+    "name": "№103 мектеп-гимназия",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7006",
+    "name": "№108 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7021",
+    "name": "№109 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7028",
+    "name": "№110 мектеп-гимназия",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7033",
+    "name": "№112 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6926",
+    "name": "№118 мектеп-гимназия",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6932",
+    "name": "№129 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6787",
+    "name": "№148 мектеп-гимназия",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6849",
+    "name": "№177 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6904",
+    "name": "№193 жалпы білім беретін мектеп",
+    "districtId": "215",
+    "districtName": "Жетісу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7153",
+    "name": "(AMS) Poznai-ka мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8156",
+    "name": "#220 ЖБММ",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6877",
+    "name": "73 Гвардиялық Қызыл тулы Сталинград Дунай атқыштар дивизиясы атындағы №64 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6797",
+    "name": "А.С.Пушкин атындағы №4 гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7040",
+    "name": "Абай атындағы Республикалық мамандандырылған дарынды балаларға арналған қазақ тілі мен әдебиетін тереңдете оқытатын орта мектеп- интернаты Р",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7064",
+    "name": "Алматы қаласындағы ФМБ НЗМ филиалы",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7015",
+    "name": "Б.Момышұлы атындағы №131 мектеп-лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6833",
+    "name": "БАКАЛАВРИАТ МЕКТЕБІ м-сі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6834",
+    "name": "Д. Снегин атындағы №30 мектеп-гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6930",
+    "name": "ДАНАШЫМ мектебі м-сі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6873",
+    "name": "Ж.Жабаев атындағы №161 лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6842",
+    "name": "Жекеленген гимназия Лика",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6824",
+    "name": "КӘСІПКЕРЛЕР МЕКТЕБІ Б",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6821",
+    "name": "Көкіл мектеп-колледжі мекемесі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6892",
+    "name": "Қ.Сәтбаев атындағы №56 гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6912",
+    "name": "Қасыл Қатықбаева атындағы №168 мектеп-гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6820",
+    "name": "М. Мәметова атындағы № 28 мектеп-лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7048",
+    "name": "Мамандандырылған Жанұя кешені",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6989",
+    "name": "Үзіліссіз бiлiм беретiн Сенiм мектебi м-сі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7194",
+    "name": "ҮРКЕР МЕКТЕБІ қазақ бастауыш мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7753",
+    "name": "Ш.Уәлиханов 2 атыңдағы Жекеменшiк мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6979",
+    "name": "Школа 21 века",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7714",
+    "name": "Школа Ричмонд",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7170",
+    "name": "Шоқан Уәлиханов атындағы Жекеменшiк мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6806",
+    "name": "Шоқан Уәлиханов атындағы №12 мамандандырылған гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7022",
+    "name": "Ы.Алтынсарин атындағы №159 гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6815",
+    "name": "Alliance school мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7569",
+    "name": "Bilim School",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7254",
+    "name": "Fortis Education Prime school мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7349",
+    "name": "Future Academy Leaders Junior School мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6805",
+    "name": "Global Education Балабақша-мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6852",
+    "name": "Haileybury Almaty мектебі КЕАҚ",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7768",
+    "name": "Ikigai School",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8149",
+    "name": "International Steppe School of Almaty",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8248",
+    "name": "JOO High school",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6957",
+    "name": "№6 арнайы мектеп-интернаты",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6803",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6867",
+    "name": "№17 мектеп-интернаты",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6813",
+    "name": "№19 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6829",
+    "name": "№29 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6846",
+    "name": "№33 мектеп-лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6857",
+    "name": "№35 гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6864",
+    "name": "№47 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6869",
+    "name": "№48 мектеп-лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6875",
+    "name": "№52 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6883",
+    "name": "№53 мектеп-гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6886",
+    "name": "№77 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6895",
+    "name": "№98 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6901",
+    "name": "№99 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7008",
+    "name": "№100 жалпы білім беретін мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6902",
+    "name": "№163 мектеп-лицей",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6931",
+    "name": "№172 мектеп-гимназия",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6961",
+    "name": "№194 негізгі орта мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6968",
+    "name": "№197 негізгі орта мектеп",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7105",
+    "name": "PRIVATE SCHOOL KOKTOBE мектебі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7176",
+    "name": "STEAM Мектеп Лицейі білім мекемесі",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7466",
+    "name": "WUNDER academy (Академия ВУНДЕР)",
+    "districtId": "219",
+    "districtName": "Медеу",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8153",
+    "name": "#219 мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7801",
+    "name": "125 International school of Almaty жауапкершілігі шектеулі серіктестігі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8105",
+    "name": "214 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8123",
+    "name": "215 жалпы мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6825",
+    "name": "Абдолла Қарсақбаев атындағы №41 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7012",
+    "name": "Алматы қаласындағы ХББ НЗМ филиалы",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6994",
+    "name": "Алматы математика - лингвистикалық Самай мектебі м-сі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8232",
+    "name": "Алматы ZIS",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8231",
+    "name": "Алматы ZIS",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8133",
+    "name": "Гимназия Центра «Бөбек»",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7655",
+    "name": "Дамир 22 Dana мектебі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6854",
+    "name": "Жеке меншік мекемесі Maqsat мектеп-лицейі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7754",
+    "name": "Нұрлан Саметұлы атындағы мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7405",
+    "name": "Педагог академиясы қоғамдық бірлестігі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7029",
+    "name": "Рахым Сәрсенбин атындағы № 192 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7046",
+    "name": "Сейділдә Көпбаев атындағы №186 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7533",
+    "name": "Элиталық қазақ мектебі ZAMAN",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7648",
+    "name": "Abai International School",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6855",
+    "name": "AiSaf-Almaty гимназия жеке мекемесі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7001",
+    "name": "Integral мектеп-балабақшасы ЖМ (мектеп)",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6870",
+    "name": "№ 174 мектеп-гимназия",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7041",
+    "name": "№ 188 мектеп-гимназия",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6810",
+    "name": "№ 200 мектеп-гимназия",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7574",
+    "name": "№ 208 мектеп-гимназия",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6991",
+    "name": "№15 санаториялық мектеп-интернат",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7042",
+    "name": "№157 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6960",
+    "name": "№176 мектеп-гимназиясы",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6950",
+    "name": "№187 жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7475",
+    "name": "№206 мектеп-гимназия",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7588",
+    "name": "№207 мектеп-лицей",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8131",
+    "name": "№221 Жалпы білім беретін мектеп",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7369",
+    "name": "Respect School",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7734",
+    "name": "Satti Amina-1 Zeyin Eduacation мектебі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7474",
+    "name": "School Nova",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6965",
+    "name": "Smart Center SAMURYQ",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8187",
+    "name": "Smart Center SAMURYQ жеке мектебі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7796",
+    "name": "TANYM HIGH SCHOOL",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7063",
+    "name": "Tarlan school",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7335",
+    "name": "Upstream Zerek School мектебі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7998",
+    "name": "Zerdeli ЖК Шұғыла Сити 340\\4, 9-корпус",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8170",
+    "name": "Zerdeli INTERNATIONAL SCHOOL ALMATY",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8183",
+    "name": "Zerdesh EDU мектебі",
+    "districtId": "221",
+    "districtName": "Наурызбай",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8159",
+    "name": "#32 мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6801",
+    "name": "Д.Бабаев атындағы №115 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7011",
+    "name": "Жаңа бастау мектебі м-сі",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7002",
+    "name": "Мәрзия Тұрлыханова атындағы гимназия Ж",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6809",
+    "name": "С.Сейфуллин атындағы №74 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6887",
+    "name": "Сапар Байжанов атындағы №162 мектеп-гимназия",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7503",
+    "name": "Страна Детства Millennium мектебі",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7751",
+    "name": "DreamSchoolСompany",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7296",
+    "name": "JOS Қаржы лицейі",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6830",
+    "name": "№ 78 мектеп-гимназия",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6953",
+    "name": "№ 195 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7207",
+    "name": "№ 203 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "7667",
+    "name": "№ 211 мектеп-гимназия",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6880",
+    "name": "№11 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6890",
+    "name": "№17 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6894",
+    "name": "№20 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6903",
+    "name": "№31 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6913",
+    "name": "№32 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6920",
+    "name": "№44 мектеп-гимназия",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6929",
+    "name": "№49 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6940",
+    "name": "№50 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6789",
+    "name": "№59 мектеп-гимназиясы",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6798",
+    "name": "№61 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6804",
+    "name": "№71 мектеп-лицей",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6823",
+    "name": "№76 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6836",
+    "name": "№83 гимназия",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6845",
+    "name": "№84 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6851",
+    "name": "№85 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6858",
+    "name": "№89 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6792",
+    "name": "№106 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6796",
+    "name": "№107 лицей",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6879",
+    "name": "№142 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6900",
+    "name": "№170 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "6971",
+    "name": "№198 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  },
+  {
+    "id": "8270",
+    "name": "№228 жалпы білім беретін мектеп",
+    "districtId": "217",
+    "districtName": "Түркісіб",
+    "provinceId": "20",
+    "provinceName": "Алматы қ."
+  }
+]

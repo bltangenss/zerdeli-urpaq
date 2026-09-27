@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>id</b></th><th><b>name</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>17</td><td>Абай</td></tr>
+        <tr><td>1</td><td>Ақмола</td></tr>
+        <tr><td>3</td><td>Ақтөбе</td></tr>
+        <tr><td>4</td><td>Алматы</td></tr>
+        <tr><td>20</td><td>Алматы қ.</td></tr>
+        <tr><td>19</td><td>Астана қ.</td></tr>
+        <tr><td>2</td><td>Атырау</td></tr>
+        <tr><td>6</td><td>Батыс Қазақстан</td></tr>
+        <tr><td>10</td><td>Жамбыл</td></tr>
+        <tr><td>5</td><td>Жетісу</td></tr>
+        <tr><td>7</td><td>Қарағанды</td></tr>
+        <tr><td>9</td><td>Қостанай</td></tr>
+        <tr><td>11</td><td>Қызылорда</td></tr>
+        <tr><td>12</td><td>Маңғыстау</td></tr>
+        <tr><td>15</td><td>Павлодар</td></tr>
+        <tr><td>16</td><td>Солтүстік Қазақстан</td></tr>
+        <tr><td>13</td><td>Түркістан</td></tr>
+        <tr><td>8</td><td>Ұлытау</td></tr>
+        <tr><td>18</td><td>Шығыс Қазақстан</td></tr>
+        <tr><td>14</td><td>Шымкент қ.</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

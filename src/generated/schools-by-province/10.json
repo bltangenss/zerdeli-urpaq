@@ -1,0 +1,4266 @@
+[
+  {
+    "id": "3242",
+    "name": "А.С.Пушкин атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3441",
+    "name": "Абай атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3301",
+    "name": "Ағаділ Суханбаев атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3473",
+    "name": "Аққия бастауыш мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3450",
+    "name": "Ақтөбе бастауыш мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3365",
+    "name": "Ақшолақ орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3261",
+    "name": "Амангелді атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3347",
+    "name": "Әзімбек Жанқұлиев атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3489",
+    "name": "Бағара бастауыш мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3284",
+    "name": "Берікқара орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3379",
+    "name": "Бурыл орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3553",
+    "name": "Ғазиз Байтасов атындағы тірек мектебі (РО)",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3382",
+    "name": "Ғани Мұратбаев атындағы гимназиясы",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3403",
+    "name": "Дихан тірек мектебі (ресурстық орталығы)",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3670",
+    "name": "Еңбек орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3340",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3355",
+    "name": "Жаңатұрмыс орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3239",
+    "name": "Көктал орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3457",
+    "name": "Қарасу орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3431",
+    "name": "Қосақ негізгі мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3485",
+    "name": "Қостөбе орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3414",
+    "name": "М. Мәметова атындағы негізгі мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3510",
+    "name": "М.Әуезов атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7908",
+    "name": "Мәртебе бастауыш мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3507",
+    "name": "Мырзатай орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3324",
+    "name": "Н. Гоголь атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3428",
+    "name": "Н.Киікбаев атындағы мектеп-гимназиясы",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3462",
+    "name": "Намазбай Ақшабаев атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3287",
+    "name": "С.Сейфуллин атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3279",
+    "name": "Сарыбарақ негізгі мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3627",
+    "name": "Сарыкемер мектеп-гимназиясы",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3265",
+    "name": "Сыдық Абланов атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3480",
+    "name": "Т. Ақбозов атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3296",
+    "name": "Түймекент орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3317",
+    "name": "Үлгілі орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3519",
+    "name": "Үшбұлақ бастауыш мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3330",
+    "name": "Ш. Уәлиханов атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8236",
+    "name": "Шоқан Уәлиханов атындағы орта мектеп",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3522",
+    "name": "Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3315",
+    "name": "Ю. Гагарин атындағы орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7857",
+    "name": "AECHIGH SCHOOLBayzak",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7591",
+    "name": "Koktal Smart School",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3398",
+    "name": "№ 5 орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3266",
+    "name": "№1 мектеп-гимназиясы",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3367",
+    "name": "№2 орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3444",
+    "name": "№3 орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3326",
+    "name": "№4 мектеп-лицей",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7356",
+    "name": "№6 орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7886",
+    "name": "№7 орта мектебі",
+    "districtId": "121",
+    "districtName": "Байзақ",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3533",
+    "name": "Абай атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3424",
+    "name": "Айшабибі орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3297",
+    "name": "Александр Матросов атындағы негізгі мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3446",
+    "name": "Амангелді атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3283",
+    "name": "Антон Макаренко атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3394",
+    "name": "Әбдірахман Әйтиев атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3267",
+    "name": "Әзімбек Ысмайылұлы атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3435",
+    "name": "Әкім Тарази атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7784",
+    "name": "Әліш атындағы мектеп-гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3498",
+    "name": "Байгелді Кейкиев атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3461",
+    "name": "Баймырза Бесбаев атындағы мектеп-гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3293",
+    "name": "Бауыржан Момышұлы атындағы мектеп-гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3466",
+    "name": "Бейсенбек Тайшапұлы атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3486",
+    "name": "Бірлесу - Еңбек орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3477",
+    "name": "Валерий Чкалов атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3260",
+    "name": "Гродеково орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3551",
+    "name": "Еңбек орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3447",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3511",
+    "name": "Жасөркен орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3366",
+    "name": "Жұма бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3308",
+    "name": "Қалқабай Сартбаев атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3289",
+    "name": "Қапал бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3303",
+    "name": "Қоңыртөбе бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3275",
+    "name": "Қостөбе бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7210",
+    "name": "Мөлдір Балабақша-мектеп гимназия",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3238",
+    "name": "Мұхтар Әуезов атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3333",
+    "name": "Нұр Әлім балабақша-мектеп гимназия",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7492",
+    "name": "Нұр Әлім мектеп-гимназия",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3323",
+    "name": "Рахат бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7640",
+    "name": "Танта Бастауыш мектеп гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3449",
+    "name": "Төле би атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3550",
+    "name": "Төлеген Тоқтаров атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3479",
+    "name": "Тұрар Рысқұлов атындағы орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3346",
+    "name": "Шайдана бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3372",
+    "name": "Шайқорық орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3425",
+    "name": "Ыбырай Алтынсарин атындағы бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3509",
+    "name": "Юрий Гагарин атындағы мектеп-лицейі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7841",
+    "name": "Damu-Parasat мектеп-гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3430",
+    "name": "№ 1 орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3258",
+    "name": "№ 3 орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3264",
+    "name": "№2 орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3464",
+    "name": "№4 бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3409",
+    "name": "№5 бастауыш мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7192",
+    "name": "№6 мектеп-гимназиясы",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7576",
+    "name": "№7 орта мектебі",
+    "districtId": "120",
+    "districtName": "Жамбыл",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3228",
+    "name": "Ахмет Байтұрсынов атындағы №13 орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3658",
+    "name": "Әлихан Бөкейхан атындағы №15 мектеп - лицей",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3356",
+    "name": "Мағжан Жұмабаев атындағы №29 орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3380",
+    "name": "Тұрсын Әкімов атындағы № 7 орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3319",
+    "name": "Шерхан Мұртаза атындағы №1 мектеп-гимназиясы",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3377",
+    "name": "№ 2 Мыңбұлақ орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3274",
+    "name": "№ 5 Михаил Ломоносов атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3429",
+    "name": "№ 21 Дмитрий Пахомов атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3364",
+    "name": "№ 23 Алатау орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3375",
+    "name": "№ 26 Жаңаталап орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3304",
+    "name": "№ 30 Көктөбе орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3357",
+    "name": "№ 31 Ақтасты бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3311",
+    "name": "№ 33 Теріс-Ащыбұлақ бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3263",
+    "name": "№ 34 Қаратас негізгі мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3276",
+    "name": "№ 37 Ынтымақ негізгі мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3502",
+    "name": "№ 39 Жылыбұлақ бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3349",
+    "name": "№ 44 Бақалы бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3591",
+    "name": "№ 45 Тасбастау бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3538",
+    "name": "№3 Қарымбай Кошмамбетов атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3504",
+    "name": "№4 Құрманбек Сағындықов атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3407",
+    "name": "№6 А. Пушкин атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3439",
+    "name": "№8 Сүгірбай Байтіков атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3490",
+    "name": "№9 Абай атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3401",
+    "name": "№10 Күреңбел орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3395",
+    "name": "№11 Тайыр Тастандиев атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3321",
+    "name": "№12 Мұхтар Әуезов атындағы орта мектебіК",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3352",
+    "name": "№14 Бейімбет Майлин атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3286",
+    "name": "№16 Сәкен Сейфуллин атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3336",
+    "name": "№17 Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3460",
+    "name": "№18 Мәлік Ғабдуллин атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3369",
+    "name": "№19 Дінмұхамед Қонаев атындағы мектеп-гимназиясы",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3475",
+    "name": "№20 Жамбыл атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3256",
+    "name": "№22 Бауыржан Момышұлы атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3359",
+    "name": "№24 Тұрар Рысқұлов атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3351",
+    "name": "№25 Ақтөбе тірек мектебі (ресурстық орталық)",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3248",
+    "name": "№27 Диқан орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3526",
+    "name": "№28 Амангелді атындағы орта мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3259",
+    "name": "№35 Сәбит Мұқанов атындағы бастауыш мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3328",
+    "name": "№36 Шоқан Уәлиханов атындағы негізгі мектебі",
+    "districtId": "112",
+    "districtName": "Жуалы",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7510",
+    "name": "Авангард",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7271",
+    "name": "Алтын Ұя 1",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7074",
+    "name": "Асыл-Али жекеменшік мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3620",
+    "name": "Ахмет Байтұрсынұлы атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3609",
+    "name": "Әл-Фараби атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7437",
+    "name": "Әл-Фараби білім беру орталығы",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3309",
+    "name": "Әлихан Бөкейхан атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3410",
+    "name": "Әлия Молдағұлова атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7685",
+    "name": "Білім-Академия",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7261",
+    "name": "Білімді ұрпақ - 1",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7260",
+    "name": "Білімді ұрпақ - 2",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7262",
+    "name": "Білімді ұрпақ - 3",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7263",
+    "name": "Білімді ұрпақ - 4",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7187",
+    "name": "Дарынды ұрпақ мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3481",
+    "name": "Жұбан Молдағалиев атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3337",
+    "name": "Жүсіпбек Аймауытов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7534",
+    "name": "Забира -Нұрай балабақша бөбекжайы Жекеменшік бастауыш мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7679",
+    "name": "Зияткер Жекеменшік бастауыш мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3402",
+    "name": "Кенен Әзірбаев атындағы №41 орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3300",
+    "name": "Қайрат Рысқұлбеков атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3243",
+    "name": "Қаныш Сәтпаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3269",
+    "name": "Мағжан Жұмабаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3384",
+    "name": "Манаш Қозыбаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3400",
+    "name": "Мәншүк Мәметова атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3437",
+    "name": "Мұқағали Мақатаев атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3288",
+    "name": "Мұстафа Шоқай атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3590",
+    "name": "Мұхаммед Хайдар Дулати атындағы тірек орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3474",
+    "name": "Мұхтар Әуезов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3514",
+    "name": "Міржақып Дулатұлы атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7773",
+    "name": "Нұрсила Жекеменшік мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7186",
+    "name": "Оқу орталығы Шыңғыс мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3320",
+    "name": "Ораз Жандосов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3499",
+    "name": "Оралхан Бөкей атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7264",
+    "name": "Өнегелі ұрпақ",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3426",
+    "name": "Санжар Асфендияров атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3432",
+    "name": "Сәкен Сейфуллин атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3469",
+    "name": "Смағұл Садуақасұлы атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3495",
+    "name": "Спандияр Көбеев атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3600",
+    "name": "Сұлтанмахмұт Торайғыров атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3544",
+    "name": "Сырттай оқытатын орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3354",
+    "name": "Талғат Бигелдинов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7617",
+    "name": "Талғат Нусупбаев атындағы бастауыш мектеп",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3271",
+    "name": "Шәкәрім атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3280",
+    "name": "Шерхан Мұртаза атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3451",
+    "name": "Ілияс Жансүгіров атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7379",
+    "name": "AI SANAжекеменшік мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7265",
+    "name": "BILIM-DOS",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7266",
+    "name": "ISIMJAN",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7619",
+    "name": "ISIMJAN-1",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3257",
+    "name": "№ 4 Балжан Бөлтірікова атындағы мектеп-лицей",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3236",
+    "name": "№ 27 Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3335",
+    "name": "№ 34 Мәмбет Смағұлов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3611",
+    "name": "№1 Дінмұхамед Қонаев атындағы мектеп-гимназиясы",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3625",
+    "name": "№2 Михаил Ломоносов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3524",
+    "name": "№3 Абай Құнанбаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3277",
+    "name": "№7 Александр Пушкин атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3292",
+    "name": "№8 Өтеген батыр атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3344",
+    "name": "№14 Әбіл Нүсіпбаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3387",
+    "name": "№16 Михаил Лермонтов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3421",
+    "name": "№19 Бұлар батыр атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3463",
+    "name": "№23 Тұрар Рысқұлов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3491",
+    "name": "№26 Жамбыл Жабаев атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3244",
+    "name": "№28 Шоқан Уәлиханов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3313",
+    "name": "№32 Владимир Маяковский атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3341",
+    "name": "№35 Рза Кунакова атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3452",
+    "name": "№36 Нығмет Сауранбаев атындағы негізгі мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3413",
+    "name": "№42 Екейбай Қашағанов атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3423",
+    "name": "№43 Бауыржан Момышұлы атындағы орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7606",
+    "name": "№52 орта мектебі",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7434",
+    "name": "Zerdeli Bilim",
+    "districtId": "118",
+    "districtName": "Қордай",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3422",
+    "name": "48 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3235",
+    "name": "Ақкөз Қосанұлы атындағы №18 жалпы орта білім беретін тірек мектебі (ресурстық орталық)",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3438",
+    "name": "Алтын-арық бастауыш мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3434",
+    "name": "Аманжол Тұрғымбаев атындағы №7 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3642",
+    "name": "Асанбай Асқаров атындағы жалпы орта білім беретін мектеп-гимназиясы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3493",
+    "name": "Әмеди Хасенов атындағы №11 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3334",
+    "name": "Байсейіт Жылкелдин атындағы №30 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3671",
+    "name": "Жауғаш батыр атындағы №15 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7526",
+    "name": "Зерек білім беру орталығы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3575",
+    "name": "Иван Трубицын атындағы №17 жалпы орта білім беретін мектеп-гимназиясы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3582",
+    "name": "Көп балалы және аз қамтамасыз етілген отбасылардың балаларына арналған мектеп-интернаты",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3518",
+    "name": "Қабылбек Сарымолдаев атындағы №12 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3546",
+    "name": "Мақсұт Жылысбаев атындағы №14 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3532",
+    "name": "Мәншүк Мәметова атындағы №13 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3471",
+    "name": "Мұхтар Ауезов атындағы жалпы орта білім беретін мектеп-лицейі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7288",
+    "name": "Нұрай білім беру орталығы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3249",
+    "name": "Сыпатай Әлібекұлы атындағы №19 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3383",
+    "name": "Темірбек Қожакеев атындағы №39 жалпы орта білім беретін мектеп-гимназиясы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3268",
+    "name": "Тұрар Рысқұлов атындағы №20 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3651",
+    "name": "№2 Аспара жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3667",
+    "name": "№3 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3657",
+    "name": "№4 Тілеміс батыр жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3662",
+    "name": "№5 Ақарал жалпы орта білім беретін мектеп-гимназиясы",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3418",
+    "name": "№6 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3445",
+    "name": "№8 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3558",
+    "name": "№16 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3278",
+    "name": "№21 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3291",
+    "name": "№22 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3302",
+    "name": "№23 Тескентоған жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3672",
+    "name": "№25 бастауыш мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3465",
+    "name": "№26 бастауыш мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3316",
+    "name": "№28 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3497",
+    "name": "№31 бастауыш мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3389",
+    "name": "№33 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3348",
+    "name": "№34 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3358",
+    "name": "№35 жалпы білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3406",
+    "name": "№38 бастауыш мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3399",
+    "name": "№44 жалпы орта білім беретін мектебі",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7785",
+    "name": "Shabyt school",
+    "districtId": "117",
+    "districtName": "Мерке",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3470",
+    "name": "А.Байтұрсынов атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3378",
+    "name": "Абай атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3390",
+    "name": "Ағыбай батыр атындағы шағын орталықты негізгі мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3548",
+    "name": "Ақбақай негізгі мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3478",
+    "name": "Амангелді атындағы шағын орталықты орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3411",
+    "name": "Ә.Молдағұлова атындағы шағын орталықты негізгі мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3500",
+    "name": "Ә.Төлепбергенов атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3393",
+    "name": "Б. Момышұлы атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3492",
+    "name": "В.Терешкова атындағы шағын орталықты орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3247",
+    "name": "Жамбыл атындағы мектеп-гимназиясы",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3417",
+    "name": "Қ. Рысқұлбеков атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3540",
+    "name": "Қ.Қасымов атындағы шағын орталықты орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3467",
+    "name": "Қ.Сәтбаев атындағы шағын орталықты орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3459",
+    "name": "Қашқантеңіз бастауыш мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3454",
+    "name": "М. Әуезов атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3252",
+    "name": "Мағжан Жұмабаев атындағы мектеп-лицейі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3408",
+    "name": "Мыңарал орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3453",
+    "name": "О. Жандосов атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3564",
+    "name": "С.Сейфуллин атындағы шағын орталықты орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3370",
+    "name": "Т. Рысқұлов атындағы тірек мектебі (ресурстық орталық)",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3579",
+    "name": "Шығанақ орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3482",
+    "name": "Ы.Алтынсарин атындағы орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3515",
+    "name": "№1 орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3433",
+    "name": "№2 орта мектебі",
+    "districtId": "122",
+    "districtName": "Мойынқұм",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3487",
+    "name": "Абай атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3440",
+    "name": "Абылай хан атындағы мектеп-лицей",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3525",
+    "name": "Ақтоғай орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3675",
+    "name": "Арыстанды орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3622",
+    "name": "Әйтеке би атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3506",
+    "name": "Байқадам Қашқынбаев атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3527",
+    "name": "Балтабай Адамбаев атындағы тірек орта мектебі (ресурстық орталық)",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3368",
+    "name": "Донда Сенбин атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3381",
+    "name": "Досбол орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3458",
+    "name": "Дінмұхамед Қонаев атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3669",
+    "name": "Жайлаукөл ОМ",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3231",
+    "name": "Жаңаталап орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3665",
+    "name": "Жарылқасын Отарбаев атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3599",
+    "name": "Көкдала бастауыш мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3530",
+    "name": "Қызылдиқан орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3391",
+    "name": "Мұхтар Әуезов атындағы мектеп - гимназиясы",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3639",
+    "name": "Мұхтар Әуезов атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3648",
+    "name": "Сарысу орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3654",
+    "name": "Сәкен Сейфуллин атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3572",
+    "name": "Тоқтар Әубәкіров атындағы негізгі мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3631",
+    "name": "Түгіскен орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3560",
+    "name": "Үшарал негізгі мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3588",
+    "name": "Үшбас негізгі мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3545",
+    "name": "Шағалалы негізгі мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3660",
+    "name": "Шоқай датқа атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3420",
+    "name": "Шоқан Уәлиханов атындағы мектеп - гимназиясы",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3677",
+    "name": "Ыбырайым Сүлейменов атындағы орта мектебі",
+    "districtId": "115",
+    "districtName": "Сарысу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3362",
+    "name": "Абай атындағы негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3374",
+    "name": "Ақкөл орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3569",
+    "name": "Ақтөбе бастауыш мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3656",
+    "name": "Алғабас орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3371",
+    "name": "Александр Сергеевич Пушкин атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3339",
+    "name": "Амангелді атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3636",
+    "name": "Амантай Дәулетбеков атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3607",
+    "name": "Ахмет Байтұрсынұлы атындағы гимназия",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3484",
+    "name": "Әбдір Сағынтаев атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3472",
+    "name": "Барбол Тоқтықожаұлы атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3353",
+    "name": "Бозарық негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3641",
+    "name": "Бөлтірік Әлменұлы атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3503",
+    "name": "Бірлестік орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3647",
+    "name": "Дінмұхамед Ахметұлы Қонаев атындағы Ойық ауылының орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3523",
+    "name": "Дінмұхамед Ахметұлы Қонаев атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3676",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3521",
+    "name": "Жаңатұрмыс негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3322",
+    "name": "Қаратау орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3529",
+    "name": "Қарымбай Қошмамбетов атындағы негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3668",
+    "name": "Қасқабұлақ орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3628",
+    "name": "Қойгелді атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3663",
+    "name": "Мағжан Жұмабаев атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3617",
+    "name": "Мектеп-Лицейі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3559",
+    "name": "Мұхтар Әуезов атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3427",
+    "name": "Мыңатай Қыстаубайұлы атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3573",
+    "name": "Сәкен Сейфуллин атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3229",
+    "name": "Талапты орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3547",
+    "name": "Талас негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3455",
+    "name": "Шоқан Уәлиханов атындағы Бөлтірік шешен ауылының орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3512",
+    "name": "Шоқан Уәлиханов атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3442",
+    "name": "Шона Смаханұлы атындағы Сәду Шәкіров ауылының орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3561",
+    "name": "Шона Смаханұлы атындағы Сейілбек ауылының негізгі мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3405",
+    "name": "Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3254",
+    "name": "№ 1 Ферма бастауыш мектебі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3537",
+    "name": "№1 мектеп лицейі",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3643",
+    "name": "№4 Үміт арнайы мектеп - интернаты",
+    "districtId": "113",
+    "districtName": "Талас",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8101",
+    "name": "69 орта мектеп",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7472",
+    "name": "125 International school of Taraz жауапкершілігі шектеулі серіктестігі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7438",
+    "name": "125 UBT SCHOOL",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7131",
+    "name": "125EDUCATION жалпы орта білім беретін мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3345",
+    "name": "А.Гайдар атындағы № 35 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3299",
+    "name": "А.Пушкин атындағы № 41 көп салалы гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7408",
+    "name": "Абай атындағы бастауыш мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3623",
+    "name": "Абай атындағы мамандандырылған дарынды балаларға арналған қазақ тілі мен әдебиетін тереңдете оқытатын мектеп-гимназия",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7178",
+    "name": "Абылай-Сана—2003 Arai-Elite мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3376",
+    "name": "Айша бибі атындағы дарынды қыз балаларға арналған мамандандырылған БІЛІМ-ИННОВАЦИЯ лицей-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8247",
+    "name": "Амангелді атындағы орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3230",
+    "name": "Ә.Молдағұлова атындағы № 28 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3589",
+    "name": "Әлихан Бөкейханов атындағы №1 гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3397",
+    "name": "Б. Момышұлы атындағы № 45 қазақ классикалық гимназия",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3632",
+    "name": "Балалар мен жасөспірімдердің арнаулы мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7772",
+    "name": "Білім бағы мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3649",
+    "name": "Ғ.Мұратбаев атындағы № 17 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3640",
+    "name": "Д.М.Карбышев атындағы № 16 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3363",
+    "name": "Дарынды балаларға арналған мамандандырылған Дарын лицей-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7082",
+    "name": "Дарынды балаларға арналған мамандандырылған IT лицей-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3595",
+    "name": "Дарынды ер балаларға арналған мамандандырылған БІЛІМ-ИННОВАЦИЯлицей-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3616",
+    "name": "Жамбыл атындағы № 5 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7783",
+    "name": "Жамбыл облысы әкімдігінің білім басқармасы Тараз қаласының білім бөлімінің №64 орта мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3615",
+    "name": "Жамбыл облысы әкімдігінің білім басқармасының дарынды балаларға арналған мамандандырылған лицейі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3619",
+    "name": "Жамбыл облысы әкімдігінің білім басқармасының №2 Болашақ арнайы мектеп-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3272",
+    "name": "И.Панфилов атындағы № 39 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7177",
+    "name": "Келешек-Тараз мектеп - лицейі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7880",
+    "name": "Кемеңгер Ұлттық мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3555",
+    "name": "Керімбай атындағы № 12 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3592",
+    "name": "Кешкі орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7888",
+    "name": "Қазақстанның зияткерлік Samruk мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3505",
+    "name": "Қаратай Тұрысов атындағы №53 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3571",
+    "name": "М. Жұмабаев атындағы № 21 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3633",
+    "name": "М. Мәметова атындағы № 27 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3314",
+    "name": "М.Әуезов атындағы № 33 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3580",
+    "name": "М.Мақатаев атындағы № 14 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3488",
+    "name": "Нарғозы Данаев атындағы орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3343",
+    "name": "Нұрғиса Тілендиев атындағы көп балалы және аз қамсыздандырылған отбасы балаларына арналған мектеп-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7269",
+    "name": "Озат",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3655",
+    "name": "Олимпиадалық резервтің облыстық мамандандырылған мектеп-интернат-колледжі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3468",
+    "name": "Ө.Жолдасбеков атындағы № 50 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3516",
+    "name": "Сағадат Нұрмағамбетов атындағы №10 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7673",
+    "name": "Сәби-жан 2",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3501",
+    "name": "Сәби-жан мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3436",
+    "name": "Т. Рысқұлов атындағы № 48 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7223",
+    "name": "Тараз гуманитарлық-техникалық лицейі мекемесі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3650",
+    "name": "Тараз қаласындағы ФМБ НЗМ филиалы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3483",
+    "name": "Төле би атындағы № 8 гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7370",
+    "name": "Ұста-Групп Бүркітәлі орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3338",
+    "name": "Ш.Смаханұлы атындағы № 44 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3270",
+    "name": "Шерхан Мұртаза атындағы мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3448",
+    "name": "Ы.Алтынсарин атындағы №49 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3240",
+    "name": "Ы.Сүлейменов атындағы № 37 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7665",
+    "name": "Інжу 2 мектеп-гимназиясы Абылай-Сана-2003",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3543",
+    "name": "Інжу мектеп-гимназиясы Абылай-Сана-2003",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7096",
+    "name": "Эрудит мектебі балабақшасы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3245",
+    "name": "Ю. Гагарин атындағы № 29 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3584",
+    "name": "A-status мектеп-гимназиясы R-плюс",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7579",
+    "name": "ABAY Бастауыш мектеп гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7609",
+    "name": "AEC HIGH SCHOOL",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7535",
+    "name": "Ai Dyn",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7342",
+    "name": "Arai_Elite 2 мектеп-гимназиясы Абылай-Сана-2003",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7249",
+    "name": "Bolashak kids",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7603",
+    "name": "Bolashak kids 2",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7876",
+    "name": "DAMU HIGH SCHOOL",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7381",
+    "name": "Dostyq School Taraz",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7669",
+    "name": "Galam highschool",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7654",
+    "name": "Konaev smart school",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3601",
+    "name": "№ 2 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3610",
+    "name": "№ 4 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3443",
+    "name": "№ 6 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3456",
+    "name": "№ 7 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3496",
+    "name": "№ 9 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3542",
+    "name": "№ 11 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3567",
+    "name": "№ 13 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3232",
+    "name": "№ 15 мектеп-гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3557",
+    "name": "№ 20 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3581",
+    "name": "№ 22 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3593",
+    "name": "№ 23 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3605",
+    "name": "№ 24 гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3618",
+    "name": "№ 25 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3282",
+    "name": "№ 31 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3294",
+    "name": "№ 32 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3331",
+    "name": "№ 34 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3285",
+    "name": "№ 40 гимназиясы",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3312",
+    "name": "№ 42 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3325",
+    "name": "№ 43 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3412",
+    "name": "№ 46 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3416",
+    "name": "№ 47 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3327",
+    "name": "№ 52 бастауыш мектеп",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3520",
+    "name": "№ 54 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3250",
+    "name": "№ 56 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3644",
+    "name": "№ 57 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3659",
+    "name": "№ 58 бастауыш мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3587",
+    "name": "№1ӨРКЕН АРНАЙЫ МЕКТЕП-ИНТЕРНАТЫ",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3606",
+    "name": "№3 Мейірім арнайы мектеп-интернаты",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3307",
+    "name": "№3 мектеп-лицей",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3535",
+    "name": "№18 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3652",
+    "name": "№19 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7486",
+    "name": "№26 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3360",
+    "name": "№36 орта мектебi",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3251",
+    "name": "№38 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3233",
+    "name": "№55 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3415",
+    "name": "№59 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3342",
+    "name": "№60 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7573",
+    "name": "№61 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7594",
+    "name": "№62 орта мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8264",
+    "name": "№70 орта мектеп",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7154",
+    "name": "Prizma Primary Lyceum мектебі ҚЖС",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7664",
+    "name": "TARAZ HIGH SCHOOL",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7826",
+    "name": "USTUDYUBT SCHOOL",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7912",
+    "name": "Vanguard инновациялық бастауыш мектебі",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7704",
+    "name": "Zerdeli International School Taraz",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8008",
+    "name": "Zerdeli №1 12 мкрн 14 А",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8009",
+    "name": "Zerdeli №2 Абая 103",
+    "districtId": "114",
+    "districtName": "Тараз",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3290",
+    "name": "Абай атындағы шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3598",
+    "name": "Айтқұл Шынасилов атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3262",
+    "name": "Ақбұлақ орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3528",
+    "name": "Ақтоған шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3608",
+    "name": "Ақыртөбе орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3594",
+    "name": "Алғабас орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3332",
+    "name": "Ахмет Байтұрсынов атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3513",
+    "name": "Әлихан Бөкейханов атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3306",
+    "name": "Бауыржан Момышұлы атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3396",
+    "name": "Бәйтелі бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3534",
+    "name": "Болтай батыр атындағы шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3602",
+    "name": "Бірлес шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3661",
+    "name": "Ғани Мұратбаев атындағы бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3385",
+    "name": "Жалпақсаз бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3621",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3674",
+    "name": "Көкарық бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3318",
+    "name": "Қ.Сұлтанбеков атындағы шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3404",
+    "name": "Қаныш Сәтпаев атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3298",
+    "name": "Қорағаты шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3476",
+    "name": "Құлан мектеп-гимназиясы",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3241",
+    "name": "Максим Горький атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3577",
+    "name": "Малдыбай орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3373",
+    "name": "Мамай-қайыңды бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3388",
+    "name": "Мұхтар Әуезов атындағы тірек мектебі (ресурстық орталығы)",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3624",
+    "name": "Райымбек Смаилов атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3634",
+    "name": "Сөгеті бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3664",
+    "name": "Тасшолақ бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3645",
+    "name": "Тоқтар Әубакіров атындағы негізгі мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3234",
+    "name": "Тұрар Рысқұлов атындағы мектеп-лицейі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3539",
+    "name": "Шоқан Уәлиханов атындағы шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3386",
+    "name": "Шолақ-қайыңды бастауыш мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3565",
+    "name": "Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3637",
+    "name": "Юрий Гагарин атындағы негізгі мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7779",
+    "name": "№ 6 мектеп-гимназиясы",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3494",
+    "name": "№1 мектеп-лицейі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3255",
+    "name": "№2 орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3273",
+    "name": "№3 шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3305",
+    "name": "№4 шағын орталықты орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3552",
+    "name": "№5 орта мектебі",
+    "districtId": "116",
+    "districtName": "Тұрар Рысқұлов",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3578",
+    "name": "Абай атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3646",
+    "name": "Абай атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3566",
+    "name": "Алға бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3585",
+    "name": "Алға орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3596",
+    "name": "Амангелді атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3626",
+    "name": "Антон Семенович Макаренко атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3517",
+    "name": "Ахмет Байтұрсынұлы атындағы гимназиясы",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3549",
+    "name": "Әл-Фараби атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3350",
+    "name": "Әлия Молдағұлова атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3361",
+    "name": "Бауыржан Момышұлы атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7435",
+    "name": "Біржан-Нұрдәулет жауапкершілігі шектеулі серіктестігінің Жылғабек атындағы бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3570",
+    "name": "Ғани Мұратбаев атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3629",
+    "name": "Домалақ ене атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3612",
+    "name": "Дінмұхамед Қонаев атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3508",
+    "name": "Еңбек бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3635",
+    "name": "Еңбекші орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "8162",
+    "name": "Еңбекші орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3597",
+    "name": "Ермұхан Бекмаханов атындағы мектеп-гимназиясы",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3281",
+    "name": "Жайсан орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3568",
+    "name": "Жалпы білім беретін кешкі мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3666",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3419",
+    "name": "Жидели бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3630",
+    "name": "Жиенбет негізігі мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3673",
+    "name": "Жүсіп Баласағұни атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3541",
+    "name": "Жібек жолы мектеп-лицейі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3531",
+    "name": "Кенен Әзірбаев атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3554",
+    "name": "Көктөбе бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3574",
+    "name": "Қаныш Сәтпаев атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3614",
+    "name": "Мәлік Ғабдуллин атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3310",
+    "name": "Мәншүк Мәметова атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3329",
+    "name": "Мойынқұм ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3295",
+    "name": "Мұқағали Мақатаев атындағы тірек орта мектебі (Ресурстық орталық)",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3237",
+    "name": "Мұхаммед Хайдар Дулати атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3563",
+    "name": "Мұхтар Әуезов атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3638",
+    "name": "Міржақып Дулатұлы атандағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3253",
+    "name": "Ораз Жандосов атындағы шағын орталықты орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3246",
+    "name": "Саттар Естемесов атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3392",
+    "name": "Сәбит Мұқанов атындағы бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3603",
+    "name": "Сәду Шәкіров атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3583",
+    "name": "Сәкен Сейфулин атындағы ОМ",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3604",
+    "name": "Төле би атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3556",
+    "name": "Тұрар Рысқұлов атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3576",
+    "name": "Түймебай Әшімбаев атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7721",
+    "name": "Үркер-К Сарыбай Қалмырзаев атындағы бастауш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3562",
+    "name": "Шерхан Мұртаза атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3586",
+    "name": "Шоқан Уәлиханов атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3653",
+    "name": "Ыбырай Алтынсарин атындағы орта мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3536",
+    "name": "Ілияс Жансүгіров атындағы бастауыш мектебі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "7499",
+    "name": "IQ URKER SCHOOL жауапкершілігі шектеулі серіктестігі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  },
+  {
+    "id": "3613",
+    "name": "№ 40 мектеп-лицейі",
+    "districtId": "119",
+    "districtName": "Шу",
+    "provinceId": "10",
+    "provinceName": "Жамбыл"
+  }
+]

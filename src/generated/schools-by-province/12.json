@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "8160",
+    "name": "#31 мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3787",
+    "name": "21 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8161",
+    "name": "35 ЖББМ",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8180",
+    "name": "АҚБББ \" N26 ЖАЛПЫ БІЛІМ БЕРЕТІН МЕКТЕП \" КОММУНАЛДЫҚ МЕМЛЕКЕТТІК МЕКЕМЕСІ",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3988",
+    "name": "Ақтау қаласындағы ХББ НЗМ филиалы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7281",
+    "name": "Ақтау Unique Қыздар Лицей интернаты",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7610",
+    "name": "Английская школа Некрасовой , English School мектеп-гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3734",
+    "name": "Арнаулы білім беру ұйымы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7156",
+    "name": "АсметҰлас инновациялық мектеп-гимназия",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7339",
+    "name": "Ахмет Байтұрсынұлы атындағы бастауыш білім беру мектебі, Биназаровы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3871",
+    "name": "Ахмет Байтұрсынұлы атындағы №28 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7490",
+    "name": "Әл-Фараби қазақ ұлттық лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7887",
+    "name": "Батыс Инвест Груп , Aqtau International School",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3900",
+    "name": "Білім-инновация лицей-интернаты",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7180",
+    "name": "ЖАЙСАҢ БАЛА жауапкершілігі шектеулі серіктестігі, ЖАЙСАҢ БАЛА жеке бастауыш мектеп - гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7625",
+    "name": "ЖАЙСАҢ БАЛА-2 , Жайсаң бала-2 жекеменшік мектеп-гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7651",
+    "name": "Жас Қанат мектеп-лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3853",
+    "name": "Ибаш Жанболатова атындағы №15 мектеп-гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3855",
+    "name": "Исатай Сүйеубаев атындағы №8 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3843",
+    "name": "Кешкі (ауысымды) мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3914",
+    "name": "Қартбай Бекжанов атындағы №10 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3733",
+    "name": "Мамандандырылған IT лицей",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8083",
+    "name": "Маңғыстау облысы Ақтау қаласы ЖШС “Shamshyraq High School” жекеменшік мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8158",
+    "name": "Маңғыстау облысы білім басқармасының Ақтау қаласы бойынша білім бөлімінің “33 жалпы білім беретін мектеп”КММ",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3838",
+    "name": "Н.Марабаев атындағы №7 мектеп-лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7901",
+    "name": "Нұр-Орда М мектебі , Нұр-Орда М мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3795",
+    "name": "Нұртас Оңдасынов атындағы №5 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4029",
+    "name": "Облыстық арнайы мектеп-интернаты",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3773",
+    "name": "ОМ Бақыт-Актау",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7900",
+    "name": "Өркениет Ақтау , Өркен негізгі орта мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7161",
+    "name": "Өркениет Ақтау бастауыш мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3776",
+    "name": "Рамазан Қабылов атындағы №3 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7838",
+    "name": "Ренессанс Скул",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3793",
+    "name": "С.Қондыбай атындағы №22 мектеп-гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7277",
+    "name": "Төлеген Айбергенұлы атындағы №19 мектеп-гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7855",
+    "name": "Тұлпар мектеп лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3837",
+    "name": "Тұтқабай Әшімбаев атындағы № 11 лицей",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3878",
+    "name": "Түрлі пәндерді тереңдетіп оқытатын дарынды балаларға арналған облыстық мамандандырылған мектеп - интернат",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3975",
+    "name": "Фариза Оңғарсынова атындағы №29 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3994",
+    "name": "Халықаралық мектеп EtonHouse Kazakhstan",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7165",
+    "name": "ADVANTA.KZ LYCEUM",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7444",
+    "name": "ALASH LYCEUM",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7632",
+    "name": "Capital Partners Qazaqstan , META SCHOOL",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7295",
+    "name": "Daryn School-Lyceum дарынды балаларға арналған мектеп-лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7856",
+    "name": "Dostyq School Aqtau",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7840",
+    "name": "Gasyr Lyceum",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7120",
+    "name": "InteIIektUm элиталық мектеп-лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8144",
+    "name": "Intellectual school “Ulzhan”",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7871",
+    "name": "IQ Education , IQ Intellectual school гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7076",
+    "name": "IT мектеп-лицей",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7409",
+    "name": "JOO High School Aktau жауапкершілігі шектеулі серіктестігі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7443",
+    "name": "Miras Ziatkerlik mektebi",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7482",
+    "name": "NEW FORMAT.KZ , NEW FORMAT high school Aktau жекеменшік мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3967",
+    "name": "№ 14 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3840",
+    "name": "№1 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3847",
+    "name": "№2 арнайы мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3761",
+    "name": "№2 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3811",
+    "name": "№6 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3873",
+    "name": "№9 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3932",
+    "name": "№12 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3947",
+    "name": "№13 гимназиясы",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3870",
+    "name": "№16 Саламат Мұқашев атындағы жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3904",
+    "name": "№17 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8033",
+    "name": "№18 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3913",
+    "name": "№20 Мұхтар Әуезов атындағы жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3803",
+    "name": "№23 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7980",
+    "name": "№24 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7294",
+    "name": "№25 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3858",
+    "name": "№27 Өмірзақ жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7497",
+    "name": "№30 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8038",
+    "name": "№31 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8103",
+    "name": "№32 жалпы білім беретін мектеп",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8135",
+    "name": "№34 ЖАЛПЫ БІЛІМ БЕРЕТІН МЕКТЕП",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7415",
+    "name": "QAZBILIM AQTAU ұлттық лицейі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7878",
+    "name": "Samruk Digital School",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7282",
+    "name": "Samruk Ziatkerlik mektebi",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7612",
+    "name": "SANA SCHOOL-SS",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7835",
+    "name": "Sunqar School LTD бастауыш мектебі",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7660",
+    "name": "Tanym school",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8024",
+    "name": "Zerdeli Ақтау қаласы 14/76",
+    "districtId": "136",
+    "districtName": "Ақтау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3784",
+    "name": "Абай атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3790",
+    "name": "Ақжігіт жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3763",
+    "name": "Атамекен жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3777",
+    "name": "Ә.Жанкелдин атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3850",
+    "name": "Ә.Махутов атындағы мектеп-бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3892",
+    "name": "Бейнеу гимназиясы",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3732",
+    "name": "Бейнеу жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3754",
+    "name": "Бейнеу лицейі",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3788",
+    "name": "Бейнеу мектеп - интернаты",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3783",
+    "name": "Боранқұл жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8044",
+    "name": "Біләл Қалиев атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3995",
+    "name": "Есет мектеп - бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3865",
+    "name": "Жұмағали Қалдығараев атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3833",
+    "name": "Күйкен жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3815",
+    "name": "Қарақұм жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3789",
+    "name": "М.Бегенов атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3775",
+    "name": "Манашы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3832",
+    "name": "Опорный жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3804",
+    "name": "Сам жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3805",
+    "name": "Сам Мектеп - бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7820",
+    "name": "Сам мектеп - бөбекжай кешені филиалы",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4009",
+    "name": "Сыңғырлау мектеп - бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3814",
+    "name": "Тәжен Мектеп - бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3839",
+    "name": "Тұрыш мектеп - бөбекжай кешені",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3880",
+    "name": "Үстірт жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3917",
+    "name": "Ы.Алтынсарин атындағы жалпы білім беретін мектеп",
+    "districtId": "135",
+    "districtName": "Бейнеу",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8064",
+    "name": "“Зерде” негізгі орта білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3856",
+    "name": "Абай Құнанбаев атындағы № 19 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7647",
+    "name": "Ақпараттық технологиялар және шет тілдер мектебі жекеменшік мектебі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7267",
+    "name": "ДАРЫН БІЛІМ ИННОВАЦИЯЛЫҚ МЕКТЕП ГИМНАЗИЯ",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7892",
+    "name": "Дарын қыздар мектебі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7903",
+    "name": "ЖАҢА ТОЛҚЫН мектеп лицейі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3883",
+    "name": "Жаңаөзен арнайы мектебі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4037",
+    "name": "Жаңаөзен Білім-инновация лицей интернаты",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7445",
+    "name": "Зерде бастауыш мектебі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3729",
+    "name": "Каспий зияткерлік мектеп-бақша",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3872",
+    "name": "Кешкі (ауысымды) мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3968",
+    "name": "Қашаған Күржіманұлы атындағы № 8 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8147",
+    "name": "Маңғыстау облысының білім басқармасының Жаңаөзен қаласы бойынша білім бөлімінің \"№25 жалпы білім беретін мектеп\" КММ",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3911",
+    "name": "Сүгір Бегендікұлы атындағы № 4 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3802",
+    "name": "Төлесін Әлиев атындағы № 1 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7705",
+    "name": "Daryn мектеп-лицей",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3918",
+    "name": "№ 2 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3940",
+    "name": "№ 3 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3925",
+    "name": "№ 5 мектеп-гимназия",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3919",
+    "name": "№ 6 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3950",
+    "name": "№ 7 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3869",
+    "name": "№ 9 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3894",
+    "name": "№ 10 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3997",
+    "name": "№ 11 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3921",
+    "name": "№ 12 бастауыш мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3939",
+    "name": "№ 13 Дарын мектеп-лицейі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3785",
+    "name": "№ 14 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3780",
+    "name": "№ 15 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3801",
+    "name": "№ 16 бастауыш мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3821",
+    "name": "№ 17 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3842",
+    "name": "№ 18 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3874",
+    "name": "№ 20 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3899",
+    "name": "№ 21 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3823",
+    "name": "№ 22 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3844",
+    "name": "№ 23 жалпы білім беретін мектеп",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3813",
+    "name": "№ 24 мектеп-лицейі",
+    "districtId": "132",
+    "districtName": "Жаңаөзен",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3934",
+    "name": "Аққұдық негізгі мектебі",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4005",
+    "name": "Жалпы білім беретін Қарақұдық мектебі",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3867",
+    "name": "Жалпы білім беретін Құланды мектебі",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3974",
+    "name": "Жалпы білім беретін мектеп - гимназиясы",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3895",
+    "name": "Кешкі (ауысымды) мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3989",
+    "name": "Қашаған Куржіманұлы атындағы жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3765",
+    "name": "Облыстық санаторлық мектеп-интернат",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3800",
+    "name": "№ 1 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3764",
+    "name": "№ 6 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7231",
+    "name": "№ 9 бастауыш мектебі",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3849",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3730",
+    "name": "№4 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3753",
+    "name": "№5 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3774",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3866",
+    "name": "№8 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3960",
+    "name": "№10 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3901",
+    "name": "№11 жалпы білім беретін мектеп",
+    "districtId": "133",
+    "districtName": "Қарақия",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8086",
+    "name": "1 Жалпы Білім Беретін Мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3796",
+    "name": "Алшын Меңдалыұлы атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3954",
+    "name": "Асқар Өтепбергенов атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3835",
+    "name": "Ә.Жангелдин атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3862",
+    "name": "Әбіш Кекілбайұлы атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3902",
+    "name": "Бекі бастауыш мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3882",
+    "name": "Берекет Жұмалиев атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3877",
+    "name": "Боздақ бастауыш мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3928",
+    "name": "Е.Айшуақұлы атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3935",
+    "name": "Жармыш жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3809",
+    "name": "Қаратөбе жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3903",
+    "name": "Мекерия Атымов атындағы №6 жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3822",
+    "name": "Нұн Жұбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3971",
+    "name": "Өтес жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3942",
+    "name": "С.Жаңғабылов атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3898",
+    "name": "Сәду Нұрниязұлы атындағы мектеп-интернат",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3868",
+    "name": "Тобанияз атындағы жалпы білім беретін мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3845",
+    "name": "Тұрар Жалғасбайұлы атындағы жалпы білім беретін Шайыр мектебі",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3836",
+    "name": "Тұщыбек мектеп-бөбекжай кешені",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3966",
+    "name": "Шетпе гимназиясы",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3859",
+    "name": "Шетпе лицейі",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3757",
+    "name": "№ 7 мектеп-лицейі",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3916",
+    "name": "№5 бастауыш мектеп",
+    "districtId": "138",
+    "districtName": "Маңғыстау",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8155",
+    "name": "“Қыран” мектеп-гимназиясы",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8089",
+    "name": "19 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7213",
+    "name": "Бастауыш мектеп LAGER JOL BAYAN",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7446",
+    "name": "Зерек мектебі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7854",
+    "name": "Зерек-1 мектебі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3759",
+    "name": "Қызылтөбе лицейі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7702",
+    "name": "Мектеп Нұр-Орда",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7353",
+    "name": "Мерей бастауыш мектебі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3829",
+    "name": "Шоғы Мұңалұлы атындағы №5 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7396",
+    "name": "ALT мектеп-лицейі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7722",
+    "name": "Atameken school",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8068",
+    "name": "Bastau School",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7160",
+    "name": "Children Caspian",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7688",
+    "name": "GRANTHIGH school-lyceum",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7468",
+    "name": "I. Altynsarin School-Lyceumқазақ ұлттық мектеп-лицейі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7214",
+    "name": "IQ бастауыш мектебі Білімді Қазақстан",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3990",
+    "name": "№1 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3981",
+    "name": "№1 кешкі мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4007",
+    "name": "№2 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3864",
+    "name": "№3 арнайы мектебі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3794",
+    "name": "№3 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3808",
+    "name": "№4 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3848",
+    "name": "№6 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3731",
+    "name": "№7 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4016",
+    "name": "№8 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "4018",
+    "name": "№9 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3807",
+    "name": "№10 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3778",
+    "name": "№11 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3846",
+    "name": "№12 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3806",
+    "name": "№13 мектеп-гимназия",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3964",
+    "name": "№14 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7191",
+    "name": "№15 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7561",
+    "name": "№16 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8096",
+    "name": "№17 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8039",
+    "name": "№18 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8080",
+    "name": "№20 жалпы білім беру мектебі",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8095",
+    "name": "№21 жалпы білім беретін мектеп",
+    "districtId": "134",
+    "districtName": "Мұнайлы",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3961",
+    "name": "А.М.Горький атындағы мектеп-лицейі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7189",
+    "name": "Ақшұқыр мектеп-гимназиясы",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3798",
+    "name": "Ақшұқыр мектеп-лицейі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3881",
+    "name": "Ғұбайдолла Айдаров атындағы № 1 мектеп-лицейі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3944",
+    "name": "Е.Өмірбаев атындағы жалпы білім беретін мектеп",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3941",
+    "name": "Жалау Мыңбаев атындағы мектеп-гимназиясы",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3782",
+    "name": "Жалпы білім беретін Шахта мектебі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3980",
+    "name": "З.О.Баймырзаев атындағы жалпы білім беретін мектеп",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3767",
+    "name": "Маршал Әбдіхалықов атындағы мектеп-гимназиясы",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "8102",
+    "name": "Сайын Шапағатов ЖББМ",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3735",
+    "name": "Сайын Шапағатов мектеп-гимназиясы",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "3752",
+    "name": "Форт-Шевченко мектеп-лицейі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  },
+  {
+    "id": "7432",
+    "name": "Ясли-сад Ай жұлдыз , AISANA бастауыш мектебі",
+    "districtId": "137",
+    "districtName": "Түпқараған",
+    "provinceId": "12",
+    "provinceName": "Маңғыстау"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-09-27T11:10:45.366Z",
+  "processedFiles": 11,
+  "sourceRows": {
+    "provinces": 20,
+    "districts": 236,
+    "schools": 8281
+  },
+  "outputRows": {
+    "provinces": 20,
+    "districts": 231,
+    "schools": 8279
+  },
+  "removedRows": [
+    {
+      "source": "district",
+      "reason": "missing_null_or_test_value",
+      "id": "234",
+      "name": "New District"
+    },
+    {
+      "source": "district",
+      "reason": "missing_null_or_test_value",
+      "id": "233",
+      "name": "uttara"
+    },
+    {
+      "source": "school",
+      "reason": "missing_null_or_test_value",
+      "id": "8112",
+      "name": "New School"
+    },
+    {
+      "source": "school",
+      "reason": "missing_null_or_test_value",
+      "id": "8111",
+      "name": "bright star"
+    }
+  ],
+  "duplicates": [
+    {
+      "source": "district",
+      "key": "1:көкшетау",
+      "keptId": "11",
+      "removedId": "239"
+    },
+    {
+      "source": "district",
+      "key": "4:алатау",
+      "keptId": "228",
+      "removedId": "231"
+    },
+    {
+      "source": "district",
+      "key": "7:бұхаржырау",
+      "keptId": "236",
+      "removedId": "237"
+    },
+    {
+      "source": "district",
+      "key": "13:келес",
+      "keptId": "152",
+      "removedId": "229"
+    }
+  ],
+  "fallbackDistricts": [
+    {
+      "id": "fallback-4-жетісу-1vwi9nw",
+      "name": "Жетісу",
+      "provinceId": "4",
+      "provinceName": "Алматы",
+      "schoolCount": 1
+    }
+  ],
+  "unmatchedSchools": [
+    {
+      "schoolId": "8261",
+      "schoolName": "№225 жалпы білім беретін мектеп",
+      "provinceName": "Алматы",
+      "districtName": "Жетісу",
+      "reason": "district_not_found"
+    }
+  ]
+}

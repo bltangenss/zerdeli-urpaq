@@ -1,0 +1,4490 @@
+[
+  {
+    "id": "36",
+    "name": "Азат ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "187",
+    "name": "Ақкөл қаласының Жайық Бектұров атындағы № 3 жалпы орта біілім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "20",
+    "name": "Аманкелді аулының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "514",
+    "name": "Балабақша-мектеп-интернат арнайы кешені",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "116",
+    "name": "Барап аулының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "2",
+    "name": "Горький атыңдағы жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "30",
+    "name": "Жалғызқарағай ауылының Кирдищев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "478",
+    "name": "Кемеркөл ауылының бастауыш мектебіК",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "105",
+    "name": "Кеңес ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "1",
+    "name": "Кеңес Одағының Батыры П. Исаков атындағы № 1 жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "52",
+    "name": "Қараөзек ауылының Айтпай Құсайынов атындағы негізгі орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "466",
+    "name": "Қарасай ауылының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "47",
+    "name": "Қеңес Одағының Батыры, Халық Қаһарманы С. Нұрмағамбетов атындағы Еңбекжалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "476",
+    "name": "Құрылыс ауылының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "480",
+    "name": "Қына аулынын жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "475",
+    "name": "Мало-Александровка ауылының бастауыш мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "477",
+    "name": "Мичурин атындағы негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "86",
+    "name": "Наумовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "46",
+    "name": "Новорыбинка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "75",
+    "name": "Өрнекауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "484",
+    "name": "Рамадан ауылының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "439",
+    "name": "Саздыбұлақ ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "485",
+    "name": "Талқара ауылының негізгі орта мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "370",
+    "name": "Урюпинка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7914",
+    "name": "Kindergarten School",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "93",
+    "name": "№ 2 Ақкөл жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "283",
+    "name": "№4 жалпы орта білім беретін мектебі",
+    "districtId": "1",
+    "districtName": "Ақкөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "160",
+    "name": "Ақбұлақ ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "168",
+    "name": "Ақтасты ауылының бастауыш мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "516",
+    "name": "Анар станциясының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "528",
+    "name": "Арнасай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "244",
+    "name": "Аршалы кентінің бастауыш мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "482",
+    "name": "Аршалы кентінің Жұмабек Тәшенов атындағы жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "479",
+    "name": "Аршалы кентінің № 1 жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "481",
+    "name": "Аршалы кентінің № 2 жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "178",
+    "name": "Бабатай станциясының негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "188",
+    "name": "Белоярка ауылының негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "509",
+    "name": "Блял Тналин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "133",
+    "name": "Бұлақсай ауылының Абай атындағы № 2 жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "48",
+    "name": "Бұлақсай ауылының № 1 Негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "517",
+    "name": "Білім бөлімінің түзеу мекемесі жанындағы жалпы білім беретін мектеп",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "527",
+    "name": "Елтоқ ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "198",
+    "name": "Жалтыркөл ауылы Жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8",
+    "name": "Жібек жолы ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "141",
+    "name": "Жібек жолы ауылының Иманжүсіп Құтпанұлы атындағы жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7691",
+    "name": "Жібек жолы ауылының мектеп-лицейі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "529",
+    "name": "Ижевское ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "531",
+    "name": "Константинов ауылының жалпы орта білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "530",
+    "name": "Қойгелді ауылының жалпы орта білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "223",
+    "name": "Қостомар ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "534",
+    "name": "Михайловка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "208",
+    "name": "Николаевка ауылының негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "218",
+    "name": "Ольгинка ауылының негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "124",
+    "name": "Сары-Оба станциясының №1 жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "61",
+    "name": "Сарыоба ауылының № 2 жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "151",
+    "name": "Түрген ауылының жалпы білім беретін мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "235",
+    "name": "Шортанды ауылының негізгі орта мектебі",
+    "districtId": "3",
+    "districtName": "Аршалы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "462",
+    "name": "Акимовка ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "253",
+    "name": "Астрахан ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "261",
+    "name": "Астрахан ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "364",
+    "name": "Бұлақты ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "380",
+    "name": "Бірлік ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "293",
+    "name": "Жалтыр ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "461",
+    "name": "Жалтыр ауылының № 3 жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "438",
+    "name": "Жамбыл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "450",
+    "name": "Жаңа Колутон ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "487",
+    "name": "Жаңатұрмыс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "486",
+    "name": "Жарсуат ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "440",
+    "name": "Зеленое ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "497",
+    "name": "Каменка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "441",
+    "name": "Камышенка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "467",
+    "name": "Ковыленка ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "284",
+    "name": "Колутон ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "489",
+    "name": "Қаракөл ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "474",
+    "name": "Лозовое ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "308",
+    "name": "Новочеркасс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "318",
+    "name": "Оксановка ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "488",
+    "name": "Өндіріс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "386",
+    "name": "Өрнек ауылының бастауыш мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "298",
+    "name": "Первомайка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "458",
+    "name": "Петровка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "329",
+    "name": "Приишимка ауылының бастауыш мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "459",
+    "name": "Старый Колутон ауылының жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "339",
+    "name": "Степное ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "349",
+    "name": "Тобылжан ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "460",
+    "name": "Ұзынкөл ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "358",
+    "name": "Шілікті ауылының негізгі орта мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "274",
+    "name": "№ 1 жалпы орта білім беретін мектебі",
+    "districtId": "17",
+    "districtName": "Астрахан",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "88",
+    "name": "Адыр ст. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "68",
+    "name": "Ақан Құрманов а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "511",
+    "name": "Ақмола облысы білім басқармасының Атбасар қаласы, № 2 арнайы мектеп-интернаты",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "521",
+    "name": "Атбасар қ. кешкі мектебі",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "391",
+    "name": "Атбасар қ. № 1 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "400",
+    "name": "Атбасар қ. № 2 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "430",
+    "name": "Атбасар қ. № 5 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "44",
+    "name": "Атбасар қ. № 7 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "60",
+    "name": "Атбасар қ. № 8 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "408",
+    "name": "Атбасар қ. №3 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "419",
+    "name": "Атбасар қ. №4 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "437",
+    "name": "Атбасар қ. №6 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "79",
+    "name": "Бастау а. № 1 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "80",
+    "name": "Бастау а. № 2 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "85",
+    "name": "Бейіс Хазірет а. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "66",
+    "name": "Борисовка а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "67",
+    "name": "Есенкелді а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "92",
+    "name": "Магдалиновка а.",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "77",
+    "name": "Мариновка а. № 1 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "82",
+    "name": "Мариновка а. № 2 ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "87",
+    "name": "Ново-Мариновка а. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "65",
+    "name": "Новосельское а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "62",
+    "name": "Покровка а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "73",
+    "name": "Полтавка а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "83",
+    "name": "Родионовка а. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "84",
+    "name": "Садовый а. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "89",
+    "name": "Самарка а. НОМ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "74",
+    "name": "Сепе а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "64",
+    "name": "Сергеевка а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "71",
+    "name": "Сочинский а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "76",
+    "name": "Тельман а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "69",
+    "name": "Тимашевка а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "90",
+    "name": "Титовка а.",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "518",
+    "name": "Түзеу мекемелері жанындағы ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "70",
+    "name": "Шуйский а. ЖОБ",
+    "districtId": "6",
+    "districtName": "Атбасар",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "15",
+    "name": "Абылай хан атындағы Қызылағаш ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "14",
+    "name": "Ақылбай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "38",
+    "name": "Атамекен ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "34",
+    "name": "Баянбай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "33",
+    "name": "Веденовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "49",
+    "name": "Дмитриевка ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "41",
+    "name": "Есмағамбет Исмаилов атындағы Мәдениет ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "45",
+    "name": "Жаңаталап ауылының бастауыш мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "144",
+    "name": "Жасыл ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "505",
+    "name": "Жұлдыз санаторлық типтегі облыстық орта мектеп интернаты",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "17",
+    "name": "Зелёный бор ауылының мектеп-гимназиясы",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "37",
+    "name": "Златополье ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "32",
+    "name": "Кенесары ауылының Сәтпаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "42",
+    "name": "Кеңес Одағының батыры А.С.Куница атындағы Николаев ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "53",
+    "name": "Көрнекті ауылының бастауыш мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "40",
+    "name": "Кіндікқарағай ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "28",
+    "name": "Қарабұлақ ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "39",
+    "name": "Қарашілік ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "35",
+    "name": "Қатаркөл ауылының Досов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "51",
+    "name": "Қымызнай ауылының бастауыш мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "13",
+    "name": "Наурызбай батыр атындағы негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "43",
+    "name": "Обалы ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7090",
+    "name": "ОВПП Мерей мектеп-балабақша",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "12",
+    "name": "Оқжетпес ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "21",
+    "name": "П.И.Морозов атындағы № 3 жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "145",
+    "name": "Савинка ауылының негізгі орта мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "16",
+    "name": "Сәкен Сейфуллин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "50",
+    "name": "Соснов ауылының бастауыш мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "11",
+    "name": "Успеноюрьевка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "10",
+    "name": "Ұрымқай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7098",
+    "name": "Щучинск қаласының Білім-инновация IT лицей-интернаты",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "209",
+    "name": "Щучинск қаласының № 7 мектеп-лицейі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7206",
+    "name": "IQanat High School of Burabay",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "18",
+    "name": "№ 1 мектеп-гимназиясы",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "19",
+    "name": "№ 2 жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "22",
+    "name": "№ 4 жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "23",
+    "name": "№ 5 жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "24",
+    "name": "№ 6 жалпы орта білім беретін мектебі",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "25",
+    "name": "№ 8 мектеп-гимназиясы",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "26",
+    "name": "№ 9 мектеп-гимназиясы",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "27",
+    "name": "№ 10 мектеп-интернаты",
+    "districtId": "5",
+    "districtName": "Бурабай",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "101",
+    "name": "Айнакөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "212",
+    "name": "Аққайын ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "228",
+    "name": "Алакөл ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "100",
+    "name": "Алтынды ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7",
+    "name": "Байсуат ауылының бастауыш мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "94",
+    "name": "Балуан Шолақ атындағы мектеп-лицейі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "102",
+    "name": "Вознесенка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "3",
+    "name": "Воробьевка ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "103",
+    "name": "Гордеевка ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "29",
+    "name": "Жаңаталап ауылының бастауыш мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "104",
+    "name": "Журавлевка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "4",
+    "name": "Иванковка ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "106",
+    "name": "Капитоновка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "31",
+    "name": "Купчанов ауылының бастауыш мектеп-балабақшасы",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "107",
+    "name": "Қараөзек ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "522",
+    "name": "Макинск қаласының кешкі мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "95",
+    "name": "Макинск қаласының мектеп-гимназиясы",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "98",
+    "name": "Макинск қаласының мектеп–лицей",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "111",
+    "name": "Никольск ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "108",
+    "name": "Никольск ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "109",
+    "name": "Новобратск ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "5",
+    "name": "Новодонецк ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "110",
+    "name": "Отрадное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "112",
+    "name": "Партизанка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "6",
+    "name": "Тастыөзек ауылының негізгі орта мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "113",
+    "name": "Тоқтамыс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "114",
+    "name": "Шұбарағаш ауылының жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "99",
+    "name": "№ 2 жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "97",
+    "name": "№1 жалпы орта білім беретін мектебі",
+    "districtId": "2",
+    "districtName": "Бұланды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "224",
+    "name": "Абай атындағы № 2 жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "491",
+    "name": "Ақтас ауылының бастауыш мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "131",
+    "name": "Алға аулының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "227",
+    "name": "Андықожа батыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "229",
+    "name": "Аңғал батыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "245",
+    "name": "Баймырза ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "239",
+    "name": "Бұланды ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "241",
+    "name": "Бірсуат ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "238",
+    "name": "Еңбекшілдер ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "132",
+    "name": "Жөкей ауылының бастауыш мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "130",
+    "name": "Заозерный ауылының негізігі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "232",
+    "name": "Заураловка ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "233",
+    "name": "Кеңащы ауылының жалпы орта біілім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "231",
+    "name": "Краснофлот ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "134",
+    "name": "Қаратал ауылының бастауыш мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "240",
+    "name": "Қоғам ауылының Ш. Қосшығұлов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "236",
+    "name": "Құдықағаш ауылының Р. Елебаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "242",
+    "name": "Қызылұйым ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "226",
+    "name": "Макинка ауылының жалпы орта біілм беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "246",
+    "name": "Мақпал ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "234",
+    "name": "Мамай ауылының негізгі орта мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "237",
+    "name": "Сәуле ауылының Ш. Әлжанов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "222",
+    "name": "Степняк қаласының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "230",
+    "name": "Тасшалқар ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "225",
+    "name": "Үлгі ауылының жалпы орта білім беретін мектебі",
+    "districtId": "12",
+    "districtName": "Біржан сал",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "56",
+    "name": "А№2 жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "57",
+    "name": "Бауман ауылының жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "118",
+    "name": "Көркем ауылының негізгі орта мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "54",
+    "name": "Қоржынкөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "115",
+    "name": "Полтавск ауылының жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "58",
+    "name": "Спиридоновка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "490",
+    "name": "Тоғанас ауылының негізгі орта мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "117",
+    "name": "Ұзынкөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "55",
+    "name": "№1 жалпы орта білім беретін мектебі",
+    "districtId": "7",
+    "districtName": "Егіндікөл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "150",
+    "name": "Ажы ауылының негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "502",
+    "name": "Ақмырза ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "501",
+    "name": "Ақсуат ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "161",
+    "name": "Байсары ауылының бастауыш мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "154",
+    "name": "Бестоғай ауылының негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "148",
+    "name": "Бозтал ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "158",
+    "name": "Елтай ауылының негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "159",
+    "name": "Еңбек ауылының негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "219",
+    "name": "Ерейментау қаласының Бөгенбай батыр атындағы мектеп-лицейі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "217",
+    "name": "Ерейментау қаласының Насыр Смағұлов атындағы мектеп-лицейі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "216",
+    "name": "Ерейментау қаласының Төлеу Шаханов атындағы № 2 жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "215",
+    "name": "Ерейментау қаласының № 1 жалпы орта білім беретің мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "213",
+    "name": "Ерейментау қаласының № 3 жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "157",
+    "name": "Ерейментау қаласының №1 негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "498",
+    "name": "Еркіншілік ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "155",
+    "name": "Жаңажол ауылының негізгі орта мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "147",
+    "name": "Күншалған ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "220",
+    "name": "Майлан ауылының Балабек Жахин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "156",
+    "name": "Малтабар ауылының Перуаш Кәрімұлы атындағы жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "500",
+    "name": "Олжабай батыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "149",
+    "name": "Өлеңті ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "153",
+    "name": "Сілеті ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "499",
+    "name": "Тайбай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "221",
+    "name": "Торғай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "14",
+    "districtName": "Ерейментау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "119",
+    "name": "Ақсай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "202",
+    "name": "Бұзылық ауылының негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "121",
+    "name": "Двуречный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "122",
+    "name": "Жаныспай ауылының негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "123",
+    "name": "Заречный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "120",
+    "name": "Знаменка ауылының жалпы орта білім беретін мектебі к",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "200",
+    "name": "Интернациональный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "126",
+    "name": "Калачи ауылының бастауыш мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "128",
+    "name": "Ковыльный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "72",
+    "name": "Красивый ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "81",
+    "name": "Курский ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "127",
+    "name": "Қаракөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "214",
+    "name": "Құмай ауылының негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "201",
+    "name": "Московский ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "129",
+    "name": "Орловка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "146",
+    "name": "Раздольный ауылының негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "210",
+    "name": "Сайлау Серіков атындағы жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "203",
+    "name": "Свободный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "204",
+    "name": "Сұрған ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "125",
+    "name": "Ыбырай Алтынсарин атындағы негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "205",
+    "name": "Юбилейный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "211",
+    "name": "Ярославка ауылының негізгі орта мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "206",
+    "name": "№ 1 жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "207",
+    "name": "№ 2 жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "59",
+    "name": "№ 3 жалпы орта білім беретін мектебі",
+    "districtId": "8",
+    "districtName": "Есіл",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "186",
+    "name": "Алғабас ауылының негізгі орта мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "142",
+    "name": "Белағаш ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "182",
+    "name": "Беловодское ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "137",
+    "name": "Ешім ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "139",
+    "name": "Жақсы ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "135",
+    "name": "Жақсы ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "138",
+    "name": "Жаңа Қима ауылының Ғұбайдолла Әбдірахманов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "136",
+    "name": "Запорожье ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "184",
+    "name": "Калининское ауылының негізгі орта мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "532",
+    "name": "Киевское ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "301",
+    "name": "Кировское ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "303",
+    "name": "Қима ауылының Қабдеш Шардағұлұлы Өскенбаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "300",
+    "name": "Лозовое ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "185",
+    "name": "Моховое ауылының негізгі орта мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "140",
+    "name": "Новокиенка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "181",
+    "name": "Перекатное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "183",
+    "name": "Подгорное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "299",
+    "name": "Тарасовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "143",
+    "name": "Терісаққан ауылының негізгі орта мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "302",
+    "name": "Чапаевское ауылының жалпы орта білім беретін мектебі",
+    "districtId": "13",
+    "districtName": "Жақсы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "199",
+    "name": "Абай атындағы жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "167",
+    "name": "Ақпан Үкібаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "162",
+    "name": "Бірсуат ауылының жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "190",
+    "name": "Гастелло ауылының жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "193",
+    "name": "Далабай ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "525",
+    "name": "Державин қаласының кешкі мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "171",
+    "name": "Зерноград ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "192",
+    "name": "Кең ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "195",
+    "name": "Құмсуат ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "170",
+    "name": "Львов ауылының бастауыш мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "166",
+    "name": "Надежда Крупская атындағы жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "165",
+    "name": "Николай Островский атындағы жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "197",
+    "name": "Октябрьдің 50 жылдығы атындағы жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "194",
+    "name": "Отрадный ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "196",
+    "name": "Пятигор ауылының жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "191",
+    "name": "Тасөткел ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "163",
+    "name": "Тассуат ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "164",
+    "name": "Тасты-Талды ауылының жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "189",
+    "name": "Уәлиханов ауылының жалпы орта білім беретін мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "169",
+    "name": "Үшқарасу ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "172",
+    "name": "Шөйындыкөл ауылының негізгі орта мектебі",
+    "districtId": "15",
+    "districtName": "Жарқайың",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "346",
+    "name": "Азат ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "174",
+    "name": "Айдабол ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "347",
+    "name": "Айдарлы ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "177",
+    "name": "Ақадыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "175",
+    "name": "Ақан ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "176",
+    "name": "Ақкөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "179",
+    "name": "Алексеевка кентінің №1 жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "492",
+    "name": "Алексеевка кентінің №2 жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "322",
+    "name": "Баратай ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "338",
+    "name": "Бәйтерек ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "323",
+    "name": "Бірлестік ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "348",
+    "name": "Васильковка ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "324",
+    "name": "Викторовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "350",
+    "name": "Гранитный кентінің негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "351",
+    "name": "Дөңгілағаш ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "325",
+    "name": "Еленовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "180",
+    "name": "Елікті ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "495",
+    "name": "Ескенежал ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "363",
+    "name": "Жаңаауыл ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "353",
+    "name": "Жолдыбай ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "352",
+    "name": "Жылымды ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "354",
+    "name": "Заречное ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "328",
+    "name": "Зеренді ауылының Мәлік Ғабдуллин атындағы мектеп-гимназиясы",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "326",
+    "name": "Зеренді ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "327",
+    "name": "Зеренді ауылының №2 жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "365",
+    "name": "Ивановка ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "331",
+    "name": "Игілік ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "330",
+    "name": "Исаковка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "357",
+    "name": "Кеңөткел ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "256",
+    "name": "Красиловка ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "355",
+    "name": "Красный Кордон ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "361",
+    "name": "Кіші Түкті ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "359",
+    "name": "Қазақстан бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "259",
+    "name": "Қарағай ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "366",
+    "name": "Қараөзек ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "494",
+    "name": "Қарауыл Қанай би ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "367",
+    "name": "Қарсақ ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "173",
+    "name": "Қонысбай ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "356",
+    "name": "Қостомар ауылының бастауш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "360",
+    "name": "Қызылегіс ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "333",
+    "name": "Қызылсая ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "332",
+    "name": "Қызылтаң ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "496",
+    "name": "Мәлік Ғабдуллин ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "335",
+    "name": "Молодежное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "336",
+    "name": "Ортағаш ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "337",
+    "name": "Ортақ ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "341",
+    "name": "Өзен ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "334",
+    "name": "Өркен ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "257",
+    "name": "Павловка ауылының бастауыш мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "340",
+    "name": "Приречное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "342",
+    "name": "Садовое ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "343",
+    "name": "Сейфуллин ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "344",
+    "name": "Симферополь ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "345",
+    "name": "Троицкое ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "519",
+    "name": "Түзеу мекемелері жанындағы жалпы білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "362",
+    "name": "Уголки ауылының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "258",
+    "name": "Чаглинка станциясының негізгі орта мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "493",
+    "name": "Шағалалы ауылының жалпы орта білім беретін мектебі",
+    "districtId": "16",
+    "districtName": "Зеренді",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "384",
+    "name": "Абай атындағы (қазақ тілінде оқытылатын) дарынды балаларға арналған №3 облыстық мамандандырылған мектеп-интернаты",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7484",
+    "name": "Алатау School",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "383",
+    "name": "Білім-инновация лицей-интернаты",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "510",
+    "name": "Көкшетау қаласы, № 1 арнайы мектеп-интернаты",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "513",
+    "name": "Көкшетау қаласы, № 4 арнайы мектеп-интернаты",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "515",
+    "name": "Көкшетау қаласындағы ФМБ НЗМ",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "264",
+    "name": "Көкшетау қаласының әл-Фарабиатындағы IT лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "423",
+    "name": "Көкшетау қаласының Сәкен Жүнісов атындағы № 18 мектеп - лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "444",
+    "name": "Көкшетау қаласының техникалық лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "406",
+    "name": "Көкшетау қаласының № 1 мектеп-гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "407",
+    "name": "Көкшетау қаласының № 2 мектеп-лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "410",
+    "name": "Көкшетау қаласының № 4 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "411",
+    "name": "Көкшетау қаласының № 5 көппрофильді Таңдау гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "412",
+    "name": "Көкшетау қаласының № 6 мектеп-лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "413",
+    "name": "Көкшетау қаласының № 7 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "414",
+    "name": "Көкшетау қаласының № 8 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7639",
+    "name": "Көкшетау қаласының № 9 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "415",
+    "name": "Көкшетау қаласының № 10 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "416",
+    "name": "Көкшетау қаласының № 11 мектеп-гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "417",
+    "name": "Көкшетау қаласының № 12 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "418",
+    "name": "Көкшетау қаласының № 13 ЭКОС мектеп-гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "420",
+    "name": "Көкшетау қаласының № 14 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "445",
+    "name": "Көкшетау қаласының № 15 негізгі орта мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "421",
+    "name": "Көкшетау қаласының № 16 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "422",
+    "name": "Көкшетау қаласының № 17 мектеп-гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "424",
+    "name": "Көкшетау қаласының № 19 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "425",
+    "name": "Көкшетау қаласының № 21 мектеп-лицейі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "96",
+    "name": "Көкшетау қаласының № 22 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "426",
+    "name": "Красный Яр ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "442",
+    "name": "Красный Яр ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "443",
+    "name": "Красный Яр ауылының № 3 көпсалалы мектеп-гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "409",
+    "name": "М.Ғабдуллин атындағы №3 көпсалалы гимназиясы",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8241",
+    "name": "Техническая школа лицей",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7286",
+    "name": "Advanced Junior school жеке мектебі",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7166",
+    "name": "Mega intellectual жеке меншік мектебі Көкшетау қ.",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8243",
+    "name": "№ 20 мектеп-гимназия",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8242",
+    "name": "№ 20 мектеп-гимназия",
+    "districtId": "11",
+    "districtName": "Көкшетау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "263",
+    "name": "Ақтан Төлеубаев атындағы жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "266",
+    "name": "Амангелді ауылының жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "287",
+    "name": "Арықты ауылының жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "288",
+    "name": "Жантеке ауылының жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "286",
+    "name": "Кеңбидайық ауылының жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "260",
+    "name": "Қорғалжын ауылының мектеп-гимназиясы",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "294",
+    "name": "Майшұқыр ауылының негізгі орта мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "295",
+    "name": "Садырбай ауылының бастауыш мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "291",
+    "name": "Ұялы ауылының негізгі орта мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "265",
+    "name": "Үсенов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "292",
+    "name": "Үшсарт ауылының негізгі орта мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "290",
+    "name": "Ш.Уәлиханов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "289",
+    "name": "Шалқар ауылының жалпы орта білім беретін мектебі",
+    "districtId": "18",
+    "districtName": "Қорғалжын",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "504",
+    "name": "Ақмола облысы білім басқармасының Астана қаласының №2 Дарын облыстық мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7650",
+    "name": "Қосшы қаласының мектеп-гимназиясы",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7453",
+    "name": "Қосшы қаласының IT мектеп-лицейі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7727",
+    "name": "Қосшы қаласының № 3 жалпы орта білім беретін мектебі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "78",
+    "name": "Қосшы қаласының №2 жалпы орта білім беретін мектебі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "314",
+    "name": "Рақымжан Қошқарбай атындағы №1жалпы орта білім беретін мектебі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "251",
+    "name": "Тайтөбе ауылының жалпы орта білім беретін мектебі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7885",
+    "name": "№ 4 жалпы орта білім беретін мектебі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7135",
+    "name": "Silk-Road corporation Бизнес Академия Дара мектеп-лицейі",
+    "districtId": "9",
+    "districtName": "Қосшы",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "296",
+    "name": "Балкашин ауылының № 1 жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "262",
+    "name": "Балкашин ауылының № 2 жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "297",
+    "name": "Барақпай ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "267",
+    "name": "Белгород ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "279",
+    "name": "Богородка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "281",
+    "name": "Васильевка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "268",
+    "name": "Веселое ауылының Социалистік Еңбек Ері, Байдалы Уразалин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "285",
+    "name": "Владимировка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "385",
+    "name": "Дорогинка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "280",
+    "name": "Жыланды ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "269",
+    "name": "Каменка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "271",
+    "name": "Красная поляна ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "270",
+    "name": "Қызыл-Қазақстан ауылының Нұрғабыл Малғаждаров атындағы негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "273",
+    "name": "Лесное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "275",
+    "name": "Максимовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "272",
+    "name": "Мәдениет ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "388",
+    "name": "Михайловка ауылының бастауыш мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "276",
+    "name": "Новоникольск ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "387",
+    "name": "Новоромановка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "304",
+    "name": "Петриковка ауылының бастауыш мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "282",
+    "name": "Петровка ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "369",
+    "name": "Приозёрное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "305",
+    "name": "Раздольное ауылының бастауыш мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "277",
+    "name": "Сандықтау ауылының жалпы орта білім беретін мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "278",
+    "name": "Спасское ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "503",
+    "name": "Ұлан ауылының негізгі орта мектебі",
+    "districtId": "19",
+    "districtName": "Сандықтау",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "448",
+    "name": "А.С.Пушкин атындағы №3 көпсалалы мектеп- лицейі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "452",
+    "name": "Абай Құнанбаев атындағы №6 мектеп-гимназиясы",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "381",
+    "name": "Ақсу кентінің негізгі мектебі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "376",
+    "name": "Ақсу кентінің № 2 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "375",
+    "name": "Ақсу кентінің №1 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "447",
+    "name": "Ахмет Байтұрсынұлы атындағы № 2 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "63",
+    "name": "Байқоныс ауылының жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "382",
+    "name": "Бестөбе кентінің негізгі мектебі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "456",
+    "name": "Бестөбе кентінің № 1 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "457",
+    "name": "Бестөбе кентінің № 2 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "526",
+    "name": "Бөгенбай батыр атындағы облыстық олимпиадалық резервтің мамандандырылған мектеп-интернат-колледжі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "379",
+    "name": "В.Комаров атындағы Шаңтөбе кентінің жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "378",
+    "name": "Заводской кентінің жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "152",
+    "name": "Изобильный ауылының жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "455",
+    "name": "Қаныш Сәтпаев атындағы № 9 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "377",
+    "name": "Қарабұлақ селолық жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "9",
+    "name": "Қырық құдық ауылының жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "449",
+    "name": "Л.Н.Толстой атындағы №4 гимназия-мектебі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "451",
+    "name": "С.Сейфуллин атындағы № 5 көпсалалы мектеп-лицей",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "483",
+    "name": "Степногорск қ. № 4 Болашақ облыстық мамандандырылған мектеп-лицей-интернаты",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "512",
+    "name": "Степногорск қаласы, №3 арнайы мектеп-интернаты",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "524",
+    "name": "Степногорск қаласының кешкі мектебі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "520",
+    "name": "Түзеу мекемелері жанындағы жалпы орта білім бететін мектебі",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "454",
+    "name": "Ш. Уалиханов атындағы № 8 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "446",
+    "name": "Ыбрай Алтынсарин атындағы № 1 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "453",
+    "name": "Ю.А.Гагарин атындағы № 7 жалпы орта бiлiм беретін мектебi",
+    "districtId": "4",
+    "districtName": "Степногор",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "472",
+    "name": "Аққайың ауылының бастауыш мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "313",
+    "name": "Ақмешіт ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "307",
+    "name": "Ақмол ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8246",
+    "name": "Ақмол ауылының мектеп-гимназиясы",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "310",
+    "name": "Арайлы ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "470",
+    "name": "Бірлік ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "317",
+    "name": "Жалғызқұдық ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "374",
+    "name": "Жаңа Жайнақ ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "368",
+    "name": "Жаңаесіл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "248",
+    "name": "Жаңажол ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "319",
+    "name": "Жарлыкөл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "371",
+    "name": "Қабанбай батыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "247",
+    "name": "Қажымұқан ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "468",
+    "name": "Қаражар ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8060",
+    "name": "Қаражар ауылының мектеп-лицейі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "249",
+    "name": "Қараменді батыр ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "91",
+    "name": "Қараөткел ауылының мектеп -гимназиясы",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7930",
+    "name": "Қараөткел ауылының IT мектеп-лицейі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "309",
+    "name": "Қараөткел ауылының №1 жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "250",
+    "name": "Қосшоқы станциясының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8026",
+    "name": "Қоянды ауылының мектеп-лицейі коммуналдық мемлекеттік мекемесі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "252",
+    "name": "Қоянды ауылының №1 жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7235",
+    "name": "Қоянды ауылының №2 жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "473",
+    "name": "Қызылжар ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "464",
+    "name": "Қызылсуат ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "320",
+    "name": "Мәншүк ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "255",
+    "name": "Мортық ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "373",
+    "name": "Нұресіл ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "254",
+    "name": "Опан ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "321",
+    "name": "Оразақ ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "471",
+    "name": "Отаутүскен ауылының бастауыш мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7723",
+    "name": "Өтеміс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "316",
+    "name": "Приречное ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "427",
+    "name": "Раздольное ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "372",
+    "name": "Рақымжан Қошқарбаев ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "508",
+    "name": "Родина ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "465",
+    "name": "Сарыкөл ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "533",
+    "name": "Светоч балалар үйінің жанындағы орта мектеп ЖМ",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "315",
+    "name": "Софиевка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8124",
+    "name": "Тайтөбе ауылының жалпы орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "306",
+    "name": "Талапкер ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7909",
+    "name": "Талапкер ауылының мектеп-гимназиясы",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "7910",
+    "name": "Талапкер ауылының IT мектеп-лицейі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "469",
+    "name": "Тастақ станциясының бастауыш мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "506",
+    "name": "Тасты ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "312",
+    "name": "Төңкеріс ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "507",
+    "name": "Шалқар ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "463",
+    "name": "Шұбар ауылының негізгі орта мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "243",
+    "name": "Ыбырай Алтынсарин ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "311",
+    "name": "Ынтымақ ауылының жалпы орта білім беретін мектебі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "8071",
+    "name": "№3 мектеп-лицейі",
+    "districtId": "10",
+    "districtName": "Целиноград",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "436",
+    "name": "Андреевка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "435",
+    "name": "Бектау ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "404",
+    "name": "Белое Озеро ауылының негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "390",
+    "name": "Бозайғыр ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "401",
+    "name": "Гуляй Поле ауылының негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "396",
+    "name": "Дамса ауылының В.П. Кузьмин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "432",
+    "name": "Жолымбет кентінің №1 жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "433",
+    "name": "Жолымбет кентінің №2 жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "398",
+    "name": "Ключи ауылының негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "399",
+    "name": "Қара-Адыр бекетінің негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "405",
+    "name": "Мықтыкөл ауылының негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "389",
+    "name": "Научный кентінің жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "523",
+    "name": "Научный кентінің кешкі мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "434",
+    "name": "Новокубанка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "393",
+    "name": "Новоселовка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "403",
+    "name": "Октябрьский ауылының негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "394",
+    "name": "Петровка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "392",
+    "name": "Пригородный ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "395",
+    "name": "Раевка ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "397",
+    "name": "Степной ауылының жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "402",
+    "name": "Төңкеріс бекетінің негізгі орта мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "428",
+    "name": "Шортанды кентінің №1 жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "429",
+    "name": "Шортанды кентінің №2 жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  },
+  {
+    "id": "431",
+    "name": "Шортанды кентінің №3 жалпы орта білім беретін мектебі",
+    "districtId": "20",
+    "districtName": "Шортанды",
+    "provinceId": "1",
+    "provinceName": "Ақмола"
+  }
+]

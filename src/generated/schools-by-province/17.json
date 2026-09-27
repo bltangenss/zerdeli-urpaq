@@ -1,0 +1,2850 @@
+[
+  {
+    "id": "5827",
+    "name": "Абай атындағы мамандандырылған мектеп-гимназия интернаты",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6651",
+    "name": "Ж.Молдағалиев атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7220",
+    "name": "Жалпы орта білім беретін мектеп",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6644",
+    "name": "ЖББ Қарауыл гимназиясы",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5935",
+    "name": "ЖББ Ш.Абенов атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5857",
+    "name": "Көкбай атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5958",
+    "name": "М.Әуезов атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5901",
+    "name": "Мамай атындағы НОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5578",
+    "name": "Медеу орта мектебі",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5716",
+    "name": "С.Бекбосынов атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5869",
+    "name": "Ш.Тоқжігітов атындағы ОМ",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6647",
+    "name": "Шәкерім атындағы орта мектебі",
+    "districtId": "187",
+    "districtName": "Абай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6293",
+    "name": "Аққала бастауыш мектебі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6619",
+    "name": "Би Боранбай атындағы орта мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6611",
+    "name": "Ғ.Мұратбаев атындағы орта мектебі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5659",
+    "name": "К. Нұрбаев атындағы Ақсуат ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6569",
+    "name": "Көктүбек мектеп-бөбекжай-балабақша кешені",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6597",
+    "name": "Қ. Сәтбаев атындағы Жәнтікей ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6495",
+    "name": "Қожагелді батыр атындағы ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6251",
+    "name": "Қызыл Жұлдыз бастауыш мектебі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6570",
+    "name": "М.Әуезов атындағы Көкжыра ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6533",
+    "name": "Өкпеті ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6578",
+    "name": "С.Сейфуллин атындағы ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6526",
+    "name": "Сасан би атындағы орта мектебі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6218",
+    "name": "Сұлутал",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6549",
+    "name": "Тана мырза ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6512",
+    "name": "Тоғас батыр атындағы ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6660",
+    "name": "Толағай мектеп-балабақша кешені (мектеп)",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6276",
+    "name": "Ш. Жүнісқұлов атындағы",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6554",
+    "name": "Ы.Кабеков атындағы орта мектебі",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6538",
+    "name": "Ю.Гагарин атындағы ОМ",
+    "districtId": "196",
+    "districtName": "Ақсуат",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5647",
+    "name": "А.Көшкімбаева атындағы ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7305",
+    "name": "А.Шах не қарасты Айым мектеп-балабашасы",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5674",
+    "name": "Ақтоғай ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6576",
+    "name": "Ақши ЖББОМ жанындағы интернатпен",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6617",
+    "name": "Аягөз аудандық білім бөлімінің Айғыз ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6620",
+    "name": "Аягөз қалалық № 9 бастауыш аралас мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6019",
+    "name": "Б. Майлин атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6602",
+    "name": "Горный ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6022",
+    "name": "Дулат Бабатайұлы атындағы жалпы білім беретін орта мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6610",
+    "name": "Е.Рахмадиев атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6183",
+    "name": "Ж. Жабаев атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6574",
+    "name": "К.Бозтаев атындағы қазақ мектеп-гимназиясы",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6210",
+    "name": "К.Кадыржанов атындағы Қызылқия ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6296",
+    "name": "Кенколат Ф4шағын комплектілі бастауыш мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6160",
+    "name": "Қалалық көпсалалы қазақ мектеп-гимназиясы",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6558",
+    "name": "Қалалық қазақ мектеп-лицейі",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5579",
+    "name": "М.Әбеулов атындағы ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5961",
+    "name": "Малтүгел шағын комплектілі бастауыш мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6547",
+    "name": "Мектеп жанындағы интернаты бар жалпы орта білім беретін №6 мектебі",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5808",
+    "name": "Мыңбұлақ ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6582",
+    "name": "Оспанқұл Меңаяқұлы атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5994",
+    "name": "С.Ғаббасов атындағы жалпы білім беретін орта мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6544",
+    "name": "С.Нұғыманов атындағы жалпы орта білім беретін мектебі",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6279",
+    "name": "С.Сейфуллин атындағы жалпы білім беретін орта мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6256",
+    "name": "Сары-Арқа ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5626",
+    "name": "Сергиополь ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5828",
+    "name": "Т. Көбдіков атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5885",
+    "name": "Т.Есімжанов атындағы ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6228",
+    "name": "Тарбағатай ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6562",
+    "name": "Ш.Уалиханов атындағы жалпы білім беретін орта мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5738",
+    "name": "Шынқожа батыр атындағы ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5765",
+    "name": "№ 8 жалпы орта білім беретін мектебі",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5640",
+    "name": "№1 Ақшәулі ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6654",
+    "name": "№1 ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6511",
+    "name": "№3 жалпы орта білім беретін аралас мектеп",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6524",
+    "name": "№4 аралас ЖОБ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6535",
+    "name": "№5 ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6559",
+    "name": "№7 ЖББОМ",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6653",
+    "name": "№10 қазақ мектеп-гимназиясы",
+    "districtId": "188",
+    "districtName": "Аягөз",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8254",
+    "name": "Жарбұлақ орта мектебі",
+    "districtId": "227",
+    "districtName": "Бесқарағай",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6509",
+    "name": "Абай атындағы НОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6666",
+    "name": "Андроновка",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6668",
+    "name": "Ауыл",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6571",
+    "name": "Әлихан Бөкейхан атындағы қазақ ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6529",
+    "name": "Белағаш ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6028",
+    "name": "Боровлянка НОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6452",
+    "name": "Буркотов ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6446",
+    "name": "Жезкент кентінің мектеп-лицейі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6466",
+    "name": "Жезкент ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6437",
+    "name": "Жерновка орта мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6584",
+    "name": "Зубаир ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6429",
+    "name": "Ивановка ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6346",
+    "name": "Камышенка ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6403",
+    "name": "Комаров ат. ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6392",
+    "name": "Коростели ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6324",
+    "name": "Краснопол ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6548",
+    "name": "Красный Яр ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6387",
+    "name": "М.Әуезов атындағы ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6470",
+    "name": "Михайличенково ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6411",
+    "name": "Н. Островский атындағы орта мектеп",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6603",
+    "name": "Новопокровка орта мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6669",
+    "name": "Орловка бастауыш мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6376",
+    "name": "Переменовка ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6423",
+    "name": "Песчанка орта мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6497",
+    "name": "Пролетарка орта мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6614",
+    "name": "Сахновка негізгі орта мектебі",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6615",
+    "name": "Т. Аманов атындағы ОМ Қ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6514",
+    "name": "Уба-Форпост ОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6590",
+    "name": "Успенка НОМ",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6572",
+    "name": "Шелеховка орта мектебi",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6543",
+    "name": "Ыбырай Алтынсарин атындағы орта мектеп",
+    "districtId": "206",
+    "districtName": "Бородулиха",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8213",
+    "name": "Жаңасемей ауданы білім бөлімінің \"Абыралы жалпы негізгі білім беретін мектебі\" КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8204",
+    "name": "Жаңасемей ауданы білім бөлімінің «А. Ибраев атындағы жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8205",
+    "name": "Жаңасемей ауданы білім бөлімінің «Ақбұлақ жалпы негізгі білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8211",
+    "name": "Жаңасемей ауданы білім бөлімінің «Бөкенші жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8203",
+    "name": "Жаңасемей ауданы білім бөлімінің «Бұлақ жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8198",
+    "name": "Жаңасемей ауданы білім бөлімінің «Быхин атындағы жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8200",
+    "name": "Жаңасемей ауданы білім бөлімінің «Біржан Исадилов атындағы жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8197",
+    "name": "Жаңасемей ауданы білім бөлімінің «Жарқын жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8212",
+    "name": "Жаңасемей ауданы білім бөлімінің «Знаменка жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8206",
+    "name": "Жаңасемей ауданы білім бөлімінің «Озерки жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8210",
+    "name": "Жаңасемей ауданы білім бөлімінің «Приречное жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8199",
+    "name": "Жаңасемей ауданы білім бөлімінің «С. Бегалин атындағы жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8202",
+    "name": "Жаңасемей ауданы білім бөлімінің «Талица жалпы негізгі білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8201",
+    "name": "Жаңасемей ауданы білім бөлімінің «Түрксіб жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8196",
+    "name": "Жаңасемей ауданы білім бөлімінің «Шаған кентінің № 24 жалпы негізгі білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8208",
+    "name": "Жаңасемей ауданы білім бөлімінің «Шақаман жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8207",
+    "name": "Жаңасемей ауданы білім бөлімінің «Шүлбі жалпы орта білім беретін мектебі» КММ",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8230",
+    "name": "КГУ \"Абралинская основная общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8223",
+    "name": "КГУ \"Акбулакская основная общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8221",
+    "name": "КГУ \"Булакская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8215",
+    "name": "КГУ \"Жаркынская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8229",
+    "name": "КГУ \"Знаменская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8224",
+    "name": "КГУ \"Озерская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8214",
+    "name": "КГУ \"Основная общеобразовательная школа № 24 поселка Чаган\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8227",
+    "name": "КГУ \"Приреченская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8222",
+    "name": "КГУ \"Средняя общеобразовательная школа имени А.Ибраева\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8218",
+    "name": "КГУ \"Средняя общеобразовательная школа имени Биржана Исадилова\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8216",
+    "name": "КГУ \"Средняя общеобразовательная школа имени Быхина\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8217",
+    "name": "КГУ \"Средняя общеобразовательная школа имени С.Бегалина\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8220",
+    "name": "КГУ \"Талицкая основная общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8219",
+    "name": "КГУ \"Турксибская средняя общеобразовательная школа\" отдела образования городу Семей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8226",
+    "name": "КГУ \"Чекоманская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8225",
+    "name": "КГУ \"Шульбинская средняя общеобразовательная школа\" отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8228",
+    "name": "КГУ «Букенчинская средняя общеобразовательная школа» отдела образования района Жанасемей управления образования области Абай",
+    "districtId": "225",
+    "districtName": "Жаңасемей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5846",
+    "name": "Абай атындағы көпсалалы мектеп - гимназия",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6413",
+    "name": "Абай атындағы мектеп-балабақша кешені",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5912",
+    "name": "Ақтайлақ би атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5727",
+    "name": "Арқалық негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5956",
+    "name": "Аршалы негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5984",
+    "name": "Әди Шәріпов атындағы негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5641",
+    "name": "Б.Тұрсынов атындағы ОМ",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6422",
+    "name": "Бақыршық орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5826",
+    "name": "Балықтыкөл негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5980",
+    "name": "Бірлік орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6662",
+    "name": "Васильковка негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6012",
+    "name": "Георгиевка орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6085",
+    "name": "Дүйсенбі Қалматайұлы атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6053",
+    "name": "Жамбыл атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5749",
+    "name": "Жаңғызтөбе орта мектеп-балабақшакешені",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6300",
+    "name": "К. Шакенов атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5758",
+    "name": "Көшек негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6154",
+    "name": "ҚажыкелдІ атындағы негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6667",
+    "name": "Қаражал негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6127",
+    "name": "Қарасу орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5686",
+    "name": "Қоңырбиік негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5919",
+    "name": "Малай негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6238",
+    "name": "Маяковский атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6209",
+    "name": "Мүтән Аймақов атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6172",
+    "name": "Н.Крупская атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6057",
+    "name": "Новотаубинка бастауыш мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6426",
+    "name": "П.Г. Карелин атындағы ом",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5809",
+    "name": "П.Теряев атындағы №17 орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6607",
+    "name": "Подхоз бастауыш мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5788",
+    "name": "С.Әлімбетов атындағы НМ",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5863",
+    "name": "Салқынтөбе негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5777",
+    "name": "Суықбұлақ орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5580",
+    "name": "Т.Көбдіков атындағы орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6329",
+    "name": "Т.Хасенұлы атындағы ОМ",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5965",
+    "name": "Ұзынжал негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6021",
+    "name": "Шар негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6267",
+    "name": "Шоқан Уәлиханов атындағы негізгі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5880",
+    "name": "№ 236 орта мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6020",
+    "name": "№21 Кешкі мектебі",
+    "districtId": "189",
+    "districtName": "Жарма",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6404",
+    "name": "А.С. Пушкин атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6532",
+    "name": "Абай атындағы мектеп-балабақша кешені",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5859",
+    "name": "Абай облысының ерекше режимде ұстайтын арнайы мектеп-интернаты",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6364",
+    "name": "Амангелды атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6131",
+    "name": "Әуезов атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6383",
+    "name": "Биғаш негізгі мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6380",
+    "name": "Воздвиженка шағын жинақты мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6314",
+    "name": "Ж.Шайжүнісов атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6658",
+    "name": "Көкжайық орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6465",
+    "name": "Көкпекті орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6341",
+    "name": "Куйбышев атындағы негізгі мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6061",
+    "name": "Қ.Аухадиев атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6507",
+    "name": "Преображенка орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6229",
+    "name": "Романовка негізгі мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6102",
+    "name": "Үлкенбөкен орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5644",
+    "name": "Үшкөмей бастауыш шағын жинақты мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5635",
+    "name": "Шәріптоғай негізгі мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6333",
+    "name": "І.Жансүгіров атындағы орта мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5625",
+    "name": "Ю.Гагарин атындағы бастауыш мектебі",
+    "districtId": "194",
+    "districtName": "Көкпекті",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5685",
+    "name": "№ 2 ЖББОМ",
+    "districtId": "198",
+    "districtName": "Курчатов",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5718",
+    "name": "№1 ЖББОМ",
+    "districtId": "198",
+    "districtName": "Курчатов",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5740",
+    "name": "№3 орта мектебі",
+    "districtId": "198",
+    "districtName": "Курчатов",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6671",
+    "name": "№4 ЖББОМ",
+    "districtId": "198",
+    "districtName": "Курчатов",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6070",
+    "name": "\"Жарбұлақ орта мектебі\" КММ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6180",
+    "name": "Ахмет Байтұрсынұлы ат ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5806",
+    "name": "Б.Жүнісов атындағы ОМ-бақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6321",
+    "name": "Б.Майлин атындағы орта мектеп-бақша",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6264",
+    "name": "Башкөл негізгі мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6291",
+    "name": "Беген ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6099",
+    "name": "Бейсембай Сахариев атындағы Бақты орта мектеп-бақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6417",
+    "name": "Белокаменка НМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5967",
+    "name": "Бозтал негізгі мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6600",
+    "name": "Борас орта мектеп-бақша",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6318",
+    "name": "Бөдене ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6101",
+    "name": "Бұғыбай НМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6395",
+    "name": "Габдуллин атындағы НМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6201",
+    "name": "Глуховка ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6335",
+    "name": "Долон негізгі мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6432",
+    "name": "Жыланды негізгі мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6350",
+    "name": "Канонерка ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5938",
+    "name": "Көктал орта мектеп-бақша",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5971",
+    "name": "Көктерек орта мектеп-бақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6348",
+    "name": "Кривинка НМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6235",
+    "name": "Қайрат Рысқұлбеков атындағы ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6278",
+    "name": "Қайынды ОМБ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6399",
+    "name": "Қара-Мырза НМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6292",
+    "name": "Қарабұлақ орта мектеп-бақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6323",
+    "name": "Қарабұта ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6367",
+    "name": "Қаратұма орта мектеп-балабақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6373",
+    "name": "Қоянбай ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6542",
+    "name": "Қызылбұлақ орта мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6343",
+    "name": "Мақаншы ОМ-бақша",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6389",
+    "name": "Малая Владимировка ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8256",
+    "name": "Мостик ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6120",
+    "name": "Н. Баймұратов атындағы ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6361",
+    "name": "Найманбай атындағы ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6001",
+    "name": "Өндіріс ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5628",
+    "name": "Сейфуллин атындағы ОМ-бақшасы",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6032",
+    "name": "Семеновка ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6169",
+    "name": "Семияр орта мектебі",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5574",
+    "name": "Сосновка ОМ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6192",
+    "name": "Тұрағұл Қоңыр атындағы ОМБ",
+    "districtId": "183",
+    "districtName": "Мақаншы",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6391",
+    "name": "А.Ибраев атындағы ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6322",
+    "name": "Абай облысы ББ Ерекше білім беру қажеттілігі бар балаларды қолдау орталығы",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5957",
+    "name": "Абай облысы білім басқармасының № 4 арнайы мектеп-интернаты",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5999",
+    "name": "Абай облысы білім басқармасының №3 арнайы мектеп-интернаты",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6334",
+    "name": "Абыралы жалпы негізгі білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6420",
+    "name": "Аймауытов атынд. ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6347",
+    "name": "Акбұлақ ЖНББ мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6650",
+    "name": "Ахмет Байтұрсынұлы атындағы №47 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5878",
+    "name": "Әлихан Бөкейхан атындағы №39 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5739",
+    "name": "Бауыржан Момышұлы атындағы № 34 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6356",
+    "name": "Бөкенші жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6270",
+    "name": "Бұлақ ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5717",
+    "name": "Быхин атындағы ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6473",
+    "name": "Біржан Исадилов атындағы ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5750",
+    "name": "Дарынды балаларға арналған Ш.Уәлиханов ат. Жас Ұлан арнайы ерлер мектеп-лицей-интернаты",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6369",
+    "name": "Жарқын ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6375",
+    "name": "Знаменка ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7387",
+    "name": "Қазақстан инновациялық академиясының жоғары колледжі жанындағы мектеп",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5719",
+    "name": "Қайрат Рысқұлбеков атындағы № 33 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6468",
+    "name": "Қаныш Сәтпаев атындағы №2 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5577",
+    "name": "Лингвистикалық Семей мектеп-гимназиясы",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6449",
+    "name": "Мектеп жанындағы интернаты бар № 42 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6444",
+    "name": "Мектеп-бақша №14",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6456",
+    "name": "Н.Г.Чернышевский атындағы №1 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6484",
+    "name": "Озерки ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6455",
+    "name": "Приречное ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6309",
+    "name": "С. Бегалин атындағы жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6506",
+    "name": "Семей қаласындағы облыстық дарынды балаларға арналған БІЛІМ-ИННОВАЦИЯ лицейі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6295",
+    "name": "Семей қаласындағы ФМБ НЗМ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6385",
+    "name": "Талица жалпы негізгі білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5584",
+    "name": "Түзету мекемесі жанындағы №2 ЖБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6496",
+    "name": "Түрксіб ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5877",
+    "name": "Шаған кентінің № 24 негізгі жалпы білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6245",
+    "name": "Шақаман ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5633",
+    "name": "Шәкәрім атындағы көпбейінді № 5 гимназиясы",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7546",
+    "name": "Шәкәрім атындағы университеті КеАҚ жанындағы Shakarim High School мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6657",
+    "name": "Шүлбі жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6406",
+    "name": "Шүлбі ЖОББ эстетикалық білім және тәрбие беру мектеп-кешені",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5829",
+    "name": "Ыбырай Алтынсарин атындағы №37 гимназиясы",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6655",
+    "name": "Экономикалық лицей",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7731",
+    "name": "Abai IT School",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7390",
+    "name": "INNOVERSE SEMEY жауапкершілігі шектеулі серіктестігі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6478",
+    "name": "№ 3 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6233",
+    "name": "№ 6 арнайы мектеп-интернаты",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6539",
+    "name": "№ 9 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5793",
+    "name": "№ 21 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5822",
+    "name": "№ 22 жалпы орта білім беретін мектеп- лицейі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5844",
+    "name": "№ 23 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6573",
+    "name": "№ 27 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5792",
+    "name": "№ 36 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5932",
+    "name": "№ 40 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7511",
+    "name": "№ 45 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7560",
+    "name": "№ 46 жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8028",
+    "name": "№ 50 жалпы орта білім беретін ІТ-мектеп-лицейі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6490",
+    "name": "№4 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6052",
+    "name": "№5 арнайы мектеп-интернаты",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6476",
+    "name": "№6 гимназия",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6510",
+    "name": "№7 ЖОБ-лицейі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6525",
+    "name": "№8 ЖББОМ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6553",
+    "name": "№10 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6566",
+    "name": "№11 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6586",
+    "name": "№12 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6598",
+    "name": "№13 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5583",
+    "name": "№15 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5630",
+    "name": "№16 Төлеубай Аманов атындағы ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5656",
+    "name": "№17 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5699",
+    "name": "№18 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5729",
+    "name": "№19 жалпы орта білім беретін мектеп",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5757",
+    "name": "№20 ЖОББДОМ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6540",
+    "name": "№25 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6556",
+    "name": "№26 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6593",
+    "name": "№28 ЖОБ Қ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5585",
+    "name": "№29 Пальмира жалпы орта білім беретін мектебі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5627",
+    "name": "№30 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5649",
+    "name": "№31 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5688",
+    "name": "№32 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5756",
+    "name": "№35 жалпы орта білім беретін мектеп",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5848",
+    "name": "№38 ЖОБ-лицейі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5964",
+    "name": "№41 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6648",
+    "name": "№43 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5657",
+    "name": "№44 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6431",
+    "name": "№48 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6670",
+    "name": "№49 ЖОБ",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8178",
+    "name": "№51 жалпы білім беретін мектеп",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "7775",
+    "name": "ZEREK SEMEY жауапкершілігі шектеулі серіктестігі",
+    "districtId": "186",
+    "districtName": "Семей",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6130",
+    "name": "Абай ат. ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5838",
+    "name": "Абай облысы білім басқармасының Үржар ауданы білім бөлімінің Кішкенетау орта мектеп-бақшасы коммуналдық мемлекеттік мекемесі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6060",
+    "name": "Абай облысы білім басқармасының Үржар ауданы білім бөлімінің Теректi негізгі мектебі коммуналдық мемлекеттік мекемесі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6038",
+    "name": "Абылай хан атындағы орта мектеп- балабақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6211",
+    "name": "Ақтанберді атындағы ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6379",
+    "name": "Алтынсарин атындағы ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6155",
+    "name": "Алтыншоқы ОМ-бақшасы -сі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6024",
+    "name": "Әуезов атындағы орта мектебі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6214",
+    "name": "Б.Момышұлы атындағы ОМ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6226",
+    "name": "Б.Тұрлыханов атындағы ОМ-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6056",
+    "name": "Барқытбел орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6128",
+    "name": "Батпақты негізгі мектеп - бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6040",
+    "name": "Егінсу ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6225",
+    "name": "Ер Қабанбай ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6134",
+    "name": "Жанай орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6157",
+    "name": "Жансүгіров атындағы орта мектебі -сі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6203",
+    "name": "Жүзағаш орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "8146",
+    "name": "КММ Дарынды балаларға арналған Ш.Уалиханов атындағы арнайы ерлерге арналған мектеп -лицей-интернаты",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5860",
+    "name": "Көкөзек ом-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6017",
+    "name": "Көлденең орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6091",
+    "name": "Қ.Игенбайұлы атындағы ОМ-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5711",
+    "name": "Қ.Төлеубеков атындағы ОМ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6252",
+    "name": "Қазымбет ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6352",
+    "name": "Қарабұйрат ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6345",
+    "name": "Қарақол ОМБ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6272",
+    "name": "Лайбұлақ ОМ-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6135",
+    "name": "Мектеп жанындағы интернаты бар Мешітбай Хасенов атындағы Бестерек орта мектеп - бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6377",
+    "name": "Науалы орта мектебі",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6394",
+    "name": "Некрасовка орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5576",
+    "name": "Сағат ОМ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6315",
+    "name": "Тасарық НМ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "5654",
+    "name": "Тасбұлақ орта мектеп-бақша",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6257",
+    "name": "Тұрсабеков ат ОМБ",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  },
+  {
+    "id": "6285",
+    "name": "Ш.Уәлиханов атындағы орта мектеп-бақшасы",
+    "districtId": "185",
+    "districtName": "Үржар",
+    "provinceId": "17",
+    "provinceName": "Абай"
+  }
+]
